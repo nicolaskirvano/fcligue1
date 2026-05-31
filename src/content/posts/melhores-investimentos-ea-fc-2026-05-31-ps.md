@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:17.000Z
+pubDatetime: 2026-05-31T19:34:01.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -38,6 +38,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Adrien Thomasson | 85 | Ligue 1 McDonald's | 23k coins | +9.4% | +16.2% | 23% |
 | Abedi Pelé | 90 | Ligue 1 McDonald's | 125k coins | +39.7% | +9.6% | 68% |
 | Nabil Bentaleb | 86 | Ligue 1 McDonald's | 20k coins | +12.3% | +7.9% | 95% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 54k coins | +2.8% | +6.9% | 63% |
 | Sidney Govou | 87 | Ligue 1 McDonald's | 68k coins | +2.2% | +5.4% | 5% |
 
 

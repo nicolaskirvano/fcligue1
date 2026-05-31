@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:17.000Z
+pubDatetime: 2026-05-31T19:34:01.000Z
 title: "Ligue 1 no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 300k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 34 cartas em alta contra 89 em queda (média -4.26%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 32 cartas em alta contra 91 em queda (média -4.41%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **34 subiram** e **89 caíram**, com variação média de **-4.26%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **32 subiram** e **91 caíram**, com variação média de **-4.41%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Abedi Pelé (90) **+39.7%** · 🔴 **Maior baixa:** David Ginola (90) **-42%**
 
@@ -38,12 +38,12 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Ruben Kluivert | 86 | Ligue 1 McDonald's | 25k coins | +25% | 0% |
 | Lukáš Hrádecký | 85 | Ligue 1 McDonald's | 26k coins | +22.1% | +4% |
 | Paul Pogba | 89 | Ligue 1 McDonald's | 1.60M coins | +18.5% | +23.1% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 55k coins | +17% | +1.8% |
 | Ethan Nwaneri | 91 | Ligue 1 McDonald's | 57k coins | +16.9% | +32.6% |
 | Tyler Morton | 88 | Ligue 1 McDonald's | 34k coins | +14.2% | -22.2% |
 | Abedi Pelé | 89 | Ligue 1 McDonald's | 20k coins | +12.7% | -2.4% |
 | Nabil Bentaleb | 86 | Ligue 1 McDonald's | 20k coins | +12.3% | +7.9% |
 | Jordan Teze | 87 | Ligue 1 McDonald's | 22k coins | +11.5% | +17.6% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 189k coins | +11.2% | +89% |
 
 
 ### Análise das altas
@@ -129,7 +129,7 @@ David Ginola (90), -42% em 24h, a 2.96M coins.
 Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 300k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 34 cartas em alta contra 89 em queda (média -4.26%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 32 cartas em alta contra 91 em queda (média -4.41%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

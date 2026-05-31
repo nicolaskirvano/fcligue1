@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:17.000Z
+pubDatetime: 2026-05-31T19:34:01.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,28 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +5.2% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | +4.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | +5% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -1.9% |
 | Roman Yaremchuk | 89 | ST | Ligue 1 McDonald's | 14k coins | -11.1% |
 | Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 12k coins | -11.1% |
 | Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | -10.5% |
+| Khvicha Kvaratskhelia | 87 | LW | Ligue 1 McDonald's | 2k coins | +20% |
 | Igor Paixão | 87 | LM | Ligue 1 McDonald's | 12k coins | -69.1% |
 | Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 12k coins | -16.1% |
 | Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 12k coins | -14.3% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 15k coins | 0% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 4k coins | +5.9% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.2% |
 | Pavel Šulc | 86 | ST | Ligue 1 McDonald's | 12k coins | -70.7% |
+| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 12k coins | -58% |
 | Denis Zakaria | 86 | CB | Ligue 1 McDonald's | 12k coins | -17.5% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 12k coins | -61.8% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **6k coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **6k coins**
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
