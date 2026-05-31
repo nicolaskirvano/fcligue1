@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:34:02.000Z
+pubDatetime: 2026-05-31T21:27:34.000Z
 title: "Ligue 1 no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Pierre-Emile Højbjerg (85), -41.4% em 24h, a 109k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 43 cartas em alta contra 53 em queda (média 1.36%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 42 cartas em alta contra 53 em queda (média 1.38%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **43 subiram** e **53 caíram**, com variação média de **1.36%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **42 subiram** e **53 caíram**, com variação média de **1.38%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Lukáš Hrádecký (85) **+46.7%** · 🔴 **Maior baixa:** Pierre-Emile Højbjerg (85) **-41.4%**
 
@@ -35,13 +35,13 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Lukáš Hrádecký | 85 | Ligue 1 McDonald's | 34k coins | +46.7% | -13.5% |
 | Désiré Doué | 91 | Ligue 1 McDonald's | 600k coins | +46.3% | +42.5% |
 | João Neves | 86 | Ligue 1 McDonald's | 165k coins | +42.2% | +47.3% |
-| David Ginola | 89 | Ligue 1 McDonald's | 700k coins | +33.6% | +52.8% |
 | Marquinhos | 88 | Ligue 1 McDonald's | 62k coins | +33% | +23.6% |
+| David Ginola | 89 | Ligue 1 McDonald's | 693k coins | +32.2% | +65.4% |
 | Bradley Barcola | 90 | Ligue 1 McDonald's | 253k coins | +23.4% | +15% |
 | Abedi Pelé | 90 | Ligue 1 McDonald's | 268k coins | +19.6% | +14.5% |
 | Olivier Giroud | 89 | Ligue 1 McDonald's | 27k coins | +17.4% | +17.4% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 46k coins | +15.6% | +17.1% |
 | Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 26k coins | +15.6% | -11.1% |
+| Vitinha | 95 | Ligue 1 McDonald's | 1.20M coins | +15.5% | -7% |
 
 
 ### Análise das altas
@@ -92,11 +92,13 @@ Lukáš Hrádecký (85, Ligue 1 McDonald's), com +46.7% em 24h, a 34k coins no P
 Pierre-Emile Højbjerg (85), -41.4% em 24h, a 109k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 43 cartas em alta contra 53 em queda (média 1.36%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 42 cartas em alta contra 53 em queda (média 1.38%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

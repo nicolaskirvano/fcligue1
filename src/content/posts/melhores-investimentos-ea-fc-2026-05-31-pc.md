@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:34:02.000Z
+pubDatetime: 2026-05-31T21:27:34.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -34,9 +34,8 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Marquinhos | 88 | Ligue 1 McDonald's | 62k coins | +33% | +23.6% | 72% |
 | Jordan Teze | 87 | Ligue 1 McDonald's | 32k coins | +10.3% | +23.1% | 48% |
 | Olivier Giroud | 89 | Ligue 1 McDonald's | 27k coins | +17.4% | +17.4% | 71% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 46k coins | +15.6% | +17.1% | 26% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 44k coins | +5.4% | +13.6% | 26% |
 | Hamari Traoré | 87 | Ligue 1 McDonald's | 22k coins | +2.4% | +13.2% | 56% |
-| Abedi Pelé | 89 | Ligue 1 McDonald's | 15k coins | +13.2% | +5.3% | 64% |
 
 
 ## 📈 Análise dos destaques
@@ -47,7 +46,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Olivier Giroud (89)** — 27k coins, **+17.4% em 7 dias** (+17.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ousmane Dembélé (90)** — 46k coins, **+17.1% em 7 dias** (+15.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ousmane Dembélé (90)** — 44k coins, **+13.6% em 7 dias** (+5.4% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Hamari Traoré (87)** — 22k coins, **+13.2% em 7 dias** (+2.4% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
@@ -75,6 +74,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

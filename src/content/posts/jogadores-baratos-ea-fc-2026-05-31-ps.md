@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:34:01.000Z
+pubDatetime: 2026-05-31T21:27:34.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | +5% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -1.9% |
-| Roman Yaremchuk | 89 | ST | Ligue 1 McDonald's | 14k coins | -11.1% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 12k coins | -11.1% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | +7.4% |
 | Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | -10.5% |
 | Khvicha Kvaratskhelia | 87 | LW | Ligue 1 McDonald's | 2k coins | +20% |
-| Igor Paixão | 87 | LM | Ligue 1 McDonald's | 12k coins | -69.1% |
-| Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 12k coins | -16.1% |
+| Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 12k coins | -17.9% |
+| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 12k coins | -16.1% |
+| Igor Paixão | 87 | LM | Ligue 1 McDonald's | 12k coins | -16.1% |
 | Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 12k coins | -14.3% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 15k coins | 0% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -8.3% |
+| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -63.3% |
+| Jonathan Ikoné | 86 | RM | Ligue 1 McDonald's | 11k coins | -72.2% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.2% |
-| Pavel Šulc | 86 | ST | Ligue 1 McDonald's | 12k coins | -70.7% |
-| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 12k coins | -58% |
-| Denis Zakaria | 86 | CB | Ligue 1 McDonald's | 12k coins | -17.5% |
+| Denis Zakaria | 86 | CB | Ligue 1 McDonald's | 11k coins | -21% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Roman Yaremchuk (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 
