@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:35.000Z
+pubDatetime: 2026-05-31T22:34:02.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | 0% |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 9k coins | +29% |
 | Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 13k coins | -8.8% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | +3.6% |
+| Roman Yaremchuk | 89 | ST | Ligue 1 McDonald's | 15k coins | +1.7% |
+| Alidu Seidu | 88 | CB | Ligue 1 McDonald's | 13k coins | -33.3% |
 | Marquinhos | 87 | CB | Ligue 1 McDonald's | 3k coins | +12.5% |
-| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -73.4% |
-| Igor Paixão | 87 | LM | Ligue 1 McDonald's | 12k coins | -70.3% |
-| Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 12k coins | -5.9% |
-| Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 12k coins | -2% |
+| Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 11k coins | -13.7% |
+| Igor Paixão | 87 | LM | Ligue 1 McDonald's | 11k coins | -11.8% |
+| Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 12k coins | -6.1% |
+| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 12k coins | -14.3% |
 | Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | -15.8% |
 | Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +5% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
 | Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -8.5% |
-| João Neves | 86 | CDM | Ligue 1 McDonald's | 12k coins | -69.9% |
-| Denis Zakaria | 86 | CB | Ligue 1 McDonald's | 12k coins | 0% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
+| Benjamin Pavard | 86 | CB | Ligue 1 McDonald's | 11k coins | -71.4% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Roman Yaremchuk (89, ST)** da Ligue 1 McDonald's, a apenas **15k coins**
 
-- **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **3k coins**
+- **Alidu Seidu (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

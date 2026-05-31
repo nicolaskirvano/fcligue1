@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:33.000Z
+pubDatetime: 2026-05-31T22:34:01.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -40,6 +40,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 20k coins | +2.6% | +15.9% | 16% |
 | Mark McKenzie | 89 | Ligue 1 McDonald's | 23k coins | +2.2% | +15% | 5% |
 | Adrien Thomasson | 85 | Ligue 1 McDonald's | 22k coins | +12.7% | +11.2% | 23% |
+| Abedi Pelé | 89 | Ligue 1 McDonald's | 23k coins | +28.2% | +11% | 33% |
 | Benjamin Pavard | 88 | Ligue 1 McDonald's | 17k coins | +11.3% | +9.5% | 5% |
 | Willian Pacho | 90 | Ligue 1 McDonald's | 225k coins | +27.8% | +7.1% | 33% |
 | Ousmane Dembélé | 90 | Ligue 1 McDonald's | 54k coins | +2.8% | +6.9% | 63% |

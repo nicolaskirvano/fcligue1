@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:34.000Z
+pubDatetime: 2026-05-31T22:34:01.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,9 +31,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | +5% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -1.9% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -3.8% |
 | Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | +7.4% |
-| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | -10.5% |
+| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | +5.6% |
 | Khvicha Kvaratskhelia | 87 | LW | Ligue 1 McDonald's | 2k coins | +20% |
 | Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 12k coins | -17.9% |
 | Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 12k coins | -16.1% |
@@ -42,7 +42,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -8.3% |
 | Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -63.3% |
 | Jonathan Ikoné | 86 | RM | Ligue 1 McDonald's | 11k coins | -72.2% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.2% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
 | Denis Zakaria | 86 | CB | Ligue 1 McDonald's | 11k coins | -21% |
 
 
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **6k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
 - **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **2k coins**
 
 
 ## Por que estas cartas?
