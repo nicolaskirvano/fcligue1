@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:34:02.000Z
+pubDatetime: 2026-06-01T13:34:02.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 01/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (01/06/2026)?"
-    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 6k coins no PC."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 7k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 6k coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 7k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | -12.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | +14.8% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 15k coins | -38.5% |
-| Roman Yaremchuk | 89 | ST | Ligue 1 McDonald's | 15k coins | +1.7% |
-| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | -12% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | +16.4% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | +1.4% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | -40.7% |
+| Roman Yaremchuk | 89 | ST | Ligue 1 McDonald's | 14k coins | -10.8% |
+| Khvicha Kvaratskhelia | 87 | LW | Ligue 1 McDonald's | 3k coins | +10.7% |
+| Igor Paixão | 87 | LM | Ligue 1 McDonald's | 11k coins | -13.7% |
 | Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 11k coins | -13.7% |
-| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -17% |
-| Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 11k coins | -8.2% |
-| Igor Paixão | 87 | LM | Ligue 1 McDonald's | 11k coins | -11.8% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +50% |
-| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -71.3% |
+| Arsène Kouassi | 87 | LB | Ligue 1 McDonald's | 11k coins | -10.2% |
+| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -12% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | +86.7% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Pavel Šulc | 86 | ST | Ligue 1 McDonald's | 11k coins | -75.3% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | 0% |
-| Mahdi Camara | 86 | CM | Ligue 1 McDonald's | 11k coins | -74.1% |
+| Jonathan Ikoné | 86 | RM | Ligue 1 McDonald's | 11k coins | -64.2% |
+| Pavel Šulc | 86 | ST | Ligue 1 McDonald's | 11k coins | -73.1% |
+| João Neves | 86 | CDM | Ligue 1 McDonald's | 11k coins | -63.6% |
+| Mahdi Camara | 86 | CM | Ligue 1 McDonald's | 11k coins | -73.8% |
 
 
 ## 📈 Destaques
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **7k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins**
 
-- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roman Yaremchuk (89, ST)** da Ligue 1 McDonald's, a apenas **15k coins**
+- **Roman Yaremchuk (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Khvicha Kvaratskhelia (87, LW)** da Ligue 1 McDonald's, a apenas **3k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (01/06/2026)?**  
-Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 6k coins no PC.
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 7k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

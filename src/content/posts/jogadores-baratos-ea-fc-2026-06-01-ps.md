@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:34:01.000Z
+pubDatetime: 2026-06-01T13:34:01.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
