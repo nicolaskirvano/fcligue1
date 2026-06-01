@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:34:01.000Z
+pubDatetime: 2026-06-01T01:34:01.000Z
 title: "Ligue 1 no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Vitinha (91), -45.6% em 24h, a 588k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Olivier Giroud (89) — 95% de probabilidade de alta, a 21k coins."
+    a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 321k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 35 cartas em alta contra 83 em queda (média -0.46%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 38 cartas em alta contra 81 em queda (média -0.3%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **35 subiram** e **83 caíram**, com variação média de **-0.46%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **38 subiram** e **81 caíram**, com variação média de **-0.3%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Endrick (86) **+55.3%** · 🔴 **Maior baixa:** Vitinha (91) **-45.6%**
 
@@ -37,8 +37,8 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Endrick | 86 | Ligue 1 McDonald's | 59k coins | +55.3% | -68.1% |
 | Valentín Barco | 81 | Ligue 1 McDonald's | 29k coins | +46.2% | -2.5% |
 | Bradley Barcola | 90 | Ligue 1 McDonald's | 215k coins | +33.5% | +90.3% |
-| Abedi Pelé | 89 | Ligue 1 McDonald's | 23k coins | +28.2% | +11% |
 | Willian Pacho | 90 | Ligue 1 McDonald's | 225k coins | +27.8% | +7.1% |
+| Abedi Pelé | 89 | Ligue 1 McDonald's | 23k coins | +27.8% | +27.8% |
 | João Neves | 88 | Ligue 1 McDonald's | 167k coins | +25.6% | +46.5% |
 | Marquinhos | 88 | Ligue 1 McDonald's | 81k coins | +24.6% | +24.6% |
 | Nuno Mendes | 97 | Ligue 1 McDonald's | 4.60M coins | +18% | +3% |
@@ -65,10 +65,10 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Emersonn | 80 | Ligue 1 McDonald's | 37k coins | -22.1% | +19.4% |
 | Vitinha | 90 | Ligue 1 McDonald's | 220k coins | -18.2% | -42.3% |
 | Florian Sotoca | 85 | Ligue 1 McDonald's | 26k coins | -17.7% | -10.5% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 370k coins | -17.6% | -14% |
 | Mamadou Sangaré | 87 | Ligue 1 McDonald's | 23k coins | -17% | -21.2% |
 | Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 1.35M coins | -15.7% | +47.9% |
 | David Ginola | 90 | Ligue 1 McDonald's | 3.39M coins | -15.2% | -0.3% |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 28k coins | -14.5% | -13.8% |
 
 
 ### Análise das baixas
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Olivier Giroud | 89 | 21k coins | 27k coins | 95% |
+| Bradley Barcola | 87 | 321k coins | 432k coins | 95% |
 | Roman Yaremchuk | 89 | 16k coins | 21k coins | 95% |
 | Félix Correia | 89 | 21k coins | 24k coins | 95% |
+| Olivier Giroud | 89 | 21k coins | 27k coins | 95% |
 | João Neves | 88 | 167k coins | 192k coins | 95% |
-| Bradley Barcola | 87 | 321k coins | 432k coins | 95% |
 | Denis Zakaria | 85 | 26k coins | 29k coins | 84% |
 | Abedi Pelé | 91 | 116k coins | 127k coins | 80% |
-| Gerónimo Rulli | 87 | 75k coins | 80k coins | 74% |
+| Blaise Matuidi | 87 | 370k coins | 396k coins | 74% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Sidney Govou | 87 | 61k coins | -29.1% |
+| Blaise Matuidi | 86 | 140k coins | -29% |
+| Sidney Govou | 87 | 64k coins | -29.1% |
 | Samson Baidoo | 85 | 54k coins | -23.8% |
 | Timothy Weah | 85 | 26k coins | -29.1% |
 | Tanguy Ndombele | 85 | 28k coins | -15.5% |
 | Florian Sotoca | 85 | 26k coins | -24.1% |
 | Benjamin Pavard | 88 | 17k coins | -29.2% |
 | Eric Dier | 86 | 16k coins | -21.3% |
-| Jordan Teze | 87 | 16k coins | -24% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -126,10 +126,10 @@ Endrick (86, Ligue 1 McDonald's), com +55.3% em 24h, a 59k coins no Console (PS)
 Vitinha (91), -45.6% em 24h, a 588k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Olivier Giroud (89) — 95% de probabilidade de alta, a 21k coins.
+Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 321k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 35 cartas em alta contra 83 em queda (média -0.46%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 38 cartas em alta contra 81 em queda (média -0.3%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
