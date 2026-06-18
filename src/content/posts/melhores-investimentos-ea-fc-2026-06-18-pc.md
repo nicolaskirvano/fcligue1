@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:31:11.000Z
+pubDatetime: 2026-06-18T19:34:19.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
