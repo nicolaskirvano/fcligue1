@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:34:17.000Z
+pubDatetime: 2026-06-18T20:17:46.000Z
 title: "Ligue 1 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,88 +13,79 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Désiré Doué (87, Ligue 1 McDonald's), com +50.4% em 24h, a 195k coins no PC."
+    a: "Eric Dier (86, Ligue 1 McDonald's), com +42.9% em 24h, a 30k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ismaëlo Ganiou (84), -42.5% em 24h, a 34k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 39 cartas em alta contra 46 em queda (média 0.43%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
+    a: "Ismaëlo Ganiou (84), -43.8% em 24h, a 34k coins."
+  - q: "Como está o mercado do EA FC hoje?"
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 39 cartas em alta contra 50 em queda (média -0.67%)."
+  - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **39 subiram** e **46 caíram**, com variação média de **0.43%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado da Ligue 1 opera em um cenário lateral e sem direção clara hoje, com uma leve tendência de queda refletida na média de -0,67% nas últimas 24 horas. Entre as movimentações registradas, observamos 39 altas contra 50 quedas, indicando um ambiente de cautela onde os traders precisam ser seletivos. A volatilidade está concentrada em cards específicos da promoção Ligue 1 McDonald's, exigindo análise individual para evitar prejuízos.
 
-> 🟢 **Maior alta:** Désiré Doué (87) **+50.4%** · 🔴 **Maior baixa:** Ismaëlo Ganiou (84) **-42.5%**
+> 🟢 **Maior alta:** Eric Dier (86) **+42.9%** · 🔴 **Maior baixa:** Ismaëlo Ganiou (84) **-43.8%**
 
-## 🟢 Maiores altas (24h)
+## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 195k coins | +50.4% | +1% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 170k coins | +34.5% | +33.3% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 35k coins | +30.2% | +27.8% |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 291k coins | +29.3% | +21% |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 20k coins | +28.6% | -11% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 34k coins | +26% | +73.9% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 30k coins | +42.9% | +74.6% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 165k coins | +38.7% | +37.5% |
+| Estéban Lepaul | 83 | Ligue 1 McDonald's | 52k coins | +31.2% | +31.2% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 185k coins | +30% | -1.5% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 289k coins | +29.3% | +21% |
 | Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 215k coins | +25.7% | -10.4% |
 | Mamadou Sangaré | 87 | Ligue 1 McDonald's | 33k coins | +24.5% | -2.2% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 52k coins | +23.4% | +16% |
 | Abedi Pelé | 91 | Ligue 1 McDonald's | 185k coins | +20% | +56.5% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 885k coins | +14.9% | +14.9% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 130k coins | +14.9% | -27.5% |
 
 
-### Análise das altas
-
-- **Désiré Doué (87)** subiu **+50.4%** em 24h, a **195k coins** (faixa do dia: 145k–200k). Está +12% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Willian Pacho (90)** subiu **+34.5%** em 24h, a **170k coins** (faixa do dia: 118k–160k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Ben Chilwell (90)** subiu **+30.2%** em 24h, a **35k coins** (faixa do dia: 20k–35k). Está +18% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+Eric Dier lidera o lado comprador com alta de 42,9% para 30k coins, seguido de perto por Willian Pacho, que subiu 38,7% e atingiu os 165k coins. Estéban Lepaul também apresenta força relativa com alta de 31,2% para 52k coins, enquanto Désiré Doué e Blaise Matuidi registram aumentos de 30% e 29,3%, respectivamente. Essa concentração de altas em diferentes faixas de preço sugere interesse pontual, mas a baixa probabilidade de alta em alguns nomes como Pierre-Emile Højbjerg (5%) alerta para cautela.
 
 
-## 🔴 Maiores baixas (24h)
+## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 34k coins | -42.5% | -15.9% |
-| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 32k coins | -33.2% | -20.6% |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 35k coins | -32.4% | -22.3% |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 34k coins | -43.8% | -17.2% |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 35k coins | -35.2% | -27.5% |
+| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 31k coins | -33.2% | -20.6% |
+| Vitinha | 90 | Ligue 1 McDonald's | 100k coins | -29.4% | -12.4% |
 | Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 20k coins | -29.3% | -1.2% |
-| Vitinha | 90 | Ligue 1 McDonald's | 130k coins | -27.8% | -10.3% |
-| Amine Gouiri | 84 | Ligue 1 McDonald's | 32k coins | -27.4% | -2.3% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 43k coins | -26.9% | +20% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 31k coins | -22.1% | -21.6% |
-| Julio César Enciso | 87 | Ligue 1 McDonald's | 64k coins | -17.9% | -13.5% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 24k coins | -17% | -2.5% |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 42k coins | -28.3% | -28.9% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 43k coins | -28.2% | +17.9% |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 28k coins | -28% | -34.4% |
+| Amine Gouiri | 84 | Ligue 1 McDonald's | 50k coins | -27.4% | -2.3% |
+| Abedi Pelé | 89 | Ligue 1 McDonald's | 22k coins | -22.5% | +19.2% |
 
 
-### Análise das baixas
-
-- **Ismaëlo Ganiou (84)** caiu **-42.5%** em 24h, a **34k coins** (faixa do dia: 34k–60k). Está -25% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Rassoul Ndiaye (84)** caiu **-33.2%** em 24h, a **32k coins** (faixa do dia: 29k–48k). Está -23% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Gerónimo Rulli (84)** caiu **-32.4%** em 24h, a **35k coins** (faixa do dia: 35k–56k). Está -21% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+Ismaëlo Ganiou desponta como a maior queda do dia, caindo 43,8% e valendo apenas 34k coins, seguido por Gerónimo Rulli com -35,2% para 35k coins. Rassoul Ndiaye e Vitinha também sofreram quedas acentuadas de -33,2% e -29,4%, respectivamente, com o último card valendo 100k coins. A pressão vendedora é evidente em nomes como Pierre-Emerick Aubameyang (-29,3% para 20k) e Mason Greenwood (-28,3% para 42k), indicando que o interesse de compra nessas faixas de preço está extremamente baixo.
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 A estratégia do dia
+Diante do mercado lateral e das quedas expressivas em nomes como Ganiou e Rulli, a recomendação é evitar compras impulsivas e aguardar estabilização de preços. Traders conservadores devem segurar seus ativos, especialmente aqueles com alta probabilidade de valorização como Doué, enquanto evitam expor capital em cards com queda acentuada e baixa demanda imediata. O momento exige paciência e foco em oportunidades de compra em fundos claros, como os de Aubameyang e Zakaria.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 🔍 Como apuramos os preços
+Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Désiré Doué (87, Ligue 1 McDonald's), com +50.4% em 24h, a 195k coins no PC.
+Eric Dier (86, Ligue 1 McDonald's), com +42.9% em 24h, a 30k coins no PC.
 
 **E a maior queda do dia?**  
-Ismaëlo Ganiou (84), -42.5% em 24h, a 34k coins.
+Ismaëlo Ganiou (84), -43.8% em 24h, a 34k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 39 cartas em alta contra 46 em queda (média 0.43%).
+**Como está o mercado do EA FC hoje?**  
+Hoje o mercado está em mercado lateral — sem direção clara, com 39 cartas em alta contra 50 em queda (média -0.67%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 

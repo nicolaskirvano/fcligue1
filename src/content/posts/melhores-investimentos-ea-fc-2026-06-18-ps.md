@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:34:09.000Z
+pubDatetime: 2026-06-18T20:16:54.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Blaise Matuidi (86, Ligue 1 McDonald's) lidera, com +84% em 7 dias a 92k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "Mark McKenzie (90, Ligue 1 McDonald's) lidera, com +49% em 7 dias a 38k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,17 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Blaise Matuidi (86) acumula **+84% em 7 dias** a 92k coins.
+> 🔝 **Destaque:** Mark McKenzie (90) acumula **+49% em 7 dias** a 38k coins.
+
+
+## 🔎 Análise do mercado hoje
+No mercado de Ligue 1 para consoles PlayStation, a análise da tendência de valorização dos últimos sete dias aponta oportunidades distintas entre cartas de investimento e uso imediato. Destaque-se Pierre Lees-Melou (87), que registra uma alta de 13,3% em 24 horas com 68% de probabilidade de continuidade, custando apenas 21k coins. Essa entrada acessível oferece risco controlado para portfolios diversificados. Paralelamente, Ludovic Giuly (87) apresenta desempenho robusto com 21,8% de alta no mesmo período, também com 68% de chance de valorização, a um preço atrativo de 17k coins. Ambos sugerem estabilidade relativa em meio à volatilidade típica do mercado de Ultimate Team.
+
+Para investidores dispostos a arcar com maior risco, Mark McKenzie (90) subiu 10,1% em 24 horas, mas possui apenas 5% de probabilidade de alta futura, cotado a 38k coins. Timothy Weah (85) segue perfil similar, com 12,5% de alta diária e 5% de probabilidade de continuidade, a 42k coins. Essas cartas indicam picos momentâneos, possivelmente impulsionados por promoções limitadas ou eventos específicos, sendo recomendadas apenas para traders ágeis que buscam lucros rápidos de curto prazo, sem expectativa de manutenção de valor.
+
+Entre as opções de maior segurança, Pierre-Emerick Aubameyang (87) lidera com 95% de probabilidade de alta, tendo subido 13,2% em 24 horas a 20k coins. É uma escolha sólida para quem prioriza certeza de valorização. João Neves (88) também exibe 95% de probabilidade de alta, embora seu ganho diário seja modesto (2,9%), o que reflete a estabilidade de sua cotação elevada de 180k coins. A consistência desses ativos os torna pilares para estratégias de longo prazo.
+
+Finalmente, Vitinha (90) e Ben Chilwell (90) merecem atenção. Vitinha aparece em duas faixas: uma com 56% de probabilidade de alta a 115k coins (21,1% em 24h) e outra menos provável (8%) a 217k coins (3,3% em 24h). A primeira opção oferece melhor equilíbrio risco-retorno. Ben Chilwell (90), com 16% de probabilidade de alta e 8,8% de ganho diário a 40k coins, completa o cenário como ativo intermediário. A seleção deve considerar o horizonte de tempo e a tolerância ao risco de cada jogador.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,33 +41,31 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 92k coins | +34.3% | +84% | 5% |
-| Alexsandro | 86 | Ligue 1 McDonald's | 24k coins | +7.1% | +55.8% | 68% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 33k coins | +14.5% | +51.9% | 5% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 45k coins | +12.5% | +38.5% | 5% |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 21k coins | +13.3% | +25% | 68% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 34k coins | +18.4% | +23.3% | 16% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 83k coins | +5% | +20.3% | 68% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 51k coins | +13.9% | +19.2% | 74% |
-| Dante | 88 | Ligue 1 McDonald's | 48k coins | +5.3% | +11.1% | 16% |
-| Vitinha | 90 | Ligue 1 McDonald's | 218k coins | +8.9% | +10% | 8% |
-| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 44k coins | +10.7% | +8.6% | 42% |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 45k coins | +25.8% | +8.3% | 95% |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 143k coins | +12.2% | +7.3% | 50% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 46k coins | +10.8% | +6.7% | 32% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 38k coins | +10.1% | +49% | 5% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 42k coins | +12.5% | +38.5% | 5% |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 21k coins | +13.3% | +28.8% | 68% |
+| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 20k coins | +13.2% | +26.5% | 95% |
+| Ludovic Giuly | 87 | Ligue 1 McDonald's | 17k coins | +21.8% | +24.1% | 68% |
+| Vitinha | 90 | Ligue 1 McDonald's | 115k coins | +21.1% | +15.6% | 56% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 40k coins | +8.8% | +13.3% | 16% |
+| João Neves | 88 | Ligue 1 McDonald's | 180k coins | +2.9% | +9.1% | 95% |
+| Vitinha | 90 | Ligue 1 McDonald's | 217k coins | +3.3% | +8.5% | 8% |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 143k coins | +9.7% | +7.3% | 50% |
+| Dante | 88 | Ligue 1 McDonald's | 47k coins | +2.2% | +6.8% | 16% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 46k coins | +10.2% | +6.1% | 32% |
 
 
 ## 📈 Análise dos destaques
 
-- **Blaise Matuidi (86)** — 92k coins, **+84% em 7 dias** (+34.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Mark McKenzie (90)** — 38k coins, **+49% em 7 dias** (+10.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Alexsandro (86)** — 24k coins, **+55.8% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (-3%). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Timothy Weah (85)** — 42k coins, **+38.5% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Mark McKenzie (90)** — 33k coins, **+51.9% em 7 dias** (+14.5% em 24h). Preço em linha com a média de 7 dias (+6%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Pierre Lees-Melou (87)** — 21k coins, **+28.8% em 7 dias** (+13.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
-- **Timothy Weah (85)** — 45k coins, **+38.5% em 7 dias** (+12.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Pierre-Emerick Aubameyang (87)** — 20k coins, **+26.5% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Pierre Lees-Melou (87)** — 21k coins, **+25% em 7 dias** (+13.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Ludovic Giuly (87)** — 17k coins, **+24.1% em 7 dias** (+21.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -68,14 +76,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 🔍 Como apuramos os preços
+Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Blaise Matuidi (86, Ligue 1 McDonald's) lidera, com +84% em 7 dias a 92k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+Mark McKenzie (90, Ligue 1 McDonald's) lidera, com +49% em 7 dias a 38k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

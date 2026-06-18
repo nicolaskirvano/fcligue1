@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:34:20.000Z
+pubDatetime: 2026-06-18T20:20:07.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,11 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +1.9% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | 0% |
 | Marquinhos | 87 | CB | Ligue 1 McDonald's | 3k coins | +100% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +7.4% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +9.3% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +3.6% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -6.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +9.3% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 15k coins | +44.2% |
 
 
 ## 📈 Destaques
@@ -46,7 +47,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins**
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -56,8 +57,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 🔍 Como apuramos os preços
+Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
 
 
 ## ❓ Perguntas frequentes
