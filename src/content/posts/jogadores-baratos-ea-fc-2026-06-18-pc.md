@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:35:36.000Z
+pubDatetime: 2026-06-18T23:33:25.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,13 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | 0% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -1.9% |
 | Marquinhos | 87 | CB | Ligue 1 McDonald's | 3k coins | +100% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -5.2% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.7% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +39.5% |
-| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 14k coins | -56.1% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 15k coins | -6.9% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +9.3% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 14k coins | -58.3% |
+| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 3k coins | 0% |
 
 
 ## 📈 Destaques
@@ -44,11 +43,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
-
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **15k coins**
 
 - **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+
+- **Maghnes Akliouche (84, CAM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
