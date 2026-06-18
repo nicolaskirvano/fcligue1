@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:16:06.000Z
+pubDatetime: 2026-06-18T22:34:27.000Z
 title: "Ligue 1 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Blaise Matuidi (86, Ligue 1 McDonald's), com +56.4% em 24h, a 90k coins no Console (PS)."
+    a: "Blaise Matuidi (86, Ligue 1 McDonald's), com +49.2% em 24h, a 88k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ismaëlo Ganiou (84), -26% em 24h, a 43k coins."
+    a: "Ruben Kluivert (86), -21.3% em 24h, a 38k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Roman Yaremchuk (89) — 95% de probabilidade de alta, a 34k coins."
+    a: "Pelo modelo FutQuant, Kenny Lala (87) — 95% de probabilidade de alta, a 45k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 43 cartas em alta contra 51 em queda (média 0.29%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 42 cartas em alta contra 46 em queda (média -0.32%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado da Ligue 1 em Console apresenta um cenário lateral sem direção clara, com 43 altas e 51 quedas registradas nas últimas 24 horas. A variação média ficou em apenas 0.29%, indicando uma fase de consolidação onde os traders devem ter cautela com movimentos bruscos e focar em oportunidades pontuais.
+O mercado da Ligue 1 no console PS segue com um sentimento lateral e sem direção clara, evidenciado por uma média de variação de -0.32% nas últimas 24 horas. Com 42 altas contra 46 quedas, o cenário é de instabilidade, exigindo cautela dos traders que buscam oportunidades seguras neste momento.
 
-> 🟢 **Maior alta:** Blaise Matuidi (86) **+56.4%** · 🔴 **Maior baixa:** Ismaëlo Ganiou (84) **-26%**
+> 🟢 **Maior alta:** Blaise Matuidi (86) **+49.2%** · 🔴 **Maior baixa:** Ruben Kluivert (86) **-21.3%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 90k coins | +56.4% | +83% |
-| Endrick | 91 | Ligue 1 McDonald's | 644k coins | +28.8% | +8.6% |
-| Vitinha | 90 | Ligue 1 McDonald's | 115k coins | +21.1% | +15.6% |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 58k coins | +16.8% | +4.3% |
-| Florian Thauvin | 83 | Ligue 1 McDonald's | 52k coins | +14.3% | +6.1% |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 21k coins | +13.3% | +28.8% |
-| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 20k coins | +13.2% | +26.5% |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 115k coins | +12.7% | +137.1% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 42k coins | +12.5% | +38.5% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 747k coins | +11.8% | -2.7% |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 88k coins | +49.2% | +76% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 40k coins | +21.6% | +26.7% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.10M coins | +20.3% | +18.9% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 79k coins | +17% | +27.4% |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 119k coins | +15% | +137.1% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 30k coins | +14.9% | +10.2% |
+| Julio César Enciso | 87 | Ligue 1 McDonald's | 30k coins | +12.3% | -27.1% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 44k coins | +11.2% | +36.9% |
+| Vitinha | 90 | Ligue 1 McDonald's | 235k coins | +11% | +16.5% |
+| Ilan Kebbal | 86 | Ligue 1 McDonald's | 28k coins | +10% | -29.5% |
 
 
-Blaise Matuidi liderou as altas com um impressionante aumento de 56.4%, atingindo 90k coins, enquanto Endrick subiu 28.8% para 644k coins. Vitinha e Gerónimo Rulli também se destacaram com valorizações de 21.1% e 16.8% respectivamente, mostrando interesse em cartas de alto nível e defensores sólidos.
+Blaise Matuidi lidera as altas com um salto de 49.2% para 88k coins, seguido por Ben Chilwell a 40k coins e Ousmane Dembélé a 1.10M coins. A pressão de compra também elevou Fabián Ruiz em 17% para 79k coins e Olivier Giroud em 15% para 119k coins, indicando interesse pontual em cartas específicas.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 43k coins | -26% | +11.9% |
-| Guéla Doué | 84 | Ligue 1 McDonald's | 37k coins | -19% | +33% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 26k coins | -18.6% | +43.3% |
-| Abedi Pelé | 90 | Ligue 1 McDonald's | 136k coins | -13.8% | +5.4% |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 36k coins | -13.3% | +8.3% |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 31k coins | -12.7% | -23% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 129k coins | -12.1% | -4.9% |
-| Paul Pogba | 92 | Ligue 1 McDonald's | 673k coins | -11.5% | -20.7% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 20k coins | -11.4% | +21.9% |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 40k coins | -10.1% | 0% |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 38k coins | -21.3% | +18% |
+| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 291k coins | -19.2% | -16% |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 30k coins | -17.6% | -23.8% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 62k coins | -17.2% | -11.8% |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 34k coins | -13.8% | +112.3% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 152k coins | -12.6% | -10.6% |
+| João Neves | 88 | Ligue 1 McDonald's | 140k coins | -12.5% | +1.4% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 27k coins | -10.8% | +44.6% |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 45k coins | -10.6% | +11.8% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 24k coins | -8.3% | -6.4% |
 
 
-Ismaëlo Ganiou sofreu a maior queda de 26%, caindo para 43k coins, seguido de perto por Guéla Doué com -19% a 37k coins. Florian Sotoca e Abedi Pelé também registraram perdas significativas de 18.6% e 13.8%, respectivamente, refletindo uma correção de preços em ativos que estavam em alta.
+Ruben Kluivert sofreu a maior queda com -21.3% para 38k coins, enquanto Khvicha Kvaratskhelia caiu 19.2% para 291k coins. Bradley Barcola também desvalorizou 17.2% para 62k coins e Roman Yaremchuk recuou 13.8% para 34k coins, mostrando que o volume de vendas ainda supera a demanda na maioria dos ativos.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Roman Yaremchuk | 89 | 34k coins | 46k coins | 95% |
-| Nabil Bentaleb | 86 | 28k coins | 33k coins | 95% |
+| Kenny Lala | 87 | 45k coins | 53k coins | 95% |
 | João Neves | 88 | 180k coins | 207k coins | 95% |
-| Bradley Barcola | 87 | 130k coins | 175k coins | 95% |
-| Kenny Lala | 87 | 36k coins | 43k coins | 95% |
-| Aron Dønnum | 87 | 20k coins | 23k coins | 93% |
+| Bradley Barcola | 87 | 139k coins | 187k coins | 95% |
+| Sidney Govou | 86 | 16k coins | 19k coins | 95% |
+| Olivier Giroud | 89 | 29k coins | 38k coins | 95% |
+| Roman Yaremchuk | 89 | 34k coins | 46k coins | 95% |
+| Aron Dønnum | 87 | 21k coins | 24k coins | 93% |
 | Igor Paixão | 87 | 30k coins | 34k coins | 93% |
-| Denis Zakaria | 86 | 35k coins | 39k coins | 84% |
 
 
-O modelo projeta altas probáveis para Roman Yaremchuk e Nabil Bentaleb, ambos com 95% de chance de alta a 34k e 28k coins. João Neves e Bradley Barcola também aparecem como fortes candidatos a valorização, com 95% de probabilidade e preços atuais de 180k e 130k coins.
+O modelo projeta altas significativas para Kenny Lala, João Neves e Bradley Barcola, todos com 95% de probabilidade de alta. Sidney Govou, Olivier Giroud e Roman Yaremchuk também aparecem com 95% de chance de valorização, enquanto Aron Dønnum e Igor Paixão seguem com 93% de probabilidade.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Tanguy Ndombele | 85 | 26k coins | -15.5% |
-| Florian Sotoca | 85 | 26k coins | -24.1% |
-| Pierre-Emerick Aubameyang | 86 | 32k coins | -24% |
+| Warren Zaïre-Emery | 93 | 250k coins | -17.4% |
 | Samson Baidoo | 85 | 48k coins | -23.8% |
-| Sidney Govou | 87 | 41k coins | -29.1% |
-| Arsène Kouassi | 87 | 30k coins | -15.6% |
-| Timothy Weah | 85 | 42k coins | -29.1% |
-| Warren Zaïre-Emery | 93 | 277k coins | -17.4% |
+| Tanguy Ndombele | 85 | 27k coins | -15.5% |
+| Timothy Weah | 85 | 44k coins | -29.1% |
+| Blaise Matuidi | 86 | 88k coins | -29% |
+| Pierre-Emerick Aubameyang | 86 | 32k coins | -24% |
+| Sidney Govou | 87 | 43k coins | -29.1% |
+| Ruben Kluivert | 86 | 38k coins | -17.5% |
 
 
 ## 🎯 A estratégia do dia
-Diante da lateralidade do mercado, recomenda-se comprar ativos de baixo custo com alta probabilidade de subida, como Yaremchuk e Bentaleb, evitando segurar cartas em queda livre como Ganiou. O foco deve estar em acumular moedas com trades rápidos em cartas previstas para alta, aguardando maior volume de negociação.
+Dada a volatilidade e o saldo negativo geral, o ideal é evitar compras impulsivas e focar em oportunidades de compra nos ativos com alta probabilidade de retorno, como Kenny Lala e João Neves. Segure as cartas de longo prazo e aguarde confirmação de tendência antes de investir capital pesado.
 
 
 ## 🔍 Como apuramos os preços
@@ -114,16 +114,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Blaise Matuidi (86, Ligue 1 McDonald's), com +56.4% em 24h, a 90k coins no Console (PS).
+Blaise Matuidi (86, Ligue 1 McDonald's), com +49.2% em 24h, a 88k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Ismaëlo Ganiou (84), -26% em 24h, a 43k coins.
+Ruben Kluivert (86), -21.3% em 24h, a 38k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Roman Yaremchuk (89) — 95% de probabilidade de alta, a 34k coins.
+Pelo modelo FutQuant, Kenny Lala (87) — 95% de probabilidade de alta, a 45k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 43 cartas em alta contra 51 em queda (média 0.29%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 42 cartas em alta contra 46 em queda (média -0.32%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

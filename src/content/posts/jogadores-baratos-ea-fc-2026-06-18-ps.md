@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:16:56.000Z
+pubDatetime: 2026-06-18T22:34:52.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,11 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | +67.4% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | +43.8% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | -25% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.3% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +13.7% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 4k coins | -20.5% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | 0% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +16.3% |
 
 
 ## 📈 Destaques
@@ -42,11 +42,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Tyler Morton (83, CDM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Tyler Morton (83, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
