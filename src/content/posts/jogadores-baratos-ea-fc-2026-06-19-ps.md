@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:35:09.000Z
+pubDatetime: 2026-06-19T22:37:06.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (19/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +2.1% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +6.8% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 15k coins | -24.4% |
-| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 4k coins | -15% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | -1.4% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +6.8% |
+| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 4k coins | -10% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +27.1% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins**
 
-- **Ludovic Blas (86, RM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
 - **Nuno Mendes (83, LB)** da Ligue 1 McDonald's, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Tyler Morton (83, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
