@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:41:04.000Z
+pubDatetime: 2026-06-19T19:36:12.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Abedi Pelé (91, Ligue 1 McDonald's) lidera, com +88.7% em 7 dias a 200k coins no PC, e o modelo dá 52% de chance de seguir subindo."
+    a: "Abedi Pelé (91, Ligue 1 McDonald's) lidera, com +73.6% em 7 dias a 164k coins no PC, e o modelo dá 52% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Abedi Pelé (91) acumula **+88.7% em 7 dias** a 200k coins.
+> 🔝 **Destaque:** Abedi Pelé (91) acumula **+73.6% em 7 dias** a 164k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário atual do EA FC Ultimate Team, especificamente para a plataforma PC em 19 de junho de 2026, o mercado das cartas promocionais da Ligue 1 McDonald's apresenta volatilidade distinta. A análise de tendência de valorização nos últimos sete dias revela oportunidades claras para investidores que buscam entrada estratégica, focando em cartas com alta probabilidade de continuidade na alta e variação percentual significativa nas últimas 24 horas. É fundamental observar que a decisão de investir deve ser baseada estritamente nos dados de performance recente, evitando especulações infundadas.
+No cenário do EA FC Ultimate Team para PC, a análise de mercado focada na Ligue 1 revela oportunidades estratégicas claras para o dia 19 de junho de 2026. Ao examinar as tendências de valorização dos últimos sete dias, o foco recai sobre as cartas da série Ligue 1 McDonald's, onde a volatilidade e a demanda específica de squads criam assimetrias de preço. O objetivo é identificar ativos que não apenas subiram, mas que apresentam uma probabilidade estatística robusta de continuidade na alta, permitindo entradas calculadas com risco mitigado. A análise detalhada desses dados mostra que nem todo aumento de preço indica uma boa oportunidade de compra, sendo crucial filtrar os ativos pela combinação de crescimento recente e probabilidade futura.
 
-Dentre as opções de alto valor, a carta de Abedi Pelé (91) destaca-se com um aumento de 8,1% em apenas 24 horas, posicionada na faixa de 200 mil coins. Com uma probabilidade de alta de 52%, esta carta representa um ativo de médio risco, porém com potencial de retorno substancial para portfólios mais robustos. A estabilidade relativa desse crescimento sugere uma demanda consistente entre os usuários que priorizam atributos superiores para times de competição de alto nível, mantendo o preço elevado mas com tendência de ascensão controlada.
+Dentre os ativos analisados, Ludovic Blas emerge como uma das apostas mais sólidas para entrada imediata. A carta de rating 86 registrou um impressionante aumento de 24.1% nas últimas 24 horas, atingindo a marca de 27k coins. O que torna essa entrada atraente não é apenas a magnitude do salto, mas a probabilidade de alta de 59%, a segunda mais alta do grupo analisado. Essa combinação sugere que o mercado está descobrindo o valor da carta, possivelmente devido à sua utilidade em squads específicos ou SBCs iminentes, criando um momento de "FOMO" (medo de ficar de fora) que tende a sustentar os preços no curto prazo.
 
-Por outro lado, para investidores com capital mais limitado, Olivier Giroud (89) surge como uma das oportunidades mais promissoras. Com um salto impressionante de 20% em 24 horas e uma probabilidade de alta de 71%, a carta está disponível por 22 mil coins. Essa combinação de acessibilidade e alta probabilidade de valorização indica forte interesse do mercado, possivelmente devido à sua utilidade em squads específicos ou à escassez percebida no mercado livre, tornando-a uma escolha segura para entrada imediata.
+Outro nome que merece atenção absoluta é Olivier Giroud. Com um rating de 89, a carta apresentou uma valorização de 11% em apenas um dia, estabilizando-se em 24k coins. O indicador chave aqui é a probabilidade de alta de 71%, a mais elevada de todo o conjunto de dados. Isso indica uma demanda institucional ou de larga escala que provavelmente continuará a absorver a oferta disponível. Para investidores que buscam segurança estatística com margem de lucro potencialmente rápida, Giroud oferece o perfil de risco-benefício mais equilibrado, alinhando-se perfeitamente à tendência de valorização de longo prazo observada na semana.
 
-Outra carta que merece atenção é Bradley Barcola (90), que registrou alta de 23,6% em 24 horas, cotada a 121 mil coins. Apesar da probabilidade de alta ser de apenas 23%, o volume de crescimento recente é significativo. Investidores devem avaliar se este pico é sustentável ou se representa uma oportunidade de venda rápida, considerando que a baixa probabilidade futura pode indicar saturação iminente da demanda, exigindo monitoramento constante dos preços.
+Valentín Barco também se destaca como uma oportunidade de alto retorno relativo. A carta de rating 88 subiu 20.7% em 24 horas, com preço atual de 35k coins. Apesar de sua probabilidade de alta ser de 46%, o momentum recente é forte o suficiente para sugerir que o preço ainda não atingiu seu pico de equilíbrio. Jogadores jovens e versáteis como Barco frequentemente sofrem oscilações bruscas baseadas em notícias ou desempenho real, e o fato de a probabilidade ser superior a 50% (embora por pouco) indica que a inclinação do mercado permanece positiva. É uma entrada para quem tolera volatilidade em troca de ganhos percentuais significativos.
 
-Para quem busca segurança estatística, Mark McKenzie (90) oferece a maior probabilidade de alta entre as cartas listadas, com 78%, e um crescimento de 11,1% em 24 horas. Comercializada a 40 mil coins, esta defesa é um investimento de baixo risco e custo moderado. A consistência dos dados sugere que a carta está em uma trajetória ascendente estável, ideal para quem prefere evitar as oscilações bruscas de cartas de ataque mais voláteis.
-
-Por fim, Tyler Morton (88) apresenta o maior percentual de alta em 24 horas entre todas as opções, com 38,5%, embora sua probabilidade de continuidade seja de 45%. A 24 mil coins, representa uma aposta de maior risco, mas com potencial de retorno acelerado no curto prazo. Em contrapartida, cartas como Abedi Pelé (89) e Alidu Seidu (89) mostram crescimento mais moderado, porém com probabilidades de alta acima de 60%, sugerindo valorização consistente e menos especulativa. A escolha final deve depender do perfil de risco do investidor, equilibrando a magnitude do ganho recente com a probabilidade estatística de continuidade.
+Por outro lado, é prudente evitar entradas agressivas em cartas como Pierre-Emerick Aubameyang e Maghnes Akliouche. Embora Aubameyang (89) tenha disparado 18.1% em 24 horas, sua probabilidade de alta é de apenas 26%, sugerindo um pico de especulação de curto prazo que pode reverter rapidamente. Da mesma forma, Akliouche (84) tem apenas 6% de chance de alta contínua, indicando que o movimento de preço pode estar exaurido. Por fim, Abedi Pelé (91), apesar de ter alta probabilidade (52%), apresenta baixa volatilidade recente (2.2%), tornando-o um ativo de "guardar" do que de "comprar e vender" rápido. Portanto, Blas e Giroud se mantêm como as escolhas lógicas para capitalizar sobre a tendência atual da Ligue 1.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +43,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 200k coins | +8.1% | +88.7% | 52% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 22k coins | +20% | +71.4% | 71% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 121k coins | +23.6% | +65.1% | 23% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 40k coins | +11.1% | +63.3% | 78% |
-| Abedi Pelé | 89 | Ligue 1 McDonald's | 30k coins | +18.8% | +55.8% | 64% |
-| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 21k coins | +22% | +51.5% | 34% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 32k coins | +2.4% | +51.2% | 67% |
-| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 56k coins | +2.8% | +43.6% | 26% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 24k coins | +38.5% | +42.1% | 45% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 78k coins | +7.1% | +38.9% | 33% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 37k coins | +26.7% | +31.2% | 46% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 35k coins | +1.4% | +28.4% | 22% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 65k coins | +12.1% | +18.2% | 34% |
-| Nathan Ngoy | 84 | Ligue 1 McDonald's | 43k coins | +10.2% | +17.7% | 46% |
-| Samson Baidoo | 85 | Ligue 1 McDonald's | 70k coins | +9.4% | +16.7% | 22% |
+| Abedi Pelé | 91 | Ligue 1 McDonald's | 164k coins | +2.2% | +73.6% | 52% |
+| Guéla Doué | 84 | Ligue 1 McDonald's | 42k coins | +2.7% | +67.4% | 52% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 24k coins | +11% | +54.2% | 71% |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 62k coins | +18.1% | +41.7% | 26% |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 17k coins | +7.8% | +30.2% | 6% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 25k coins | +9.9% | +25% | 48% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 27k coins | +8.1% | +23% | 33% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 35k coins | +20.7% | +22.8% | 46% |
+| Ludovic Blas | 86 | Ligue 1 McDonald's | 27k coins | +24.1% | +22.7% | 59% |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 32k coins | +2.4% | +16.1% | 67% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 37k coins | +26.6% | +10.6% | 49% |
 
 
 ## 📈 Análise dos destaques
 
-- **Abedi Pelé (91)** — 200k coins, **+88.7% em 7 dias** (+8.1% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Abedi Pelé (91)** — 164k coins, **+73.6% em 7 dias** (+2.2% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Olivier Giroud (89)** — 22k coins, **+71.4% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (-7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Guéla Doué (84)** — 42k coins, **+67.4% em 7 dias** (+2.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Bradley Barcola (90)** — 121k coins, **+65.1% em 7 dias** (+23.6% em 24h). Preço +41% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Olivier Giroud (89)** — 24k coins, **+54.2% em 7 dias** (+11% em 24h). Preço em linha com a média de 7 dias (-7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mark McKenzie (90)** — 40k coins, **+63.3% em 7 dias** (+11.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **78% de chance de seguir subindo**.
+- **Pierre-Emerick Aubameyang (89)** — 62k coins, **+41.7% em 7 dias** (+18.1% em 24h). Preço em linha com a média de 7 dias (-0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Abedi Pelé (89)** — 30k coins, **+55.8% em 7 dias** (+18.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maghnes Akliouche (84)** — 17k coins, **+30.2% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +84,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Abedi Pelé (91, Ligue 1 McDonald's) lidera, com +88.7% em 7 dias a 200k coins no PC, e o modelo dá 52% de chance de seguir subindo.
+Abedi Pelé (91, Ligue 1 McDonald's) lidera, com +73.6% em 7 dias a 164k coins no PC, e o modelo dá 52% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
