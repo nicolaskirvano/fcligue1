@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:32:58.000Z
+pubDatetime: 2026-06-19T01:36:11.000Z
 title: "Ligue 1 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Eric Dier (86, Ligue 1 McDonald's), com +55.4% em 24h, a 29k coins no PC."
+    a: "Ruben Kluivert (86, Ligue 1 McDonald's), com +51.4% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ismaëlo Ganiou (84), -38.8% em 24h, a 36k coins."
+    a: "Ismaëlo Ganiou (84), -41.2% em 24h, a 34k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 39 cartas em alta contra 49 em queda (média -0.79%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 39 cartas em alta contra 59 em queda (média -0.36%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O cenário do mercado de Ligue 1 para hoje, 18 de junho de 2026, apresenta uma neutralidade estatística clara, com uma distribuição quase equilibrada entre altas e quedas que reflete a incerteza dos traders em um dia sem grandes eventos catalisadores imediatos. Com 39 jogadores registrando valorização e 49 sofrendo desvalorização, a média geral de -0.79% nas últimas 24 horas indica que o volume de negociações está diluído, forçando os investidores a olharem além das médias e focarem em movimentos específicos de alta volatilidade. O sentimento lateral sugere que não há uma narrativa dominante de compra ou venda massiva, mas sim oportunidades pontuais criadas pela oferta e demanda isolada de cartas específicas da série Ligue 1 McDonald's. Essa falta de direção clara exige uma leitura mais refinada das probabilidades de alta associadas a cada ativo, pois movimentos impulsivos podem ser rapidamente revertidos em um ambiente tão estagnado. Traders experientes sabem que dias laterais são ideais para acumulação estratégica de ativos de baixo custo ou para realizar lucros em posições que já atingiram seus alvos técnicos, evitando exposição excessiva a variações bruscas sem suporte fundamental.
+O cenário do mercado de Ultimate Team para o segmento Ligue 1 em 18 de junho de 2026 apresenta um viés claramente de baixa, com uma dinâmica onde a pressão de venda supera a demanda de compra em quase dois para um. Os dados indicam que existem apenas 39 altas significativas contra 59 quedas no período de 24 horas, resultando em uma média de variação negativa de -0,36% para o segmento como um todo. Esse desequilíbrio sugere que os traders estão liquidando posições ou realizando vendas rápidas, possivelmente devido à incerteza de eventos futuros ou à saturação de cartas específicas no mercado. Para o trader experiente, esse ambiente de 'bear market' exige cautela extrema e uma leitura fina dos fundamentos por trás de cada movimento, pois a maioria das cartas está perdendo valor. O sentimento geral é de desconfiança, onde apenas os ativos com forte narrativa de evento ou escassez relativa conseguem resistir à gravidade do mercado. É crucial manter os olhos nos números, pois a volatilidade pode esconder oportunidades de compra em fundos temporários, mas a tendência predominante é de erosão de capital para quem não age com precisão cirúrgica.
 
-> 🟢 **Maior alta:** Eric Dier (86) **+55.4%** · 🔴 **Maior baixa:** Ismaëlo Ganiou (84) **-38.8%**
+> 🟢 **Maior alta:** Ruben Kluivert (86) **+51.4%** · 🔴 **Maior baixa:** Ismaëlo Ganiou (84) **-41.2%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eric Dier | 86 | Ligue 1 McDonald's | 29k coins | +55.4% | +74.2% |
-| David Ginola | 89 | Ligue 1 McDonald's | 374k coins | +34.6% | +12.6% |
-| Matvey Safonov | 88 | Ligue 1 McDonald's | 257k coins | +27.9% | +7.5% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 32k coins | +25% | +23.8% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 185k coins | +23.3% | +60.9% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 28k coins | +22.9% | +38.8% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 43k coins | +17.2% | +34.5% |
-| Bradley Barcola | 87 | Ligue 1 McDonald's | 118k coins | +16.8% | -24.8% |
-| Matthis Abline | 81 | Ligue 1 McDonald's | 50k coins | +15.7% | +11.8% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 144k coins | +14.3% | +20% |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 40k coins | +51.4% | +40.7% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 32k coins | +49.4% | +64.9% |
+| Hamari Traoré | 87 | Ligue 1 McDonald's | 42k coins | +38.2% | +142.9% |
+| Aron Dønnum | 87 | Ligue 1 McDonald's | 29k coins | +34.9% | +63.4% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 130k coins | +28.7% | -17.2% |
+| David Ginola | 89 | Ligue 1 McDonald's | 346k coins | +28% | +9.6% |
+| Matvey Safonov | 88 | Ligue 1 McDonald's | 257k coins | +27.9% | +7.1% |
+| Abedi Pelé | 91 | Ligue 1 McDonald's | 185k coins | +22.7% | +60% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 65k coins | +21.8% | +9.1% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 25k coins | +20.4% | +69.7% |
 
 
-Entre os ativos que se destacaram pela valorização, Eric Dier lidera com uma impressionante alta de 55.4% em 24 horas, cotado a 29k coins, movido por uma probabilidade de alta de 46% que sugere compra institucional ou necessidade específica de squads. David Ginola, um ativo de alto valor, subiu 34.6% para 374k coins, embora sua probabilidade de alta de 36% indique cautela, pois movimentos em cartas premium muitas vezes esgotam o momentum rápido devido à menor liquidez. Matvey Safonov registrou um ganho de 27.9% a 257k coins, mas sua baixa probabilidade de alta de 19% alerta para um possível correção imediata, tornando-o um ativo de risco elevado para novos entrantes. Valentín Barco se valorizou 25% a 32k coins com uma robusta probabilidade de alta de 46%, indicando forte interesse da comunidade em suas estatísticas para time de semana ou pacotes. Abedi Pelé, com alta de 23.3% a 185k coins e probabilidade de 52%, parece ter encontrado suporte em níveis mais altos, atraindo traders de longo prazo que buscam estabilidade em ativos de elite. Florian Sotoca, apesar de ser uma carta de rating 85, subiu 22.9% a 28k coins com a maior probabilidade de alta do grupo (65%), sugerindo que seu preço atual ainda está subavaliado pelo mercado em relação à sua utilidade imediata.
+Entre as poucas cartas que conseguiram subir, Ruben Kluivert se destaca com uma alta impressionante de 51,4% em 24 horas, atingindo 40 mil coins, impulsionado por uma probabilidade de alta de 50% que atraiu especuladores de curto prazo. Jordan Teze seguiu na esteira com um crescimento de 49,4% para 32 mil coins, apoiado por uma probabilidade de alta de 48%, indicando que o mercado está buscando alternativas acessíveis de ataque dentro da Ligue 1 McDonald's. Hamari Traoré também teve desempenho robusto, subindo 38,2% para 42 mil coins, com uma probabilidade de alta de 56% que sugere uma demanda sustentada por meio-campistas defensivos de bom rating. Aron Dønnum registrou um aumento de 34,9% para 29 mil coins, com probabilidade de alta de 49%, refletindo uma compra específica talvez ligada a pacotes ou metas de equipe. Bradley Barcola, embora com alta menor de 28,7% para 130 mil coins, chama atenção pela liquidez e probabilidade de alta de 39%, mostrando que cartas de elite ainda têm seu nicho de compradores fiéis mesmo em dias de baixa.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 36k coins | -38.8% | -9.8% |
-| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 29k coins | -36.8% | -23.6% |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 32k coins | -35.8% | -32.1% |
-| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 20k coins | -34.9% | +2.5% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 54k coins | -31.8% | +24.1% |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 27k coins | -31.7% | -38.9% |
-| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 28k coins | -24.8% | -12.6% |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 40k coins | -24.8% | -3.6% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 146k coins | -24% | -26.6% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 1.50M coins | -21.5% | -4.3% |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 34k coins | -41.2% | -13.5% |
+| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 30k coins | -39% | -27.4% |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 39k coins | -35.6% | +9.4% |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 30k coins | -28.4% | -36.3% |
+| Alexsandro | 86 | Ligue 1 McDonald's | 22k coins | -27.9% | -9.1% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 150k coins | -27% | -26.6% |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 33k coins | -26.1% | +0.8% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 1.50M coins | -25% | 0% |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 35k coins | -24.9% | -3.5% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 60k coins | -23.5% | +39% |
 
 
-No outro extremo, Ismaëlo Ganiou sofreu a maior queda de -38.8% em 24 horas, caindo para 36k coins, um movimento severo que pode ser atribuído a uma saturação de oferta ou saída de investidores de curto prazo que lucraram anteriormente. Rassoul Ndiaye acompanhou a tendência negativa com uma queda de -36.8% para 29k coins, e sua probabilidade de alta de 37% indica que o fundo ainda não foi encontrado, mantendo o risco de continuidade da desvalorização. Gerónimo Rulli despencou 35.8% para 32k coins, e com apenas 26% de probabilidade de alta, o mercado demonstra pouca confiança na recuperação imediata deste goleiro, possivelmente devido à substituição por alternativas mais baratas ou eficientes. Pierre-Emerick Aubameyang, uma carta de alto perfil, caiu 34.9% para 20k coins, o que pode representar uma oportunidade de compra se a probabilidade de alta de 34% começar a subir, mas por enquanto o sentimento é predominantemente de venda. Ethan Nwaneri, com queda de -31.8% para 54k coins, mostra sinais de fraqueza estrutural, já que sua probabilidade de alta de 33% não consegue reverter a pressão vendedora nos últimos dias. Denis Zakaria também perdeu 31.7% para 27k coins, reforçando a tese de que defensores e meio-campistas de rating médio estão sendo liquidados em massa, possivelmente para realocação de capital em ativos de maior retorno.
+Do lado das quedas, Ismaëlo Ganiou sofreu o maior impacto com uma queda de 41,2% em 24 horas, caindo para 34 mil coins, apesar de ter uma probabilidade de alta de 42%, o que indica um despejo de mercado ou correção brusca após uma sobrevalorização anterior. Rassoul Ndiaye também despencou 39% para 30 mil coins, com probabilidade de alta de 37%, sugerindo que a demanda por defensores de entrada da Ligue 1 McDonald's está enfraquecendo rapidamente. Kenny Lala, uma carta de 87 rating, perdeu 35,6% para 39 mil coins, com probabilidade de alta de 54%, o que é particularmente preocupante pois indica que mesmo com potencial de subida, a pressão de venda atual é esmagadora. Gerónimo Rulli caiu 28,4% para 30 mil coins, com probabilidade de alta de apenas 26%, refletindo a falta de interesse em goleiros de médio rating que não possuem narrativa forte de evento. Alexsandro completou o grupo de quedas significativas com -27,9% para 22 mil coins, com probabilidade de alta de 54%, mostrando que até ativos com boa expectativa de futuro estão sendo vendidos desesperadamente para garantir liquidez.
 
 
 ## 🎯 A estratégia do dia
-A estratégia para hoje deve focar na compra seletiva de ativos com alta probabilidade de valorização e preço baixo, como Florian Sotoca e Valentín Barco, que oferecem melhor relação risco-retorno em um mercado lateral. Evite expor capital significativo em David Ginola e Matvey Safonov sem stop-loss rigoroso, pois suas probabilidades de alta não sustentam os ganhos recentes, indicando possível correção. Considere acumular Ismaëlo Ganiou e Rassoul Ndiaye apenas se você tiver tolerância para esperar a estabilização do preço, pois as quedas acentuadas podem atrair compradores de desconto nas próximas horas. Mantenha posições em Eric Dier e Abedi Pelé se já adquirido abaixo dos preços atuais, mas realize lucros parciais se o mercado mostrar sinais de exaustão no impulso de alta. O momento ideal para agir é durante os picos de tráfego do servidor, quando a liquidez aumenta e permite entradas mais precisas em ativos como Timothy Weah e Bradley Barcola, que estão em tendência de alta moderada mas com fundamental sólido.
+A estratégia para hoje deve focar em evitar compras impulsivas nas altas, pois a probabilidade de reversão é alta em um mercado com média negativa de -0,36%. Recomenda-se observar as quedas de Ismaëlo Ganiou e Rassoul Ndiaye como possíveis oportunidades de compra em fundos, dada a probabilidade de alta residual de 42% e 37% respectivamente, mas apenas com parcelas pequenas e stop-loss ajustado. Cartas como Kenny Lala e Alexsandro, com probabilidades de alta superiores a 50% mas em queda livre, podem ser monitoradas para compra em preços mais baixos, aguardando um estabilização da volatilidade. Para os mais arrojados, Désiré Doué (87) a 150 mil coins pode ser uma aposta de curto prazo, considerando a probabilidade de alta de 53% e a natureza cíclica de ativos de ataque. Em resumo, o dia pede paciência e disciplina: segure as cartas de longo prazo como David Ginola e Abedi Pelé, evite alavancar nas altas de Ruben Kluivert e Jordan Teze sem confirmação de tendência, e esteja pronto para comprar sangue no chão se as quedas de Ganiou e Ndiaye continuarem, mas com extrema cautela.
 
 
 ## 🔍 Como apuramos os preços
@@ -77,13 +77,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Eric Dier (86, Ligue 1 McDonald's), com +55.4% em 24h, a 29k coins no PC.
+Ruben Kluivert (86, Ligue 1 McDonald's), com +51.4% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**  
-Ismaëlo Ganiou (84), -38.8% em 24h, a 36k coins.
+Ismaëlo Ganiou (84), -41.2% em 24h, a 34k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 39 cartas em alta contra 49 em queda (média -0.79%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 39 cartas em alta contra 59 em queda (média -0.36%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
