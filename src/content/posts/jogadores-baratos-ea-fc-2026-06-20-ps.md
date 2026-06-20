@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:35:09.000Z
+pubDatetime: 2026-06-20T19:35:12.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | +3.4% |
-| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 15k coins | +4.3% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +2.2% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
-| Achraf Hakimi | 84 | RB | Ligue 1 McDonald's | 9k coins | +50% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +9.6% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -10.2% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.4% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 13k coins | -8.8% |
 
 
 ## 📈 Destaques
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
-
-- **Pierre-Emerick Aubameyang (87, ST)** da Ligue 1 McDonald's, a apenas **15k coins**
-
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Achraf Hakimi (84, RB)** da Ligue 1 McDonald's, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+
+- **Maghnes Akliouche (84, CAM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

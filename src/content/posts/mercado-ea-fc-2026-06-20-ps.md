@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:34:43.000Z
+pubDatetime: 2026-06-20T19:34:48.000Z
 title: "Ligue 1 no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Tanguy Ndombele (85, Ligue 1 McDonald's), com +39.5% em 24h, a 21k coins no Console (PS)."
+    a: "Julio César Enciso (87, Ligue 1 McDonald's), com +35% em 24h, a 38k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Willian Pacho (90), -47.5% em 24h, a 74k coins."
+    a: "Willian Pacho (90), -47.5% em 24h, a 70k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Olivier Giroud (89) — 95% de probabilidade de alta, a 27k coins."
+    a: "Pelo modelo FutQuant, Olivier Giroud (89) — 95% de probabilidade de alta, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 14 cartas em alta contra 73 em queda (média -12.38%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 16 cartas em alta contra 56 em queda (média -7.97%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado da Ligue 1 em consoles PlayStation está passando por um dos dias mais voláteis e hostis para traders de curto prazo, caracterizado por uma pressão vendedora massiva que domina completamente o cenário dos últimos 24 horas. Com uma proporção desequilibrada de 14 altas contra impressionantes 73 quedas, a média de variação negativa atingiu -12.38%, indicando que a maioria absoluta dos ativos está sendo liquidada sem resistência significativa na compra. Esse sentimento de pânico ou ajuste de portfólio sugere que traders estão priorizando a liquidez imediata, vendendo cartas de alta e média rareza para se protegerem de eventuais quedas estruturais ou para capitalizar em oportunidades de arbitragem em outros segmentos. O tom do dia é de extrema cautela, onde a regra básica de 'comprar na baixa e vender na alta' está temporariamente invertida devido à velocidade das quedas, exigindo que os operadores tenham estômago para aguentar a volatilidade ou paciência para esperar os fundos de mercado. Operar neste ambiente requer leitura fria, pois muitas das quedas parecem ser movimentos algorítmicos de venda em massa, criando falsos fundos que podem se recuperar rapidamente se a oferta esgotar.
+O mercado de Ligue 1 no console PlayStation apresenta hoje um cenário extremamente hostil para traders que buscam ganhos rápidos, com uma predominância esmagadora de quedas que reflete uma liquidez em retração e um sentimento de cautela generalizada entre os investidores. Com 56 jogadores registrando perdas de valor contra apenas 16 altas, a média de variação negativa de -7.97% em 24 horas serve como um alerta claro para evitar compras impulsivas em ativos sem fundamentos sólidos de suporte. O tom do dia é de desinvestimento, onde a especulação de curto prazo está sendo penalizada severamente, forçando os traders a adotarem uma postura defensiva e a aguardarem oportunidades de compra em fundos de mercado. Essa dinâmica de pressão vendedora indica que muitos ativos superestimados nas últimas sessões estão encontrando seu preço justo, enquanto a falta de novos conteúdos ou eventos imediatos no calendário do jogo reduz o apetite por risco. Portanto, a estratégia central para hoje deve focar na identificação de ativos resilientes que conseguiram subir contra a maré, pois eles demonstram uma demanda orgânica que pode se sustentar mesmo em um ambiente de baixa liquidez.
 
-> 🟢 **Maior alta:** Tanguy Ndombele (85) **+39.5%** · 🔴 **Maior baixa:** Willian Pacho (90) **-47.5%**
+> 🟢 **Maior alta:** Julio César Enciso (87) **+35%** · 🔴 **Maior baixa:** Willian Pacho (90) **-47.5%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 21k coins | +39.5% | +48.7% |
-| Alexsandro | 86 | Ligue 1 McDonald's | 20k coins | +32.3% | +42.4% |
-| Florian Thauvin | 83 | Ligue 1 McDonald's | 49k coins | +23.1% | -5.3% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 25k coins | +15.7% | +14.4% |
-| Endrick | 86 | Ligue 1 McDonald's | 75k coins | +14.3% | +1.9% |
-| Dante | 88 | Ligue 1 McDonald's | 50k coins | +13.3% | +1% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 45k coins | +12.5% | +32.4% |
-| Aron Dønnum | 87 | Ligue 1 McDonald's | 21k coins | +11.4% | -12.4% |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 50k coins | +11.1% | 0% |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 52k coins | +3.5% | -4.6% |
+| Julio César Enciso | 87 | Ligue 1 McDonald's | 38k coins | +35% | +14.4% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 31k coins | +33.7% | +33.7% |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 26k coins | +30% | +52.9% |
+| Florian Thauvin | 83 | Ligue 1 McDonald's | 47k coins | +27% | -13% |
+| Ilan Kebbal | 86 | Ligue 1 McDonald's | 25k coins | +26.2% | -35.3% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 158k coins | +18.5% | -25.4% |
+| Guéla Doué | 84 | Ligue 1 McDonald's | 52k coins | +18.5% | +65.8% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 40k coins | +9.8% | 0% |
+| Matthis Abline | 81 | Ligue 1 McDonald's | 43k coins | +7.5% | -8.5% |
+| Hamari Traoré | 87 | Ligue 1 McDonald's | 21k coins | +5% | +18.3% |
 
 
-Entre as poucas cartas que conseguiram subir de valor, Tanguy Ndombele liderou com alta de 39.5% chegando a 21k coins, embora a probabilidade de alta futura seja baixa em 5%, sugerindo um movimento especulativo isolado e não sustentável. Alexsandro seguiu com alta de 32.3% a 20k coins, apresentando probabilidade de alta de 68%, o que indica que há compradores institucionais ou de longo prazo entrando para segurar o ativo após correções anteriores. Florian Thauvin teve alta de 23.1% a 49k coins com probabilidade de alta de 60%, mostrando que cartas de nível 83 com demanda de squad builder específico podem ter resiliência própria mesmo em dias de queda generalizada. Florian Sotoca subiu 15.7% a 25k coins, mas com probabilidade de alta de apenas 5%, indicando que sua subida pode ser apenas uma correção técnica momentânea antes de continuar a cair. Endrick, carta de alto valor, subiu 14.3% a 75k coins com probabilidade de alta de 68%, sinalizando que ativos premium estão sendo acumulados por traders que acreditam em uma reversão de tendência no médio prazo, aproveitando o pânico dos varejistas para comprar barato.
+Entre os poucos ativos que conseguiram valorizar, destaca-se o desempenho excepcional de Julio César Enciso, que registrou uma alta de 35% em 24 horas, atingindo o preço de 38k coins, apesar de uma probabilidade de alta histórica baixa de apenas 8%, o que sugere um movimento especulativo de curto prazo que deve ser monitorado com cautela para lucros rápidos. Florian Sotoca também se manteve firme com uma valorização de 33.7%, chegando a 31k coins, operando com uma probabilidade de alta de apenas 5%, indicando que sua subida pode ser fruto de uma oferta momentaneamente esgotada em vez de uma demanda estrutural sólida. Pierre Lees-Melou apresentou um cenário mais promissor para traders conservadores, com alta de 30% a 26k coins e uma robusta probabilidade de alta de 68%, o que aponta para uma tendência de sustentabilidade no preço e menor risco de reversão imediata. Florian Thauvin, com 27% de alta e preço em 47k coins, reforça essa tese de sustentabilidade com uma probabilidade de alta de 60%, tornando-o um ativo interessante para segurar em carteiras de médio prazo. Por fim, Ilan Kebbal, que subiu 26.2% a 25k coins com probabilidade de alta de 68%, completa o grupo de ativos que combinam movimento positivo com indicadores estatísticos favoráveis, sugerindo que a demanda por seus atributos específicos está superando a pressão vendedora do mercado.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 74k coins | -47.5% | -35.5% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 86k coins | -46.1% | -23.9% |
-| Ousmane Dembélé | 86 | Ligue 1 McDonald's | 26k coins | -44.4% | -45% |
-| Abedi Pelé | 90 | Ligue 1 McDonald's | 80k coins | -43.6% | -41.5% |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 88k coins | -39.6% | -29.1% |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 20k coins | -39.2% | -38.7% |
-| Vitinha | 95 | Ligue 1 McDonald's | 375k coins | -36.6% | -46.5% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 51k coins | -35.8% | -48.5% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 128k coins | -35% | -36.8% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 600k coins | -32.6% | -21% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 70k coins | -47.5% | -35% |
+| Endrick | 91 | Ligue 1 McDonald's | 364k coins | -41% | -38% |
+| João Neves | 88 | Ligue 1 McDonald's | 100k coins | -36.3% | -21.9% |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 116k coins | -32.3% | -28.6% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 548k coins | -30.4% | -31.9% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 30k coins | -26.5% | -16.4% |
+| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 2M coins | -25.9% | -35.3% |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 31k coins | -23.6% | -42.5% |
+| Diego Moreira | 84 | Ligue 1 McDonald's | 30k coins | -23.1% | -30.2% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 450k coins | -22.3% | -13.8% |
 
 
-Do lado das quedas, Willian Pacho sofreu uma queda brutal de 47.5% a 74k coins, sendo um dos ativos mais vendidos, possivelmente devido a uma liberação de squads ou fim de deadline de investimento, com probabilidade de alta de apenas 33%. Abedi Pelé (90) caiu 46.1% a 86k coins, enquanto sua versão de nível 91 caiu 43.6% a 80k coins, mostrando que tanto as versões comuns quanto as especiais estão sendo liquidadas agressivamente, com probabilidades de alta de 80% e 68% respectivamente, sugerindo que podem ser oportunidades de compra de contra-tendência. Ousmane Dembélé caiu 44.4% a 26k coins, uma queda significativa para uma carta de nível 86, com probabilidade de alta de 63%, indicando que o mercado pode estar corrigindo uma sobrevalorização anterior. Pierre-Emile Højbjerg caiu 39.6% a 88k coins, um ativo de defesa que perdeu valor rapidamente, com probabilidade de alta de 50%, refletindo a incerteza sobre sua utilidade em squads competitivos atuais. Vitinha, uma carta de altíssimo nível 95, caiu 36.6% a 375k coins, demonstrando que mesmo os ativos mais caros não estão imunes à pressão vendedora, com probabilidade de alta de 38%, sugerindo que o topo do mercado ainda não encontrou seu fundo definitivo.
+As quedas no mercado foram brutais e abrangem desde estrelas absolutas até ativos de entrada, com Willian Pacho liderando as perdas com uma queda devastadora de 47.5% a 70k coins, apesar de ainda manter uma probabilidade de alta de 33%, o que indica um fundo potencial, mas com risco extremo de compra prematura. Endrick sofreu uma desvalorização massiva de 41% a 364k coins, um sinal claro de que os investidores estão liquidando posições caras para cortar perdas, mesmo com uma probabilidade de alta de 60% sugerindo que o ativo pode ter suporte mais abaixo. João Neves caiu 36.3% a 100k coins, um movimento particularmente preocupante dado que o modelo atribui a ele uma probabilidade de alta de 95%, criando uma dissonância perigosa entre a queda atual e a expectativa futura de valorização. Pierre-Emile Højbjerg perdeu 32.3% a 116k coins, enquanto Ousmane Dembélé, em sua versão 91, despencou 30.4% a 548k coins, demonstrando que ativos de alto valor estão sendo abandonados rapidamente por traders que priorizam a preservação de capital. Mark McKenzie, com queda de 26.5% a 30k coins e probabilidade de alta de apenas 5%, e Mason Greenwood, com queda de 23.6% a 31k coins, completam o quadro de ativos em queda livre que devem ser evitados até que haja estabilização clara nos gráficos de volume e preço.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -74,17 +74,17 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Olivier Giroud | 89 | 27k coins | 35k coins | 95% |
-| Bradley Barcola | 87 | 53k coins | 71k coins | 95% |
-| Nabil Bentaleb | 86 | 20k coins | 23k coins | 95% |
-| Roman Yaremchuk | 89 | 28k coins | 38k coins | 95% |
-| Aron Dønnum | 87 | 21k coins | 24k coins | 93% |
+| Olivier Giroud | 89 | 22k coins | 29k coins | 95% |
+| Roman Yaremchuk | 89 | 30k coins | 40k coins | 95% |
+| João Neves | 88 | 100k coins | 115k coins | 95% |
 | Igor Paixão | 87 | 30k coins | 34k coins | 93% |
-| Denis Zakaria | 86 | 35k coins | 39k coins | 84% |
-| Denis Zakaria | 85 | 15k coins | 17k coins | 84% |
+| Denis Zakaria | 86 | 32k coins | 36k coins | 84% |
+| Abedi Pelé | 91 | 65k coins | 71k coins | 80% |
+| Ayyoub Bouaddi | 86 | 24k coins | 26k coins | 80% |
+| Blaise Matuidi | 87 | 152k coins | 163k coins | 74% |
 
 
-O modelo preditivo aponta Olivier Giroud (89) com probabilidade de alta de 95% a 27k coins e Bradley Barcola (87) também com 95% a 53k coins, indicando fortes sinais de reversão iminente para esses ativos. Nabil Bentaleb (86) aparece com probabilidade de alta de 95% a 20k coins, apesar da queda recente, sugerindo que a venda excessiva pode ter criado um fundo técnico sólido para compra. Roman Yaremchuk (89) e Igor Paixão (87) compartilham probabilidade de alta de 95% e 93% respectivamente, a 28k e 30k coins, formando um grupo de ativos defensivos/mesmo-campo com potencial de valorização. Denis Zakaria aparece em duas versões, nível 86 a 35k e nível 85 a 15k, ambas com probabilidade de alta de 84%, indicando consistência na demanda por esta posição e nível de raridade.
+O modelo de previsão identifica uma oportunidade significativa em ativos que, embora não tenham subido hoje ou estejam em queda, possuem probabilidades de alta extremamente elevadas, sugerindo uma correção de preço em andamento. Olivier Giroud, a 22k coins, e Roman Yaremchuk, a 30k coins, ambos com probabilidade de alta de 95%, são candidatos ideais para compra agressiva, pois o modelo indica que estão próximos de um fundo de mercado sustentado. João Neves, mesmo com a queda de 36.3% mencionada anteriormente, mantém uma probabilidade de alta de 95% a 100k coins, o que pode representar a oportunidade de compra mais rentável do dia para traders dispostos a assumir o risco de volatilidade. Igor Paixão, a 30k coins com 93% de probabilidade de alta, e Denis Zakaria, a 32k coins com 84%, oferecem perfis de risco-recompensa atrativos para carteiras diversificadas. Abedi Pelé, a 65k coins com 80% de probabilidade, e Ayyoub Bouaddi, a 24k coins também com 80%, completam o grupo de ativos com forte indicação estatística de valorização futura, enquanto Blaise Matuidi, a 152k coins com 74%, deve ser monitorado como uma aposta de maior valor, mas com potencial de retorno significativo se a tendência de alta se confirmar nos próximos dias.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -93,18 +93,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
+| Florian Sotoca | 85 | 31k coins | -24.1% |
+| Tanguy Ndombele | 85 | 55k coins | -15.5% |
+| Mark McKenzie | 90 | 30k coins | -16.7% |
+| Florian Thauvin | 87 | 32k coins | -15.6% |
 | Arsène Kouassi | 87 | 30k coins | -15.6% |
-| Sidney Govou | 87 | 43k coins | -29.1% |
+| Sidney Govou | 87 | 38k coins | -29.1% |
 | Pierre-Emerick Aubameyang | 86 | 32k coins | -24% |
-| Florian Thauvin | 87 | 35k coins | -15.6% |
-| Blaise Matuidi | 86 | 27k coins | -29% |
-| Florian Sotoca | 85 | 25k coins | -24.1% |
-| Tanguy Ndombele | 85 | 21k coins | -15.5% |
-| Jordan Teze | 87 | 16k coins | -24% |
+| Estéban Lepaul | 83 | 40k coins | -21.3% |
 
 
 ## 🎯 O que fazer hoje
-A estratégia do dia deve focar em acumular ativos com alta probabilidade de reversão, como Olivier Giroud, Bradley Barcola e Nabil Bentaleb, que o modelo projeta com 95% de chance de alta, aproveitando os preços baixos criados pela venda em massa. Evite comprar cegamente as cartas que subiram hoje, como Tanguy Ndombele e Florian Sotoca, pois suas probabilidades de alta futura são baixas e o risco de correção imediata é elevado. Considere segurar ou comprar pequenas quantidades de Endrick e Alexsandro, que já mostraram força relativa com probabilidades de alta superiores a 60%, enquanto monitora a liquidação de Willian Pacho e Abedi Pelé para entradas de contra-trend apenas se houver confirmação de suporte. O timing ideal é aguardar o fechamento do dia para ver se as quedas de Vitinha e Højbjerg se estabilizam, pois probabilidades de alta de 38% e 50% ainda indicam risco significativo para compras de longo prazo. Priorize a gestão de risco, não expondo mais de 10% do capital em ativos de baixa probabilidade de alta, e mantenha liquidez em coins para explorar as oportunidades de compra forçada que surgirão nas próximas 24 horas conforme o pânico diminuir.
+A estratégia para hoje deve ser predominantemente defensiva, focando na compra de ativos com alta probabilidade de sustentação que estão sendo vendidos em pânico, como João Neves e Olivier Giroud, enquanto se evita qualquer exposição a ativos em queda livre sem suporte claro, como Willian Pacho e Endrick. Traders devem priorizar a compra de Pierre Lees-Melou e Ilan Kebbal devido ao seu equilíbrio entre alta recente e probabilidade estatística, segurando-os para revenda em curto prazo conforme a liquidez se normaliza. É crucial evitar a compra de ativos em alta especulativa como Julio César Enciso e Florian Sotoca, pois suas probabilidades de alta baixas indicam risco elevado de reversão imediata. O foco deve estar em acumular posições em Giroud, Yaremchuk e Paixão, que o modelo projeta como fortes candidatos a valorização, aproveitando a pressão vendedora do mercado para adquirir ativos de qualidade a preços descontados. Por fim, monitore de perto Ousmane Dembélé e Mark McKenzie apenas se houver sinais claros de estabilização de volume, pois entrar em ativos em queda sem confirmação de fundo é uma das principais causas de perda de capital neste tipo de mercado.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -114,16 +114,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Tanguy Ndombele (85, Ligue 1 McDonald's), com +39.5% em 24h, a 21k coins no Console (PS).
+Julio César Enciso (87, Ligue 1 McDonald's), com +35% em 24h, a 38k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Willian Pacho (90), -47.5% em 24h, a 74k coins.
+Willian Pacho (90), -47.5% em 24h, a 70k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Olivier Giroud (89) — 95% de probabilidade de alta, a 27k coins.
+Pelo modelo FutQuant, Olivier Giroud (89) — 95% de probabilidade de alta, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 14 cartas em alta contra 73 em queda (média -12.38%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 16 cartas em alta contra 56 em queda (média -7.97%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
