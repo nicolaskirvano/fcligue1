@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:39:24.000Z
+pubDatetime: 2026-06-20T01:36:08.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Guéla Doué (84, Ligue 1 McDonald's) lidera, com +86.7% em 7 dias a 42k coins no PC, e o modelo dá 52% de chance de seguir subindo."
+    a: "Pierre Lees-Melou (87, Ligue 1 McDonald's) lidera, com +68.1% em 7 dias a 28k coins no PC, e o modelo dá 48% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Guéla Doué (84) acumula **+86.7% em 7 dias** a 42k coins.
+> 🔝 **Destaque:** Pierre Lees-Melou (87) acumula **+68.1% em 7 dias** a 28k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário atual do EA FC Ultimate Team, focado especificamente na liga Ligue 1 para a plataforma PC em 19 de junho de 2026, a análise de mercado revela oportunidades claras de investimento baseadas na volatilidade recente das cartas promocionais da campanha McDonald's. A estratégia de compra hoje deve priorizar ativos que demonstram não apenas um aumento percentual significativo no último dia, mas, crucialmente, uma alta probabilidade estatística de continuidade dessa valorização. Entre as opções disponíveis, Mark McKenzie se destaca como a aposta mais sólida para entrada imediata. Com uma impressionante alta de 37,3% em apenas 24 horas e posicionado na faixa de 32 mil coins, o lateral-esquerdo possui uma probabilidade de alta de 78%, o maior índice entre todos os jogadores listados. Essa combinação de preço acessível e tendência extremamente favorável sugere que a carta ainda não atingiu seu pico de demanda, oferecendo uma margem de segurança considerável para investidores que buscam lucros de curto prazo com menor risco.
+No cenário do EA FC Ultimate Team em PC, a data de 19 de junho de 2026 marca um momento crucial para os investidores que buscam oportunidades no mercado da Ligue 1 McDonald's. A análise da tendência de valorização dos últimos sete dias revela um mercado dinâmico, onde a volatilidade diária está impulsionando preços significativamente. Entre as opções disponíveis, destacam-se aquelas que combinam um aumento percentual robusto nas últimas 24 horas com uma alta probabilidade estatística de continuidade dessa ascensão. Para o investidor cauteloso, a chave está em identificar cartas que não apenas subiram, mas que possuem fundamentos de demanda sustentada, evitando armadilhas de picos isolados.
 
-Outra carta que merece atenção especial é Marquinhos. Embora o aumento percentual de 24 horas seja modesto, com apenas 1,3%, a probabilidade de alta para os próximos dias é de 72%, o segundo maior valor da lista. Situado em 80 mil coins, o zagueiro do Paris Saint-Germain apresenta um perfil de investimento defensivo, onde a estabilidade e a probabilidade estatística pesam mais do que a volatilidade imediata. Para jogadores que preferem evitar oscilações bruscas e apostam na consistência do mercado de defensores de elite, Marquinhos representa uma entrada inteligente, potencialmente valorizando-se de forma gradual e segura à medida que a demanda por formações competitivas na Ligue 1 se intensifica.
+Pierre Lees-Melou surge como uma das apostas mais interessantes, registrando um impressionante aumento de 16% em apenas 24 horas. Com um rating de 87 e um preço atual de 28k coins, a carta apresenta uma probabilidade de alta de 48%, o que sugere um equilíbrio saudável entre risco e retorno. A rápida valorização indica um interesse imediato da comunidade, possivelmente impulsionado por utilidade em squads específicos ou meta de jogo. Embora a probabilidade não seja a mais alta do grupo, o momentum atual é forte o suficiente para justificar uma entrada estratégica, especialmente para quem busca lucros de curto prazo.
 
-Para aqueles dispostos a assumir riscos moderados em busca de retornos mais agressivos, Guéla Doué e Santiago Hidalgo se destacam como candidatos promissores. Doué registrou uma alta de 16,7% em 24 horas, atingindo 42 mil coins, com uma probabilidade de alta de 52%. Já Hidalgo, com 27,6% de valorização diária e preço de 39 mil coins, apresenta uma probabilidade de alta de 49%. Ambos os jogadores oferecem um equilíbrio interessante entre custo de entrada e potencial de crescimento, situando-se em uma faixa de preço intermediária que costuma atrair tanto construtores de times de médio orçamento quanto traders oportunistas. A similaridade nas probabilidades de alta indica que o mercado está começando a reconhecer o valor competitivo dessas cartas na meta atual.
+Por outro lado, Olivier Giroud, com um rating superior de 89, oferece uma segurança maior. A carta subiu 14.4% em 24 horas e está cotada a 30k coins, mas o diferencial está na probabilidade de alta de 71%. Esse número elevado indica uma tendência de valorização consolidada, tornando Giroud uma opção mais segura para quem deseja minimizar riscos. A combinação de preço acessível e alta probabilidade de continuidade faz dele um dos ativos mais atraentes da Ligue 1 McDonald's no momento, ideal para carteiras que priorizam estabilidade.
 
-Blaise Matuidi também apresenta dados interessantes, embora com um perfil de risco diferente. A carta de 86 rating subiu 32,5% em um dia, atingindo um preço elevado de 106 mil coins. No entanto, sua probabilidade de alta é de apenas 31%, o que sugere que a valorização recente pode ser resultado de especulação momentânea ou baixa liquidez, em vez de uma tendência sustentável de longo prazo. Investir em Matuidi requer cautela, pois o alto preço de entrada combinado com probabilidade moderada de continuidade torna o retorno sobre o investimento menos previsível em comparação com opções como McKenzie ou Hidalgo.
+Mark McKenzie também merece destaque imediato. Com um rating de 90, a carta experimentou um aumento de 12.7% em 24 horas, atingindo o preço de 35k coins. O fator mais compelling aqui é a probabilidade de alta de 78%, a maior entre os jogadores listados. Isso sugere uma demanda extremamente forte, possivelmente devido à sua versatilidade ou status de "meta" em certas composições de time. Para investidores que confiam em dados estatísticos, McKenzie representa a oportunidade mais sólida de valorização contínua no curto prazo.
 
-Por outro lado, cartas como Pierre-Emerick Aubameyang, Allan Saint-Maximin e Maghnes Akliouche apresentam sinais de cautela para entrada neste momento. Aubameyang, com apenas 4,9% de alta e 34% de probabilidade, e Akliouche, com 29,4% de alta mas apenas 6% de probabilidade de continuar subindo, indicam mercados saturados ou em correção iminente. Saint-Maximin, apesar da alta de 13,6%, tem apenas 17% de probabilidade de continuar valorizando, o que é particularmente preocupante dado seu preço exorbitante de 120 mil coins. A discrepância entre o percentual de alta recente e a baixa probabilidade futura sugere que esses ativos podem estar no topo de suas curvas de valorização, tornando-os menos atrativos para novos investimentos hoje.
+Alexsandro e Ilan Kebbal completam o trio de destaque por seus perfis complementares. Alexsandro, com 86 de rating e preço de 27k, teve o maior percentual de alta em 24h entre os listados, com 23.9%, e uma probabilidade de 54% de continuar subindo. Já Ilan Kebbal, também a 30k e com 86 de rating, subiu 6.2% em 24h, mas carrega uma probabilidade de alta de 65%. Ambos oferecem oportunidades válidas, sendo Alexsandro mais agressivo e Kebbal mais equilibrado. A escolha entre eles dependerá da tolerância ao risco do investidor, pois ambos mostram sinais claros de interesse do mercado.
 
-Em resumo, a estratégia mais prudente para 19 de junho de 2026 concentra-se em Mark McKenzie e Marquinhos pela alta probabilidade de continuidade, enquanto Guéla Doué e Santiago Hidalgo oferecem alternativas de risco moderado. Evitar cartas com alta volatilidade diária mas baixa probabilidade de alta, como Saint-Maximin e Akliouche, é essencial para preservar o capital. O mercado da Ligue 1 McDonald's exige análise fria, priorizando sempre a probabilidade estatística sobre o impulso emocional de altas recentes.
+Em resumo, o mercado da Ligue 1 McDonald's em 19/06/2026 apresenta oportunidades claras em cartas como Giroud, McKenzie e Lees-Melou. A estratégia recomendada é focar naqueles com alta probabilidade de valorização, como Giroud (71%) e McKenzie (78%), para garantir lucros mais seguros. Cartas como Alexsandro e Lees-Melou podem ser usadas para diversificar o portfólio com potencial de retorno mais alto, embora com risco ligeiramente maior. Evitar cartas com baixa probabilidade de alta, como Maghnes Akliouche (6%), é essencial para manter a saúde financeira da conta.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,27 +45,29 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Guéla Doué | 84 | Ligue 1 McDonald's | 42k coins | +16.7% | +86.7% | 52% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 106k coins | +32.5% | +39.5% | 31% |
-| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 22k coins | +4.9% | +32.3% | 34% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 32k coins | +37.3% | +32.1% | 78% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 120k coins | +13.6% | +27.6% | 17% |
-| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 16k coins | +29.4% | +24.5% | 6% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 80k coins | +1.3% | +13.5% | 72% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 39k coins | +27.6% | +6.1% | 49% |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 28k coins | +16% | +68.1% | 48% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 30k coins | +14.4% | +63% | 71% |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 18k coins | +12.5% | +35.8% | 6% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 36k coins | +6% | +26.8% | 29% |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 96k coins | +2.6% | +23.9% | 31% |
+| Ilan Kebbal | 86 | Ligue 1 McDonald's | 30k coins | +6.2% | +19% | 65% |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 65k coins | +1.6% | +14% | 22% |
+| Alexsandro | 86 | Ligue 1 McDonald's | 27k coins | +23.9% | +9% | 54% |
+| João Neves | 88 | Ligue 1 McDonald's | 217k coins | +9.6% | +8.5% | 41% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 35k coins | +12.7% | +8.5% | 78% |
 
 
 ## 📈 Análise dos destaques
 
-- **Guéla Doué (84)** — 42k coins, **+86.7% em 7 dias** (+16.7% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pierre Lees-Melou (87)** — 28k coins, **+68.1% em 7 dias** (+16% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Blaise Matuidi (86)** — 106k coins, **+39.5% em 7 dias** (+32.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Olivier Giroud (89)** — 30k coins, **+63% em 7 dias** (+14.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Pierre-Emerick Aubameyang (87)** — 22k coins, **+32.3% em 7 dias** (+4.9% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maghnes Akliouche (84)** — 18k coins, **+35.8% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mark McKenzie (90)** — 32k coins, **+32.1% em 7 dias** (+37.3% em 24h). Preço -12% abaixo da média de 7 dias (descontada). 🔮 O modelo reforça a tese: **78% de chance de seguir subindo**.
+- **Mamadou Sangaré (87)** — 36k coins, **+26.8% em 7 dias** (+6% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Allan Saint-Maximin (92)** — 120k coins, **+27.6% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Blaise Matuidi (86)** — 96k coins, **+23.9% em 7 dias** (+2.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +85,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Guéla Doué (84, Ligue 1 McDonald's) lidera, com +86.7% em 7 dias a 42k coins no PC, e o modelo dá 52% de chance de seguir subindo.
+Pierre Lees-Melou (87, Ligue 1 McDonald's) lidera, com +68.1% em 7 dias a 28k coins no PC, e o modelo dá 48% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

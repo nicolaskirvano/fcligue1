@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:38:21.000Z
+pubDatetime: 2026-06-20T01:35:47.000Z
 title: "Ligue 1 no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Florian Thauvin (85, Ligue 1 McDonald's), com +56.5% em 24h, a 24k coins no PC."
+    a: "Senny Mayulu (83, Ligue 1 McDonald's), com +48.5% em 24h, a 74k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Amine Gouiri (84), -33.3% em 24h, a 30k coins."
+    a: "Eric Dier (86), -41.4% em 24h, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 40 cartas em alta contra 50 em queda (média 0.93%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 46 cartas em alta contra 55 em queda (média -1.61%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O cenário do mercado da Ligue 1 nesta segunda-feira, 19 de junho de 2026, apresenta um equilíbrio delicado e sutil, com o sentimento geral apontando para um mercado lateral onde as forças compradoras e vendedoras se neutralizam de forma surpreendente. Os dados indicam uma distribuição quase simétrica entre as movimentações, com exatamente 40 jogadores registrando altas de preço contra 50 em queda, resultando em uma variação média de apenas 0.93% nas últimas 24 horas para o segmento. Essa estabilidade relativa sugere que os traders estão aguardando um gatilho claro, seja uma nova equipe de SBC, um evento de fim de semana ou um anúncio oficial da EA Sports, para direcionar fluxos mais significativos de capital. A volatilidade contida implica que oportunidades de arbitragem são escassas e exigem uma análise granular dos ativos individuais, pois não há um movimento macro que arraste todo o mercado para uma direção específica. Portanto, a estratégia do dia deve focar na seletividade extrema, identificando quais ativos estão sendo manipulados por demanda orgânica versus aqueles que estão caindo por pura especulação de venda em massa.
+O mercado da Ligue 1 nesta segunda-feira, 19 de junho de 2026, exibe um viés predominantemente vendedor, caracterizado por uma liquidez cautelosa e uma aversão ao risco que penalizou a maioria das cartas em negociação, resultando em uma média negativa de -1.61% nas últimas 24 horas para o segmento. Com um balanço de 46 altas contra 55 quedas, o ambiente sugere que traders estão priorizando a conversão de ativos em coins para aguardar eventos futuros ou simplesmente realizando lucros em posições estabelecidas, criando um cenário onde a manutenção de valores estáticos é rara. O sentimento geral é de descompressão de preços, onde apenas cartas com demanda específica ou escassez súbita conseguiram deflagrar movimentos de alta significativos, enquanto a massa crítica de jogadores caiu em função da falta de compradores dispostos a pagar prêmios de conveniência. Este contexto exige uma leitura apurada da probabilidade de alta associada a cada movimento, pois nem todo aumento de preço indica uma tendência sustentável, sendo crucial diferenciar entre picos momentâneos de demanda e valorizações estruturais. A volatilidade presente neste dia reforça a necessidade de disciplina, evitando-se compras impulsivas em ativos que estão em queda livre, mesmo que pareçam descontados, já que o suporte de preço ainda não foi estabelecido para a maioria dos itens listados.
 
-> 🟢 **Maior alta:** Florian Thauvin (85) **+56.5%** · 🔴 **Maior baixa:** Amine Gouiri (84) **-33.3%**
+> 🟢 **Maior alta:** Senny Mayulu (83) **+48.5%** · 🔴 **Maior baixa:** Eric Dier (86) **-41.4%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 24k coins | +56.5% | +54% |
-| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 43k coins | +48.3% | +25.4% |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 47k coins | +44.3% | +6.2% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 32k coins | +37.3% | +32.1% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 106k coins | +32.5% | +39.5% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 39k coins | +27.6% | +6.1% |
-| Berke Özer | 83 | Ligue 1 McDonald's | 68k coins | +22.7% | +42.1% |
-| Vitinha | 91 | Ligue 1 McDonald's | 870k coins | +22.2% | -2.1% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 80k coins | +21.5% | +86.4% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 178k coins | +20% | -8.2% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 74k coins | +48.5% | +70.5% |
+| Ludovic Blas | 86 | Ligue 1 McDonald's | 27k coins | +42.1% | +31.7% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.40M coins | +41.9% | +21.1% |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 22k coins | +40.3% | +38.1% |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 240k coins | +39.5% | +2.6% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 2M coins | +33.3% | +36.1% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 39k coins | +30.8% | +4.7% |
+| Amine Gouiri | 84 | Ligue 1 McDonald's | 42k coins | +27.1% | -9.6% |
+| Alexsandro | 86 | Ligue 1 McDonald's | 27k coins | +23.9% | +9% |
+| Estéban Lepaul | 83 | Ligue 1 McDonald's | 52k coins | +19.8% | +32.1% |
 
 
-Entre as altas mais expressivas, Florian Thauvin lidera o ranking com um impressionante aumento de 56.5% em 24 horas, atingindo a marca de 24 mil coins, impulsionado por uma probabilidade de alta futura de 71% que atraiu especuladores de curto prazo. Rassoul Ndiaye também se destaca com uma valorização de 48.3%, chegando a 43 mil coins, embora sua probabilidade de alta de apenas 37% indique que o movimento pode ser efêmero e baseado em compras de última hora para times de SBC. Gerónimo Rulli subiu 44.3% para 47 mil coins, mas com uma probabilidade de alta de 26%, sugerindo que o preço pode estar esticado demais para a demanda real do mercado de goleiros da Ligue 1. Mark McKenzie é outro caso interessante, com alta de 37.3% e preço de 32 mil coins, apoiado pela probabilidade mais alta do grupo em 78%, o que aponta para uma sustentação técnica mais sólida no gráfico. Por fim, Blaise Matuidi registrou alta de 32.5% para 106 mil coins, com probabilidade de 31%, indicando que mesmo cartões de alto valor estão sofrendo ajustes pontuais, possivelmente devido à escassez de ofertas na faixa de preço acima de 100 mil coins.
+Dentre os destaques positivos, Senny Mayulu (83) lidera o ranking com uma impressionante alta de 48.5% em 24 horas, atingindo 74k coins, impulsionado por uma probabilidade de alta de 54% que sugere continuidade no movimento, tornando-o um ativo atrativo para flipes rápidos antes da estabilização. Ludovic Blas (86) também se destaca com 42.1% de valorização, chegando a 27k coins, apoiado por uma robusta probabilidade de alta de 59%, indicando que a demanda por esta opção de médio custo está superando a oferta disponível no mercado. Ousmane Dembélé (91), embora em faixa de preço premium de 1.40M coins, subiu 41.9%, mas sua probabilidade de alta de apenas 28% alerta traders para a possibilidade de uma correção iminente ou estagnação, sugerindo cautela na entrada. Florian Thauvin (85) apresentou uma subida de 40.3% para 22k coins com a maior probabilidade de alta do grupo (71%), o que o torna um candidato forte para compras agressivas visando revenda no curto prazo, dada a forte inércia positiva. Pierre-Emile Højbjerg (85), por outro lado, subiu 39.5% para 240k coins, mas com probabilidade de alta de apenas 5%, sinalizando um possível pico de compra momentâneo, talvez por listas específicas, que não deve ser seguido sem confirmação de sustentação. Désiré Doué (91) com 33.3% para 2M coins e probabilidade de 31% reflete a volatilidade típica de itens de alto valor, onde pequenos movimentos percentuais representam grandes somas absolutas, exigindo gestão de risco rigorosa. Santiago Hidalgo (84) e Amine Gouiri (84) completam o cenário com altas de 30.8% (39k) e 27.1% (42k) respectivamente, ambos com probabilidades de alta próximas de 50%, indicando uma indecisão do mercado que pode levar tanto a continuidade quanto a reversão rápida.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Amine Gouiri | 84 | Ligue 1 McDonald's | 30k coins | -33.3% | -33.3% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 24k coins | -30.4% | +23.1% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 110k coins | -29.3% | -27.7% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 25k coins | -28.6% | -10.7% |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 23k coins | -27.9% | +16.2% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 40k coins | -27.5% | -23.7% |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 38k coins | -24% | +58.3% |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 21k coins | -22.7% | -53% |
-| Matthis Abline | 81 | Ligue 1 McDonald's | 35k coins | -22.1% | -10.8% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 23k coins | -21.8% | +25.7% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 20k coins | -41.4% | -28.4% |
+| Abedi Pelé | 90 | Ligue 1 McDonald's | 155k coins | -31.7% | -13.4% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 30k coins | -29.5% | +5.8% |
+| Vitinha | 95 | Ligue 1 McDonald's | 800k coins | -28.9% | -30.4% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 30k coins | -28.6% | -13.8% |
+| Dante | 88 | Ligue 1 McDonald's | 44k coins | -27.5% | -22.1% |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 44k coins | -27.2% | -41.2% |
+| Paul Pogba | 92 | Ligue 1 McDonald's | 979k coins | -26.6% | -21.1% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1M coins | -25.7% | +3.1% |
+| Matvey Safonov | 88 | Ligue 1 McDonald's | 191k coins | -24.5% | -24.2% |
 
 
-Na outra ponta do espectro, Amine Gouiri sofreu a maior queda com -33.3%, desvalorizando para 30 mil coins, apesar de manter uma probabilidade de alta de 56%, o que cria uma discrepância perigosa para quem compra no fundo sem analisar a liquidez. Tyler Morton caiu 30.4% para 24 mil coins, com probabilidade de alta de 45%, refletindo a saída de traders que perceberam o pico de demanda e liquidaram posições rapidamente. Willian Pacho, um ativo de maior valor, despencou 29.3% para 110 mil coins, com probabilidade de alta de 47%, sugerindo que o mercado de defensores de alto custo está passando por uma correção de sobreavaliação recente. Ben Chilwell também recuou 28.6% para 25 mil coins, mas sua baixa probabilidade de alta de 22% alerta para um possível fundo técnico ou continuação da tendência de baixa. Jordan Teze completou o grupo de maiores perdas com -27.9% para 23 mil coins, com probabilidade de 48%, indicando que a pressão vendedora ainda não foi totalmente absorvida pela demanda de compra.
+No espectro oposto, Eric Dier (86) sofreu a maior desvalorização com -41.4% em 24 horas, caindo para 20k coins, um movimento severo que, apesar de ter probabilidade de alta de 46%, indica uma liquidação massiva de estoques que pode continuar pressionando o preço até encontrar um suporte mais baixo. Abedi Pelé (90) recuou 31.7% para 155k coins, e com apenas 18% de probabilidade de alta, o ativo parece estar em uma tendência de baixa estabelecida, aconselhando traders a evitar compras por preço baixo e aguardar sinais de reversão clara. Jordan Teze (87) também perdeu valor significativo, com -29.5% para 30k coins, mantendo uma probabilidade de alta de 48% que sugere que o preço pode estar próximo de um fundo temporário, mas a falta de compradores ainda domina o order book. Vitinha (95), um ativo de elite a 800k coins, caiu 28.9%, e sua baixa probabilidade de alta de 18% confirma que a demanda por cartas de elite está enfraquecida neste momento, tornando-o uma armadilha potencial para quem busca valorização rápida. Ben Chilwell (90) despencou 28.6% para 30k coins, com probabilidade de alta de 22%, reforçando a tese de que defensores de média idade estão sendo descartados em favor de opções mais jovens ou baratas. Dante (88) com -27.5% para 44k coins e probabilidade de alta de 57% é uma exceção interessante, pois a alta probabilidade sugere que a venda pode estar exaurida, oferecendo uma oportunidade de compra contra-tendência para traders experientes. Pierre-Emerick Aubameyang (89) e Paul Pogba (92) também registraram quedas de 27.2% e 26.6% respectivamente, com probabilidades de alta baixas (26% e 31%), indicando que a pressão vendedora ainda não cessou completamente para esses ativos de alto custo.
 
 
 ## 🎯 Conclusão do dia
-A estratégia recomendada para hoje é de cautela seletiva, focando na compra de ativos com alta probabilidade de sustentação como Mark McKenzie (78%) e Florian Thauvin (71%), pois eles oferecem o melhor risco-retorno em um mercado lateral. Evite comprar Amine Gouiri e Tyler Morton apesar de suas probabilidades de alta moderadas, pois a queda acentuada de 33.3% e 30.4% respectivamente indica que a pressão vendedora ainda não esgotou seu ciclo. Segure posições em Blaise Matuidi e Gerónimo Rulli apenas se você tiver margem de tempo para aguardar a confirmação de novos eventos, já que suas probabilidades de alta são baixas e os preços estão inflacionados. Para traders de curto prazo, a arbitragem entre a alta de Thauvin e a queda de Gouiri pode ser explorada se houver uma rota de SBC que utilize ambos, aproveitando a diferença de sentimento. No geral, o mercado de 0.93% de variação média exige paciência, pois forçar operações em ativos como Ben Chilwell ou Willian Pacho pode resultar em perdas rápidas se a tendência de baixa se confirmar nos próximos ciclos de atualização de preços.
+A estratégia recomendada para hoje é focar na compra de ativos com alta probabilidade de reversão ou continuidade positiva, como Florian Thauvin (85) e Ludovic Blas (86), que combinam valorização recente com fortes indicadores de probabilidade de alta, minimizando o risco de perda rápida. É crucial evitar a compra de ativos em queda livre como Abedi Pelé (90) e Vitinha (95), pois suas baixas probabilidades de alta sugerem que o fundo ainda não foi atingido, expondo traders a perdas adicionais em uma tendência de venda. Para vendas, a oportunidade está em realizar lucros em cartas como Senny Mayulu (83) e Ousmane Dembélé (91), já que a alta volatilidade e o clima vendedor podem levar a correções abruptas se a demanda não se sustentar. Traders devem monitorar de perto Pierre-Emile Højbjerg (85) e Dante (88), pois a discrepância entre seus movimentos de preço e probabilidades de alta pode indicar pontos de virada de mercado, oferecendo oportunidades de arbitragem se a leitura for precisa. O timing é essencial; entrar no início do ciclo de mercado quando a liquidez ainda é baixa pode resultar em preços melhores, enquanto esperar pela confirmação de suporte em ativos em queda reduz a exposição ao risco de 'pegar faca caindo'. Finalmente, manter uma carteira diversificada entre ativos de baixo custo como Thauvin e ativos de alto valor como Dembélé permite equilibrar o risco, aproveitando tanto a volatilidade de curto prazo quanto a estabilidade relativa de itens premium em um dia marcado por incerteza.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Florian Thauvin (85, Ligue 1 McDonald's), com +56.5% em 24h, a 24k coins no PC.
+Senny Mayulu (83, Ligue 1 McDonald's), com +48.5% em 24h, a 74k coins no PC.
 
 **E a maior queda do dia?**  
-Amine Gouiri (84), -33.3% em 24h, a 30k coins.
+Eric Dier (86), -41.4% em 24h, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 40 cartas em alta contra 50 em queda (média 0.93%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 46 cartas em alta contra 55 em queda (média -1.61%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
