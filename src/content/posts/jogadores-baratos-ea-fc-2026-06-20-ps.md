@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:35:11.000Z
+pubDatetime: 2026-06-20T16:35:09.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Ludovic Giuly (86, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Maghnes Akliouche (88, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ludovic Giuly (86) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Maghnes Akliouche (88) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.4% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | +2.1% |
-| Achraf Hakimi | 84 | RB | Ligue 1 McDonald's | 8k coins | +51.8% |
-| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 4k coins | -2.3% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | +3.4% |
+| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 15k coins | +4.3% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +2.2% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Achraf Hakimi | 84 | RB | Ligue 1 McDonald's | 9k coins | +50% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +9.6% |
 
 
 ## 📈 Destaques
+
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
+
+- **Pierre-Emerick Aubameyang (87, ST)** da Ligue 1 McDonald's, a apenas **15k coins**
 
 - **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
 
 - **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Achraf Hakimi (84, RB)** da Ligue 1 McDonald's, a apenas **8k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Nuno Mendes (83, LB)** da Ligue 1 McDonald's, a apenas **4k coins**
+- **Achraf Hakimi (84, RB)** da Ligue 1 McDonald's, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -60,7 +64,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Ludovic Giuly (86, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Maghnes Akliouche (88, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

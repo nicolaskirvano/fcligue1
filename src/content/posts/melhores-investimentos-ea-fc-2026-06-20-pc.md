@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:36:10.000Z
+pubDatetime: 2026-06-20T16:36:09.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Corentin Tolisso (85, Ligue 1 McDonald's) lidera, com +38.4% em 7 dias a 24k coins no PC, e o modelo dá 60% de chance de seguir subindo."
+    a: "Corentin Tolisso (85, Ligue 1 McDonald's) lidera, com +42% em 7 dias a 24k coins no PC, e o modelo dá 60% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Corentin Tolisso (85) acumula **+38.4% em 7 dias** a 24k coins.
+> 🔝 **Destaque:** Corentin Tolisso (85) acumula **+42% em 7 dias** a 24k coins.
 
 
 ## 🧠 A leitura do dia
-Ao analisar o mercado da Ligue 1 no EA FC Ultimate Team para o dia 20 de junho de 2026, é fundamental observar as tendências de curto prazo para identificar oportunidades de investimento sólidas. O foco principal recai sobre as cartas da série Ligue 1 McDonald's, onde a volatilidade dos últimos 24 horas apresenta indicadores claros de valorização. Para o investidor cauteloso, a probabilidade de alta combinada com o percentual de crescimento recente serve como bússola para decidir quais ativos merecem entrada imediata, evitando especulações baseadas apenas em volume sem sustentabilidade estatística.
+A análise do mercado de Ultimate Team no EA FC para o dia 20 de junho de 2026 revela uma dinâmica interessante dentro do Ligue 1, especificamente na linha de cartas promocionais McDonald's. Ao observarmos os dados de variação de preço nas últimas 24 horas e as probabilidades de valorização futura, é possível identificar oportunidades estratégicas para investidores cautelosos. O foco principal deve recair sobre jogadores que combinam um aumento percentual significativo com uma alta probabilidade estatística de continuar subindo, garantindo assim uma relação risco-retorno mais equilibrada para o portfólio do usuário.
 
-Dentre as opções mais acessíveis, Timothy Weah se destaca como uma das apostas mais promissoras. A carta de Overall 85 registrou um impressionante aumento de 33,7% em apenas 24 horas, consolidando-se a 35 mil moedas. O que torna essa entrada ainda mais atraente é a probabilidade de alta de 55%, o que sugere que a tendência de valorização pode se manter nos próximos dias. Esse equilíbrio entre um salto significativo de preço e uma chance moderada-alta de continuidade faz de Weah um candidato ideal para quem busca lucros rápidos com risco controlado no meio de campo ofensivo.
+Entre as opções mais promissoras, destaca-se Corentin Tolisso, cujas estatísticas impressionam imediatamente. Com um salto de 30,7% em apenas 24 horas e uma probabilidade de alta de 60%, a carta de 85 de rating está cotada a 24k coins. Esse perfil sugere uma compra segura para quem busca lucros rápidos com baixo capital inicial. A alta volatilidade recente indica forte demanda no mercado, e a probabilidade robusta reforça a tese de que o preço tende a se manter elevado ou subir ainda mais nos próximos dias, tornando-o uma das melhores entradas para carteiras com orçamento limitado.
 
-Outra carta que chama a atenção pela magnitude do seu crescimento é a de Corentin Tolisso. O meio-campista de Overall 85 subiu 29,5% em 24 horas, atingindo o preço de 24 mil moedas. Com uma probabilidade de alta de 60%, Tolisso apresenta o cenário mais favorável entre os jogadores de menor valor absoluto analisados. A alta probabilidade indica forte demanda de mercado, possivelmente impulsionada por necessidades de squad ou rotatividade de formação, tornando-o uma escolha segura para entradas em pequena escala com potencial de retorno imediato.
+Outro nome que merece atenção é Ilan Kebbal, que, apesar de apresentar um crescimento modesto de 3,4% nas últimas 24 horas, possui a maior probabilidade de alta entre todos os listados, com 65%. Cotado a 30k coins, o jogador de 86 de rating representa uma aposta de baixa volatilidade imediata, mas com potencial de valorização sustentada. Para investidores que preferem evitar picos bruscos e buscam estabilidade com expectativa de retorno positivo, Kebbal oferece uma alternativa sólida, onde a alta probabilidade estatística compensa o crescimento lento recente.
 
-No extremo oposto do espectro de preços, João Neves oferece uma oportunidade para investidores com maior capital disponível. A carta de Overall 88, negociada a 216 mil moedas, apresentou uma alta de 9,1% em 24 horas. Embora o percentual seja menor que o dos jogadores mais baratos, a probabilidade de alta de 41% em um ativo de tão alto valor é relevante. Investir em Neves exige paciência, mas a estabilidade relativa de cartas de elite da Ligue 1 pode proporcionar ganhos absolutos significativos mesmo com variações percentuais mais modestas, especialmente se houver escassez no mercado.
+Valentín Barco e Alexsandro também se posicionam como boas oportunidades. Barco, com 88 de rating, subiu 10,3% e tem 46% de chance de alta, custando 40k coins, enquanto Alexsandro, de 86, cresceu 18,8% com 54% de probabilidade de continuar subindo, pelo mesmo preço de 30k coins. Ambos apresentam um equilíbrio saudável entre crescimento recente e expectativa futura. Alexsandro, em particular, oferece um retorno percentual mais agressivo com uma probabilidade superior à média, sugerindo que a demanda por seus atributos específicos está em ascensão no meta do jogo.
 
-Para quem prefere o setor de ataque, Florian Thauvin e Jordan Teze merecem consideração. Thauvin, com Overall 85 a 34 mil moedas, teve uma alta de 3,8% em 24 horas, mas se destaca pela probabilidade de alta de 71%, a mais alta deste grupo. Isso sugere uma sustentabilidade forte, mesmo que o crescimento recente tenha sido gradual. Já Teze, de Overall 87 a 28 mil moedas, subiu 11,5% com 48% de probabilidade de alta, oferecendo um equilíbrio entre crescimento recente e chance de continuidade, ideal para rotacionar entre diferentes formações de time.
+Por outro lado, é crucial analisar cartas de maior investimento. Willian Pacho, com 90 de rating, subiu 22,4% e custa 153k coins, mas possui apenas 42% de probabilidade de alta. Da mesma forma, João Neves, a 216k coins, cresceu 9,1% com 41% de chance de valorização. Embora os ganhos absolutos sejam maiores devido ao preço base, o risco é significativamente elevado. Investir nestes ativos requer uma tolerância maior à volatilidade, pois a probabilidade de alta é inferior a 50%, indicando que o preço pode se estabilizar ou até corrigir.
 
-Por fim, embora Adrien Thomasson tenha apresentado a maior alta percentual (30,8%) a 30 mil moedas, sua baixa probabilidade de alta de 29% indica possível saturação ou correção iminente, sugerindo cautela. Rassoul Ndiaye e Olivier Giroud, apesar dos aumentos de 20,7% e 8,4% respectivamente, também possuem probabilidades de alta abaixo de 40%, o que os torna menos atraentes para novas entradas neste momento específico. Portanto, as melhores entradas hoje concentram-se em Weah, Tolisso e Thauvin pela combinação favorável de crescimento e probabilidade de sustentação de valor no mercado da Ligue 1.
+Finalmente, nomes como Florian Thauvin (71% de probabilidade, mas apenas 3,8% de crescimento recente) e Gerónimo Rulli (26% de probabilidade) devem ser tratados com cautela. Thauvin tem alta probabilidade, mas o movimento de preço é lento, o que pode prender capital por mais tempo. Em resumo, para maximizar lucros com menor risco em 20/06/2026, a estratégia ideal concentra-se em Tolisso pela alta volatilidade positiva e em Kebbal pela consistência estatística, evitando os grandes nomes caros como Neves e Pacho, que apresentam riscos desproporcionais às suas probabilidades de valorização.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,27 +45,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 24k coins | +29.5% | +38.4% | 60% |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 34k coins | +3.8% | +36% | 71% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 30k coins | +30.8% | +35.2% | 29% |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 28k coins | +11.5% | +11.5% | 48% |
-| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 42k coins | +20.7% | +11.2% | 37% |
+| Corentin Tolisso | 85 | Ligue 1 McDonald's | 24k coins | +30.7% | +42% | 60% |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 30k coins | +10.1% | +31.9% | 43% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 40k coins | +10.3% | +29.8% | 46% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 28k coins | +23.1% | +27.3% | 29% |
+| Alexsandro | 86 | Ligue 1 McDonald's | 30k coins | +18.8% | +20% | 54% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 153k coins | +22.4% | +19.5% | 42% |
+| Ilan Kebbal | 86 | Ligue 1 McDonald's | 30k coins | +3.4% | +16.5% | 65% |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 34k coins | +3.8% | +16.2% | 71% |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 52k coins | +3% | +13.8% | 26% |
 | João Neves | 88 | Ligue 1 McDonald's | 216k coins | +9.1% | +10.8% | 41% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 35k coins | +33.7% | +6.9% | 55% |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 168k coins | +8.4% | +5.7% | 37% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 47k coins | +4.1% | +7.4% | 45% |
 
 
 ## 📈 Análise dos destaques
 
-- **Corentin Tolisso (85)** — 24k coins, **+38.4% em 7 dias** (+29.5% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Corentin Tolisso (85)** — 24k coins, **+42% em 7 dias** (+30.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Florian Thauvin (85)** — 34k coins, **+36% em 7 dias** (+3.8% em 24h). Preço +57% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nabil Bentaleb (86)** — 30k coins, **+31.9% em 7 dias** (+10.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Adrien Thomasson (85)** — 30k coins, **+35.2% em 7 dias** (+30.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Valentín Barco (88)** — 40k coins, **+29.8% em 7 dias** (+10.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jordan Teze (87)** — 28k coins, **+11.5% em 7 dias** (+11.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Adrien Thomasson (85)** — 28k coins, **+27.3% em 7 dias** (+23.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Rassoul Ndiaye (84)** — 42k coins, **+11.2% em 7 dias** (+20.7% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Alexsandro (86)** — 30k coins, **+20% em 7 dias** (+18.8% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +86,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Corentin Tolisso (85, Ligue 1 McDonald's) lidera, com +38.4% em 7 dias a 24k coins no PC, e o modelo dá 60% de chance de seguir subindo.
+Corentin Tolisso (85, Ligue 1 McDonald's) lidera, com +42% em 7 dias a 24k coins no PC, e o modelo dá 60% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
