@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T10:34:05.000Z
+pubDatetime: 2026-06-21T13:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,27 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -33.3% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | +22.8% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -11.8% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | -19.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 15k coins | +12.7% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -12.5% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.5% |
-| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 14k coins | 0% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -34.9% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | -19.4% |
+| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | -40% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | +3.7% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +36.4% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +2.3% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | +13% |
+| Florian Thauvin | 85 | ST | Ligue 1 McDonald's | 14k coins | -22.1% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 15k coins | -13.5% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 12k coins | -14% |
+| Angel Gomes | 83 | CM | Ligue 1 McDonald's | 14k coins | +14.5% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | +9.1% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **15k coins**
+- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
