@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:36:16.000Z
+pubDatetime: 2026-06-21T01:36:16.000Z
 title: "Melhores investimentos em Ligue 1 no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Mason Greenwood (84, Ligue 1 McDonald's) lidera, com +47.4% em 7 dias a 52k coins no PC, e o modelo dá 59% de chance de seguir subindo."
+    a: "Guéla Doué (84, Ligue 1 McDonald's) lidera, com +61.9% em 7 dias a 42k coins no PC, e o modelo dá 52% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Mason Greenwood (84) acumula **+47.4% em 7 dias** a 52k coins.
+> 🔝 **Destaque:** Guéla Doué (84) acumula **+61.9% em 7 dias** a 42k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário atual do mercado de EA FC Ultimate Team em PC, datado de 20 de junho de 2026, a análise das tendências da Ligue 1 revela oportunidades estratégicas distintas para investidores cautelosos e agressivos. O foco principal recai sobre a série "Ligue 1 McDonald's", onde a volatilidade das últimas 24 horas indica movimentos significativos que merecem atenção imediata. Para determinar quais cartas valem a entrada, é crucial cruzar o percentual de valorização recente com a probabilidade estatística de continuidade dessa alta, evitando armadilhas de correção rápida e buscando ativos com fundamentos de demanda sólida.
+No cenário do EA FC Ultimate Team, a análise do mercado da Ligue 1 para o dia 20 de junho de 2026 revela oportunidades interessantes para investidores que buscam lucros rápidos com base na volatilidade recente. Ao examinar as tendências de valorização dos últimos sete dias, destaca-se claramente o potencial de valorização de cinco cartas específicas da série Ligue 1 McDonald's. A estratégia aqui não é baseada em especulação futura, mas sim em dados concretos de variação de preço nas últimas 24 horas, permitindo que o jogador tome decisões assertivas sobre quais ativos compram agora para revender em breve.
 
-Destaque absoluto para a carta de Maghnes Akliouche, que apresenta o maior salto percentual entre os ativos analisados, com alta de 24,2% em apenas 24 horas. Comercializada a 19 mil moedas, a carta possui uma probabilidade de alta de 49%, o que a torna extremamente atrativa para operações de curto prazo. A combinação de um preço de entrada acessível com uma momentum de mercado forte sugere que a demanda por esta opção de ala ou meia tem crescido exponencialmente, justificando uma posição imediata antes de possíveis saturações de mercado.
+Entre os destaques absolutos, Maghnes Akliouche surge como uma das opções mais atrativas devido à sua combinação de preço acessível e alta volatilidade positiva. A carta de rating 88 registrou um impressionante aumento de 31,1% em apenas 24 horas, posicionando-se na faixa dos 20 mil coins. Embora a probabilidade estatística de continuar suba seja de 49%, o volume de ganho já realizado indica forte demanda imediata, tornando-a uma aposta de baixo risco financeiro com potencial de retorno acelerado para quem entrar no mercado agora.
 
-Outro candidato sólido é Mason Greenwood, cuja carta de 84 rating subiu 21,1% nas últimas 24 horas, cotada a 52 mil moedas. O fator decisivo aqui é a probabilidade de alta de 59%, a mais elevada deste grupo, indicando uma tendência estrutural de valorização. Para investidores que buscam segurança estatística aliada a um retorno substancial, Greenwood oferece um equilíbrio raro entre risco e recompensa, consolidando-se como uma das melhores entradas do dia devido à sua probabilidade robusta de manutenção do preço.
+Florian Sotoca é outro nome que chama atenção pela magnitude de sua valorização. O lateral de rating 85 apresentou um salto vertiginoso de 29,9% em 24 horas, com o preço atual fixado em 24 mil coins. O que diferencia Sotoca é sua alta probabilidade de continuar a tendência de alta, estimada em 65%. Isso sugere que o mercado ainda não saturou a demanda por esta carta, oferecendo uma janela de oportunidade sólida para investidores que desejam aproveitar o momentum positivo antes que possíveis correções ocorram.
 
-No segmento de defesa, Willian Pacho emerge como um ativo premium, com uma valorização de 21,1% e preço de 155 mil moedas. Embora o valor de entrada seja consideravelmente mais alto, a probabilidade de alta de 42% ancora a decisão, sugerindo que a escassez ou utilidade em squads específicos está impulsionando seu preço. Para carteiras com maior capital disponível, Pacho representa uma aposta de maior risco em termos absolutos, mas com fundamentos de tendência favorável, sendo ideal para quem diversifica entre cartas de baixo e alto custo.
+Guéla Doué e Nathan Ngoy representam investimentos de maior valor, mas com perfis de risco e retorno distintos. Doué, com rating 84, subiu 1,2% nas últimas 24 horas, custando 42 mil coins, e possui uma probabilidade de alta de 52%. Já Ngoy, também de rating 84, registrou um aumento de 8,4% em 24 horas, valorizando-se para 39 mil coins, com 46% de probabilidade de alta. Embora os percentuais de variação sejam menores comparados a Akliouche e Sotoca, a probabilidade de Doué continuar subindo é superior à de Ngoy, o que pode indicar uma estabilidade relativa mais atraente para quem prefere evitar a alta volatilidade das cartas mais baratas.
 
-Entre as opções intermediárias, Jordan Teze e Valentín Barco oferecem perfis interessantes. Teze, a 28 mil moedas, subiu 21,5% com 48% de probabilidade de alta, enquanto Barco, a 30 mil moedas, registrou 20,2% de alta com 46% de probabilidade. Ambos apresentam um equilíbrio sintonizado entre crescimento recente e previsibilidade. A escolha entre eles pode depender da necessidade específica de preenchimento de slots no time, mas estatisticamente, ambos valem a entrada por oferecerem margens de lucro com riscos moderados e probabilidades próximas da média do grupo.
+Charlie Cresswell, por outro lado, apresenta um cenário mais desafiador. Com rating 85 e preço de 24 mil coins, a carta teve um aumento modesto de 1,1% em 24 horas. No entanto, sua probabilidade de alta é a mais baixa do grupo, em apenas 33%. Isso sugere que a tendência de valorização pode estar se esgotando ou que o mercado está hesitante em empurrar o preço para cima, tornando Cresswell uma opção menos recomendada para entrada imediata em busca de lucros rápidos.
 
-Por fim, é prudentes observar com cautela cartas como Ben Chilwell (27% de alta, mas apenas 22% de probabilidade) e Tanguy Ndombele (7,1% de alta, 23% de probabilidade). Apesar do movimento recente, a baixa probabilidade de continuidade indica que Chilwell pode sofrer correção, enquanto Ndombele carece de momentum suficiente para justificar risco imediato. Portanto, as entradas mais recomendadas hoje concentram-se em Akliouche, Greenwood, Pacho, Teze e Barco, que aliam crescimento recente a probabilidades estatisticamente favoráveis de valorização contínua.
+Em resumo, para o dia 20 de junho de 2026, os dados apontam que as melhores entradas são Maghnes Akliouche e Florian Sotoca, devido ao equilíbrio entre alta variação recente e probabilidade de continuidade da tendência. Guéla Doué oferece uma alternativa estável de maior valor, enquanto Nathan Ngoy e Charlie Cresswell exigem cautela devido às suas probabilidades de alta mais baixas. Investir com base nestes indicadores permite maximizar retornos com menor exposição a riscos de desvalorização abrupta.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,30 +45,24 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 52k coins | +21.1% | +47.4% | 59% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 26k coins | +7.1% | +44.2% | 23% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 155k coins | +21.1% | +25% | 42% |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 28k coins | +21.5% | +15.3% | 48% |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 52k coins | +6.7% | +11.4% | 26% |
-| Nathan Ngoy | 84 | Ligue 1 McDonald's | 41k coins | +12.7% | +11.1% | 46% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 30k coins | +20.2% | +9.2% | 46% |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 19k coins | +24.2% | +6.9% | 49% |
-| Alexsandro | 86 | Ligue 1 McDonald's | 19k coins | +11.7% | +6.9% | 54% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 28k coins | +27% | +5.8% | 22% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 28k coins | +27.5% | +5.5% | 29% |
+| Guéla Doué | 84 | Ligue 1 McDonald's | 42k coins | +1.2% | +61.9% | 52% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 24k coins | +29.9% | +14.9% | 65% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 24k coins | +1.1% | +13.1% | 33% |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 20k coins | +31.1% | +8.1% | 49% |
+| Nathan Ngoy | 84 | Ligue 1 McDonald's | 39k coins | +8.4% | +5.4% | 46% |
 
 
 ## 📈 Análise dos destaques
 
-- **Mason Greenwood (84)** — 52k coins, **+47.4% em 7 dias** (+21.1% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Guéla Doué (84)** — 42k coins, **+61.9% em 7 dias** (+1.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Tanguy Ndombele (85)** — 26k coins, **+44.2% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Florian Sotoca (85)** — 24k coins, **+14.9% em 7 dias** (+29.9% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Willian Pacho (90)** — 155k coins, **+25% em 7 dias** (+21.1% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Charlie Cresswell (85)** — 24k coins, **+13.1% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jordan Teze (87)** — 28k coins, **+15.3% em 7 dias** (+21.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maghnes Akliouche (88)** — 20k coins, **+8.1% em 7 dias** (+31.1% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gerónimo Rulli (84)** — 52k coins, **+11.4% em 7 dias** (+6.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nathan Ngoy (84)** — 39k coins, **+5.4% em 7 dias** (+8.4% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +80,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Mason Greenwood (84, Ligue 1 McDonald's) lidera, com +47.4% em 7 dias a 52k coins no PC, e o modelo dá 59% de chance de seguir subindo.
+Guéla Doué (84, Ligue 1 McDonald's) lidera, com +61.9% em 7 dias a 42k coins no PC, e o modelo dá 52% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
