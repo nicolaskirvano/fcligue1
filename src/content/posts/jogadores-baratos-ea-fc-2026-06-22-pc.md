@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T10:34:09.000Z
+pubDatetime: 2026-06-22T16:34:10.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (22/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,24 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -45% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | -14.5% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +2.3% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 11k coins | -46.6% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 14k coins | -15.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -46.7% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -3.7% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | +21.3% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 14k coins | -12% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins**
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ludovic Blas (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Tyler Morton (83, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (84, CAM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
