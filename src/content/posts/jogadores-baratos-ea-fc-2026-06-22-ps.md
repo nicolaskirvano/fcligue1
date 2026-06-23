@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T22:34:05.000Z
+pubDatetime: 2026-06-23T01:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -40% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | -3.3% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2% |
-| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14k coins | -23.6% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -51.9% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -44% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -5.8% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | -59.3% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11k coins | -19.6% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +21.4% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -6.5% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14k coins | +5.3% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **6k coins**
-
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
