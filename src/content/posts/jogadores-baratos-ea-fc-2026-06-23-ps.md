@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T10:34:05.000Z
+pubDatetime: 2026-06-23T13:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -44% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -7.5% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | -20% |
-| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 15k coins | -14.8% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -18.6% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 14k coins | -6.5% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -42% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 8k coins | +14.7% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -15.1% |
+| Aron Dønnum | 87 | RM | Ligue 1 McDonald's | 15k coins | -19.7% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +46.2% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | -42% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.2% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **8k coins**
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pierre-Emerick Aubameyang (87, ST)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aron Dønnum (87, RM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
