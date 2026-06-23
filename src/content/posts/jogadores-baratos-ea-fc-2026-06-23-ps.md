@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T16:34:05.000Z
+pubDatetime: 2026-06-23T19:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -40% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | +2.9% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -13% |
-| Aron Dønnum | 87 | RM | Ligue 1 McDonald's | 14k coins | -23.7% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +30.8% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | -2.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -38.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | -8.8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -11.1% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | -22.2% |
+| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 12k coins | -39.8% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -13.8% |
+| Hamari Traoré | 87 | RB | Ligue 1 McDonald's | 14k coins | -17.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | +4.3% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aron Dønnum (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Pierre-Emerick Aubameyang (87, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
