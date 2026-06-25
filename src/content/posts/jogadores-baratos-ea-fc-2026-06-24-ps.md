@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T22:34:05.000Z
+pubDatetime: 2026-06-25T01:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -38.5% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 5k coins | -38.4% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -8% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 15k coins | -61% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | -11.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12k coins | -18.6% |
-| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 14k coins | -29.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | -37.7% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -9.8% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -23.4% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11k coins | -22.8% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | 0% |
-| Eric Dier | 86 | CB | Ligue 1 McDonald's | 14k coins | -28% |
-| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 14k coins | -25.6% |
-| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 12k coins | -38.2% |
+| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 14k coins | -24.7% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 12k coins | -36.5% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
 
 
 ## Por que estas cartas?

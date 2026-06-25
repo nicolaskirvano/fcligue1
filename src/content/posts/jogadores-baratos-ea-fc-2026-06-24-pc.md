@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T22:34:09.000Z
+pubDatetime: 2026-06-25T01:34:09.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (24/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,12 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | -32.3% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | -20.2% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -5.7% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -42.4% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -4.1% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | -31.2% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | -12.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +11.3% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -41.9% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +9.3% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -12.2% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 15k coins | -28.6% |
 
 
 ## 📈 Destaques
@@ -43,7 +44,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
 - **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
