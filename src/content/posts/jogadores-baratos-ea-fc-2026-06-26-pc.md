@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T10:34:09.000Z
+pubDatetime: 2026-06-26T13:34:09.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,25 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | -10% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | 0% |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | -5.6% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -8.2% |
-| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | +18.8% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -50% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -8.2% |
+| Marquinhos | 87 | CB | Ligue 1 McDonald's | 2k coins | +41.7% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -7.8% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -48.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +12.8% |
+| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 15k coins | -11.7% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4k coins**
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Marquinhos (87, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
 
 ## Por que estas cartas?
