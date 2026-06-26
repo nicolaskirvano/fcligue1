@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T22:34:09.000Z
+pubDatetime: 2026-06-26T01:34:09.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | -4.8% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | +3.8% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -13.3% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | 0% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4k coins | -2.4% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -7.7% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -18.9% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
