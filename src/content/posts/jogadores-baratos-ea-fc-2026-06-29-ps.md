@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-29T19:34:05.000Z
+pubDatetime: 2026-06-29T22:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (29/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -27.6% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 13k coins | -5.4% |
-| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14k coins | -21.7% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14k coins | +6.2% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | -20% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -7.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12k coins | -2% |
-| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 13k coins | -13.3% |
-| Aron Dønnum | 87 | RM | Ligue 1 McDonald's | 14k coins | -18.2% |
-| Hamari Traoré | 87 | RB | Ligue 1 McDonald's | 14k coins | -7.9% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 15k coins | -34.1% |
-| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 15k coins | -23.1% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -13.2% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +2.3% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 13k coins | -12.1% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -41.4% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +10.4% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | +9.1% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -12.5% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | -9.2% |
+| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 15k coins | +7.7% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | +8.3% |
+| Aron Dønnum | 87 | RM | Ligue 1 McDonald's | 14k coins | -19.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +7% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -13.2% |
+| Eric Dier | 86 | CB | Ligue 1 McDonald's | 14k coins | -31.3% |
+| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 13k coins | -20.3% |
+| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 14k coins | -44% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
