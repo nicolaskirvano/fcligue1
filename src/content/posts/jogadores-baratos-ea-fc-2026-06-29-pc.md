@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-29T13:34:09.000Z
+pubDatetime: 2026-06-29T16:34:09.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (29/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -62.1% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -6.5% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -59.6% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -14.5% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -4.3% |
 | Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | +4.7% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 14k coins | -41.4% |
+| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 15k coins | -36.4% |
 
 
 ## 📈 Destaques
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
 - **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **11k coins**
+
+- **Adrien Thomasson (85, CM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
