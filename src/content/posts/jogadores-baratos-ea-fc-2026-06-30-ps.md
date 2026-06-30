@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T16:34:05.000Z
+pubDatetime: 2026-06-30T19:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,15 +29,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +2.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
 | Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -7.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | +2% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | 0% |
 | Aron Dønnum | 87 | RM | Ligue 1 McDonald's | 14k coins | +3.8% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 14k coins | -24.3% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 14k coins | -20% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -8.3% |
 | Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14k coins | -9.7% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 15k coins | -1.6% |
-| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 11k coins | -30.6% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 15k coins | -4.8% |
 | Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 14k coins | -31.7% |
 
 
