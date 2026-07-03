@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:34:05.000Z
+pubDatetime: 2026-07-03T19:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
-| Félix Correia | 89 | RM | Ligue 1 McDonald's | 15k coins | -14.3% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | +7.1% |
-| Hamari Traoré | 87 | RB | Ligue 1 McDonald's | 14k coins | -21.7% |
-| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 14k coins | -15.6% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +4% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -11.8% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -8.5% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | -2.1% |
-| Eric Dier | 86 | CB | Ligue 1 McDonald's | 14k coins | -8.3% |
-| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 13k coins | -10.5% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 12k coins | -18.8% |
+| Tyler Morton | 88 | CDM | Ligue 1 McDonald's | 15k coins | -20% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | 0% |
+| Hamari Traoré | 87 | RB | Ligue 1 McDonald's | 14k coins | -10.1% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -8.3% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | 0% |
+| Eric Dier | 86 | CB | Ligue 1 McDonald's | 15k coins | +5.4% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 15k coins | +3.5% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 13k coins | -18.8% |
+| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 13k coins | -3.5% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Tyler Morton (88, CDM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
 
 - **Hamari Traoré (87, RB)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Pierre Lees-Melou (87, CDM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
