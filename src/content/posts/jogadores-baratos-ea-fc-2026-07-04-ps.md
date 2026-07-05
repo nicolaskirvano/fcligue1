@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T22:34:05.000Z
+pubDatetime: 2026-07-05T01:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +60% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -6.5% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12k coins | -3.5% |
-| Dante | 88 | CB | Ligue 1 McDonald's | 14k coins | -35.2% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14k coins | +5.6% |
-| Florian Thauvin | 85 | ST | Ligue 1 McDonald's | 15k coins | -34.4% |
-| Tyler Morton | 83 | CDM | Ligue 1 McDonald's | 15k coins | +7.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +64.3% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -9.7% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +2% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 13k coins | -7.3% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | -1.8% |
+| Dante | 88 | CB | Ligue 1 McDonald's | 15k coins | -29.8% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 15k coins | +10% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +2.2% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | +13.3% |
+| Florian Thauvin | 85 | ST | Ligue 1 McDonald's | 14k coins | -37.8% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Dante (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Ludovic Blas (86, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins**
 
 
 ## Por que estas cartas?
