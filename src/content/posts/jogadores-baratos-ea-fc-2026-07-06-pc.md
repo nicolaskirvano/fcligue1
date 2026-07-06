@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T16:34:09.000Z
+pubDatetime: 2026-07-06T22:34:09.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (06/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,17 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +47.1% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +22.2% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +220% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +41.2% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | 0% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | 0% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +300% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -7.8% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins**
+
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
 - **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
