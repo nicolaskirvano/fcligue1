@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T10:34:05.000Z
+pubDatetime: 2026-07-06T13:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,12 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +15.8% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | -5.6% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +10.2% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 15k coins | +15.4% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | +288.2% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -4.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +21.1% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +2.8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 15k coins | -3.6% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | -1.9% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +1.7% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | +3.8% |
+| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 15k coins | +3% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -8.5% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -10.4% |
 
 
 ## 📈 Destaques
@@ -43,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **15k coins**
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
 
 ## Por que estas cartas?
