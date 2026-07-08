@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T22:34:09.000Z
+pubDatetime: 2026-07-08T01:34:09.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,12 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +38.1% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +25.8% |
-| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 15k coins | -20.3% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | +286.7% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +6.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +20.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +19.4% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | +8.9% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | +233.3% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +7% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | 0% |
 
 
 ## 📈 Destaques
@@ -43,11 +43,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pierre-Emerick Aubameyang (87, ST)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins**
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
 
 
 ## Por que estas cartas?

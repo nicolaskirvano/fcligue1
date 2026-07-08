@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T10:34:05.000Z
+pubDatetime: 2026-07-08T01:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +91.7% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | -6.6% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +28.3% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +13.7% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +13.6% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | -11.7% |
-| Charlie Cresswell | 85 | CB | Ligue 1 McDonald's | 15k coins | +5.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +31.6% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14k coins | +17% |
+| Dante | 88 | CB | Ligue 1 McDonald's | 15k coins | -17.8% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +3.7% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | +8% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 15k coins | -7.5% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 14k coins | +19.6% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | +12% |
+| Alexsandro | 86 | CB | Ligue 1 McDonald's | 15k coins | -28.6% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Dante (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins**
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
 
 
 ## Por que estas cartas?
