@@ -1,27 +1,27 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T01:34:09.000Z
-title: "Jogadores baratos de Ligue 1 no EA FC (08/07/2026) — joias por menos de 15k — PC"
+pubDatetime: 2026-07-09T01:34:05.000Z
+title: "Jogadores baratos de Ligue 1 no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - pc
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - ps
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (08/07/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no PC."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vitinha (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +64.7% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +46.2% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +20% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3k coins | +211.1% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +4.7% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | +18.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +71.4% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | +14.6% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | -6.9% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | +8.3% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 14k coins | -1.6% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 15k coins | +7.1% |
+| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 15k coins | -4.8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +13.6% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14k coins | +13.2% |
 
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Mamadou Sangaré (87, CM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -64,7 +67,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (08/07/2026)?**  
-Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no PC.
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -77,4 +80,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de PC, referência de 08/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de Console (PS), referência de 08/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
