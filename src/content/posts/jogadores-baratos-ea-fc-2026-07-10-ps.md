@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T10:34:05.000Z
+pubDatetime: 2026-07-10T13:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,28 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +5.9% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | 0% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 12k coins | -7.5% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 15k coins | +20.8% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +3.4% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -5.6% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +123.5% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | +2.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | 0% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +4.3% |
+| Dante | 88 | CB | Ligue 1 McDonald's | 15k coins | -11.8% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +7.7% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 6k coins | +292.9% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +7% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | +2.3% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Dante (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins**
+- **Nuno Mendes (86, LB)** da Ligue 1 McDonald's, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
