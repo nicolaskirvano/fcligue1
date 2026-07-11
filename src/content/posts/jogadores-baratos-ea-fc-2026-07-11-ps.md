@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T16:34:05.000Z
+pubDatetime: 2026-07-11T19:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,14 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -30.4% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -29.4% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +2% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | 0% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | 0% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +111.8% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | +6.5% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | -2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -34.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -38.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +4% |
+| Dante | 88 | CB | Ligue 1 McDonald's | 14k coins | -5.2% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +1.8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | +10.9% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | +5.9% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 2k coins | +100% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2k coins | +87.5% |
 
 
 ## 📈 Destaques
@@ -47,9 +48,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Dante (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins**
 
 
 ## Por que estas cartas?
