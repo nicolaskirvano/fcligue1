@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T19:34:09.000Z
+pubDatetime: 2026-07-12T22:34:09.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (12/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 12/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (12/07/2026)?"
-    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no PC."
+    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **12/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -41.9% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 14k coins | -23.3% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -13.5% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 14k coins | -26% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -3.3% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +193.3% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2k coins | +180% |
 
 
 ## 📈 Destaques
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mamadou Sangaré (87, CM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+
+- **Désiré Doué (85, RW)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -63,7 +63,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (12/07/2026)?**  
-Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no PC.
+Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
