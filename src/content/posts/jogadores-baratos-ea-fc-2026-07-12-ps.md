@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T10:34:05.000Z
+pubDatetime: 2026-07-12T13:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -41.2% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -11.1% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | +5.8% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | +5.7% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 13k coins | -28.9% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +6.4% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -32.4% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -10.9% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 15k coins | +1.9% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | -3.7% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | -11.3% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +13.5% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | +2.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | +10.9% |
 
 
 ## 📈 Destaques
@@ -44,11 +45,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **15k coins**
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Mamadou Sangaré (87, CM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
