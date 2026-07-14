@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T13:34:05.000Z
+pubDatetime: 2026-07-14T16:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,15 +30,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -30.4% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +3.4% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | 0% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14k coins | +15.7% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | -15.3% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -5.3% |
-| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -48.9% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | 0% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14k coins | -8.5% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 3k coins | +262.5% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | +10.7% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -5.6% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | +1.7% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14k coins | -5.1% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12k coins | +1.8% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 14k coins | -10.8% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +72.7% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 2k coins | -54.2% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | -3.8% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14k coins | -6.8% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | -1.8% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 3k coins | +275% |
 
 
 ## 📈 Destaques
@@ -47,11 +50,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins**
 
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
+
 - **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14k coins**
 
 
 ## Por que estas cartas?
