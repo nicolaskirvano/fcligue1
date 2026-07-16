@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:34:10.000Z
-title: "Jogadores baratos de Ligue 1 no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-16T23:59:44.000Z
+title: "Jogadores baratos EA FC: Ligue 1 em 16/07 — Console (PS)"
 draft: false
 featured: false
 tags:
@@ -9,10 +9,10 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,28 +21,40 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 3k coins.
+
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ligue 1 em 16/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 10 opções:** 8k coins.
+- **Posição mais frequente:** ST, com 2 cartas.
+- **Faixa real:** 2k a 14k coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | +29.2% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +4.2% |
-| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | +7.8% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +9.6% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3k coins | +42.1% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +11.4% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 3k coins | +215.8% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 3k coins | +226.3% |
-| Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 2k coins | +111.1% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -11.8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -12.3% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 14k coins | +1.9% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +7.8% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3k coins | +21.7% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.4% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | +1.9% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 3k coins | -3.2% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 4k coins | +6.2% |
+| Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 2k coins | +13.3% |
 
 
 ## 📈 Destaques
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
@@ -50,14 +62,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
+
+## Como distribuir a banca
+
+- **Defesa:** Achraf Hakimi (89, RB) por 3k coins é a referência de rating deste recorte.
+
+- **Meio:** Abedi Pelé (89, CAM) por 14k coins é a referência de rating deste recorte.
+
+- **Ataque:** Jean-Pierre Papin (89, ST) por 12k coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## 🧪 De onde vêm estes números
@@ -67,7 +90,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -81,3 +104,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Ligue 1 em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Ligue 1 — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
