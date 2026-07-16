@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcligue1.pages.dev/",
     title: "Ligue 1 Trader",
     description:
-      "Precos e mercado da Ligue 1 no EA FC Ultimate Team, atualizados todos os dias com dados reais.",
+      "preços e mercado da Ligue 1 no EA FC Ultimate Team, atualizados todos os dias com dados reais.",
     author: "Ligue 1 Trader",
-    profile: "https://fcligue1.pages.dev/",
+    profile: "https://fcligue1.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Ligue 1 Trader",
