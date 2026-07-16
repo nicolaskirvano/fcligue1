@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T13:34:05.000Z
+pubDatetime: 2026-07-16T16:34:05.000Z
 title: "Jogadores baratos de Ligue 1 no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,14 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -4.8% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +39.3% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14k coins | -3.8% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +2.1% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -4% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14k coins | +10.7% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 4k coins | +240% |
-| Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 2k coins | +77.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | 0% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4k coins | +48% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +2% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 15k coins | +11.5% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2k coins | +26.3% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -6% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | 0% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 2k coins | +90.9% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 3k coins | +226.3% |
+| Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 2k coins | +66.7% |
 
 
 ## 📈 Destaques
@@ -45,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **15k coins**
 
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
