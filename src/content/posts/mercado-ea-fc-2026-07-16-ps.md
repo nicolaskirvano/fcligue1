@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T23:59:41.000Z
+pubDatetime: 2026-07-17T01:34:07.000Z
 title: "Mercado EA FC em 16/07: Ligue 1 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 16/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Denis Zakaria (85, Ligue 1 McDonald's), com +58.7% em 24h, a 50k coins no Console (PS)."
+    a: "Angel Gomes (83, Ligue 1 McDonald's), com +46.1% em 24h, a 37k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Berke Özer (83), -31.2% em 24h, a 74k coins."
+    a: "Berke Özer (83), -35.5% em 24h, a 75k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 49 em queda (média 2.45%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 44 cartas em alta contra 63 em queda (média 0.97%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **16/07/2026** (Console (PS)): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **51 em alta** e **49 em queda**, média de **2.45%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **16/07/2026** (Console (PS)): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **44 em alta** e **63 em queda**, média de **0.97%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Denis Zakaria (85) **+58.7%** · 🔴 **Maior baixa:** Berke Özer (83) **-31.2%**
+> 🟢 **Maior alta:** Angel Gomes (83) **+46.1%** · 🔴 **Maior baixa:** Berke Özer (83) **-35.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Ligue 1 — Console (PS)](/charts/mercado-ea-fc-2026-07-16-ps.svg)
 
@@ -35,65 +35,65 @@ Panorama de **16/07/2026** (Console (PS)): clima **comprador** — a maioria das
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 89.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.0% entre as cartas que se moveram; o universo observado reúne 117 cartas.
+- **Amplitude do dia:** 81.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.1% entre as cartas que se moveram; o universo observado reúne 125 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 50k coins | +58.7% | +61.3% |
-| Angel Gomes | 83 | Ligue 1 McDonald's | 38k coins | +44.1% | +15.7% |
-| Aron Dønnum | 87 | Ligue 1 McDonald's | 21k coins | +38.5% | +11.1% |
-| Tyler Morton | 83 | Ligue 1 McDonald's | 24k coins | +30.7% | -5.8% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 81k coins | +27.5% | +41.5% |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 31k coins | +26.2% | +15.4% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 82k coins | +22.4% | +31.9% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 37k coins | +46.1% | +18.3% |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 45k coins | +40.9% | +82.7% |
+| Tyler Morton | 83 | Ligue 1 McDonald's | 24k coins | +34.2% | -5.8% |
+| Aron Dønnum | 87 | Ligue 1 McDonald's | 23k coins | +31.2% | +3.7% |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 27k coins | +28.9% | +37.2% |
+| Denis Zakaria | 86 | Ligue 1 McDonald's | 60k coins | +25.6% | -5.8% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 66k coins | +23.4% | +33.9% |
 | Matthis Abline | 81 | Ligue 1 McDonald's | 48k coins | +20.3% | +23.4% |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 407k coins | +19.4% | +32.1% |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 38k coins | +13.8% | +17.9% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 405k coins | +18.8% | +31.1% |
+| Vitinha | 95 | Ligue 1 McDonald's | 390k coins | +18.7% | +8.1% |
 
 
 ### Análise das altas
 
-- **Denis Zakaria (85)** subiu **+58.7%** em 24h, a **50k coins** (faixa do dia: 23k–50k). Está +27% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Angel Gomes (83)** subiu **+46.1%** em 24h, a **37k coins** (faixa do dia: 22k–38k). Está +16% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Angel Gomes (83)** subiu **+44.1%** em 24h, a **38k coins** (faixa do dia: 22k–38k). Está +17% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Pierre-Emerick Aubameyang (89)** subiu **+40.9%** em 24h, a **45k coins** (faixa do dia: 32k–47k). Está +46% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Aron Dønnum (87)** subiu **+38.5%** em 24h, a **21k coins** (faixa do dia: 15k–24k). Está em linha com a média de 7 dias (-2%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Tyler Morton (83)** subiu **+34.2%** em 24h, a **24k coins** (faixa do dia: 15.750–26k). Está +12% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Berke Özer | 83 | Ligue 1 McDonald's | 74k coins | -31.2% | -6.2% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 49k coins | -27.7% | +19% |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 179k coins | -27.6% | +1.5% |
-| Vitinha | 90 | Ligue 1 McDonald's | 183k coins | -25.3% | -1.1% |
-| Lukáš Hrádecký | 85 | Ligue 1 McDonald's | 34k coins | -22.9% | -33.7% |
-| Florian Thauvin | 83 | Ligue 1 McDonald's | 37k coins | -19.8% | -23.5% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 1.22M coins | -18.5% | +0.7% |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 35k coins | -17.3% | -8.6% |
-| Arsène Kouassi | 87 | Ligue 1 McDonald's | 35k coins | -15.2% | -2.8% |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 189k coins | -14% | +36.8% |
+| Berke Özer | 83 | Ligue 1 McDonald's | 75k coins | -35.5% | -10.7% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 20k coins | -32.4% | -2.8% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 45k coins | -26.2% | +20.8% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 24k coins | -24.3% | +36.2% |
+| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 32k coins | -24% | -10.3% |
+| Vitinha | 90 | Ligue 1 McDonald's | 195k coins | -19.8% | +3.7% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 160k coins | -19% | -27.5% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 165k coins | -17.5% | +29.9% |
+| Lukáš Hrádecký | 85 | Ligue 1 McDonald's | 32k coins | -16.9% | -36.1% |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 35k coins | -16.6% | -0.7% |
 
 
 ### Análise das baixas
 
-- **Berke Özer (83)** caiu **-31.2%** em 24h, a **74k coins** (faixa do dia: 65k–110k). Está -14% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Berke Özer (83)** caiu **-35.5%** em 24h, a **75k coins** (faixa do dia: 65k–110k). Está -14% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ousmane Dembélé (90)** caiu **-27.7%** em 24h, a **49k coins** (faixa do dia: 43k–65k). Está +42% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Timothy Weah (85)** caiu **-32.4%** em 24h, a **20k coins** (faixa do dia: 16.000–29k). Está em linha com a média de 7 dias (-3%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Mason Greenwood (84)** caiu **-27.6%** em 24h, a **179k coins** (faixa do dia: 109k–210k). Está +26% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Ousmane Dembélé (90)** caiu **-26.2%** em 24h, a **45k coins** (faixa do dia: 43k–65k). Está +30% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Denis Zakaria já avançou 58.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Angel Gomes já avançou 46.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Berke Özer recuou -31.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Berke Özer recuou -35.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Denis Zakaria (85, Ligue 1 McDonald's), com +58.7% em 24h, a 50k coins no Console (PS).
+Angel Gomes (83, Ligue 1 McDonald's), com +46.1% em 24h, a 37k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Berke Özer (83), -31.2% em 24h, a 74k coins.
+Berke Özer (83), -35.5% em 24h, a 75k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 49 em queda (média 2.45%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 44 cartas em alta contra 63 em queda (média 0.97%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
