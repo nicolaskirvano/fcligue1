@@ -1,22 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="405" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="463" viewBox="0 0 900 463" role="img" aria-labelledby="title desc">
 <title id="title">Preço em coins: Jogadores baratos EA FC: Ligue 1 em 17/07 — PC</title>
 <desc id="desc">Gráfico gerado a partir da tabela publicada neste artigo.</desc>
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
-<rect x="285" y="95" width="99" height="28" rx="7" fill="#38bdf8"/>
-<text x="394" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.900</text>
+<rect x="285" y="95" width="105" height="28" rx="7" fill="#38bdf8"/>
+<text x="400" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.000</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Achraf Hakimi</text>
-<rect x="285" y="153" width="127" height="28" rx="7" fill="#38bdf8"/>
-<text x="422" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.700</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jean-Pierre Papin</text>
+<rect x="285" y="153" width="129" height="28" rx="7" fill="#38bdf8"/>
+<text x="424" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.700</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maghnes Akliouche</text>
 <rect x="285" y="211" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sidney Govou</text>
-<rect x="285" y="269" width="429" height="28" rx="7" fill="#38bdf8"/>
-<text x="724" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.500</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
-<rect x="285" y="327" width="103" height="28" rx="7" fill="#38bdf8"/>
-<text x="398" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.000</text>
+<text x="775" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.750</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willian Pacho</text>
+<rect x="285" y="269" width="98" height="28" rx="7" fill="#38bdf8"/>
+<text x="393" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.800</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sidney Govou</text>
+<rect x="285" y="327" width="436" height="28" rx="7" fill="#38bdf8"/>
+<text x="731" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.500</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Désiré Doué</text>
+<rect x="285" y="385" width="143" height="28" rx="7" fill="#38bdf8"/>
+<text x="438" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.100</text>
 </svg>
