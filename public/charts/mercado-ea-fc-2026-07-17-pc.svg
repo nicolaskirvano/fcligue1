@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charlie Cresswell</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenny Lala</text>
-<rect x="285" y="153" width="446" height="28" rx="7" fill="#22c55e"/>
-<text x="741" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ruben Kluivert</text>
-<rect x="285" y="211" width="335" height="28" rx="7" fill="#22c55e"/>
-<text x="630" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexsandro</text>
-<rect x="285" y="269" width="310" height="28" rx="7" fill="#22c55e"/>
-<text x="605" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Hidalgo</text>
-<rect x="285" y="327" width="300" height="28" rx="7" fill="#22c55e"/>
-<text x="595" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Guéla Doué</text>
-<rect x="285" y="385" width="277" height="28" rx="7" fill="#22c55e"/>
-<text x="572" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ethan Nwaneri</text>
+<rect x="285" y="153" width="417" height="28" rx="7" fill="#22c55e"/>
+<text x="712" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nuno Mendes</text>
+<rect x="285" y="211" width="387" height="28" rx="7" fill="#22c55e"/>
+<text x="682" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
+<rect x="285" y="269" width="372" height="28" rx="7" fill="#22c55e"/>
+<text x="667" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ruben Kluivert</text>
+<rect x="285" y="327" width="358" height="28" rx="7" fill="#22c55e"/>
+<text x="653" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Hidalgo</text>
+<rect x="285" y="385" width="340" height="28" rx="7" fill="#22c55e"/>
+<text x="635" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.6%</text>
 </svg>
