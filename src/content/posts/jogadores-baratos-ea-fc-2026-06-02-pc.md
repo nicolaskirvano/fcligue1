@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ligue 1 Trader"
 pubDatetime: 2026-06-02T13:34:03.000Z
-title: "Jogadores baratos de Ligue 1 no EA FC (02/06/2026) — joias por menos de 15k — PC"
+title: "Ligue 1 baratos no EA FC em 02/06 — PC"
 draft: false
 featured: false
 tags:
@@ -9,15 +9,22 @@ tags:
   - custo-beneficio
   - budget
   - pc
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 02/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
-faq:
-  - q: "Qual o melhor jogador barato do EA FC hoje (02/06/2026)?"
-    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 7k coins no PC."
-  - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
-    a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
-  - q: "Esses preços são reais?"
-    a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
+description: "Em 02/06/2026 no PC, Vitinha liderou a seleção de Ligue 1 por 7.000 coins. Compare 15 cartas, OVR, preço, 7d e gráfico."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Entre 15 opções, **Khvicha Kvaratskhelia** tinha o menor preço (3.000 coins). O maior OVR era de **Vitinha** (89), por 7.000 coins.
+
+O preço mediano do recorte foi **11.000 coins** e 10 cartas vinham de queda em 7d. Todas estavam estritamente abaixo de 15.000 coins. OVR é só um filtro inicial; função, atributos, PlayStyles e química precisam ser conferidos antes de montar o time.
+
+![Gráfico de preço em coins para os destaques de Ligue 1 baratos no EA FC em 02/06 — PC](/charts/jogadores-baratos-ea-fc-2026-06-02-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **02/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
@@ -48,23 +55,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 ## 📈 Destaques
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **7k coins** — já **valorizando**, o que indicava procura crescente naquele recorte.
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **7k coins**
 
-- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, era uma opção relativamente barata naquele recorte.
 
-- **Roman Yaremchuk (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roman Yaremchuk (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, era uma opção relativamente barata naquele recorte.
 
 - **Khvicha Kvaratskhelia (87, LW)** da Ligue 1 McDonald's, a apenas **3k coins**
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **OVR 83+** ajuda a filtrar, mas não garante desempenho: compare atributos, PlayStyles, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Ligue 1 no EA FC em 02/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-02-pc/)
+- [Ligue 1 no EA FC em 02/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-02-pc/)
+- [Ligue 1 baratos no EA FC em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
 ## 📐 Como o FutQuant gera estes dados
 Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
@@ -72,13 +87,13 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 
 ## ❓ Perguntas frequentes
 
-**Qual o melhor jogador barato do EA FC hoje (02/06/2026)?**  
+**Qual era o destaque barato do EA FC em 02/06/2026?**
 Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 7k coins no PC.
 
-**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
-Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
+**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**
+Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. Este arquivo preserva o recorte daquela data; consulte as análises recentes para preços atuais.
 
-**Esses preços são reais?**  
+**Esses preços são reais?**
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 

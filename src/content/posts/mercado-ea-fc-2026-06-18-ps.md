@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ligue 1 Trader"
 pubDatetime: 2026-06-19T01:34:52.000Z
-title: "Ligue 1 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Ligue 1 no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Julio César Enciso (84, Ligue 1 McDonald's), com +47.1% em 24h, a 50k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Ethan Nwaneri (91), -30.4% em 24h, a 41k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 105k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 42 cartas em alta contra 52 em queda (média 0.18%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Julio César Enciso liderou as altas e Ethan Nwaneri as baixas em Ligue 1. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Julio César Enciso** registrou o maior movimento de 24h (+47,1%), enquanto **Ethan Nwaneri** marcou o menor (-30,4%). A distância entre os extremos foi de **77,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+3,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Ligue 1 no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Ligue 1 no console PlayStation encontra-se em um cenário de lateralização extrema para o dia 18 de junho de 2026, caracterizado por uma ausência de direcionalidade clara que exige extrema cautela por parte dos traders experientes. Com uma média de variação de apenas 0.18% nas últimas 24 horas, distribuída entre 42 altas e 52 quedas, o volume de negociação parece estar consolidado em uma faixa de preço estável, sem os impulsos agressivos vistos em épocas de grandes eventos do jogo. Essa paridade numérica sugere que o mercado está digerindo informações anteriores ou aguardando um novo catalisador externo para definir a próxima tendência, criando um ambiente onde decisões impulsivas podem resultar em perdas rápidas devido à baixa liquidez em movimentos de alta magnitude. O sentimento geral é de espera, onde apenas carteiras específicas com fundamentos técnicos fortes conseguem romper a inércia do preço, enquanto a maioria dos ativos oscila sem convicção dentro de seus canais de suporte e resistência estabelecidos.
 
@@ -68,7 +71,7 @@ Entre os ativos que conseguiram romper a lateralização, Julio César Enciso (8
 Na ponta oposta do espectro, Ethan Nwaneri (91, Ligue 1 McDonald's) lidera as quedas com uma desvalorização de 30.4%, caindo para 41k coins, apesar de manter uma probabilidade de alta de 84%, o que indica uma oportunidade de compra em suporte técnico forte e correção temporária de preço. Rassoul Ndiaye (84, Ligue 1 McDonald's) recuou 24.5% para 39k coins, com probabilidade de alta de 68%, sugerindo que a venda foi motivada por lucros rápidos e não por uma perda fundamental de utilidade no meta atual. Berke Özer (83, Ligue 1 McDonald's) caiu 24.2% para 56k coins, mas com baixa probabilidade de alta de apenas 33%, alertando traders para possíveis problemas de demanda ou substituição em times populares, tornando-o um ativo de risco elevado para novas entradas. Marquinhos (88, Ligue 1 McDonald's) perdeu 19.4% de valor, estabelecendo-se em 54k coins, mas sua probabilidade de alta de 95% é um sinal claro de que o preço atingiu um piso irracionalmente baixo e deve reverter rapidamente para a média. Ismaëlo Ganiou (84, Ligue 1 McDonald's) também apresenta queda de 19.1% para 44k coins, com probabilidade de alta de apenas 23%, reforçando a necessidade de evitar ativos que combinam queda de preço com baixa expectativa de recuperação imediata.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Julio César Enciso (84, Ligue 1 McDonald's), com +47.1% em 24h, a 50k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Ethan Nwaneri (91), -30.4% em 24h, a 41k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 105k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Bradley Barcola (87) — 95% de probabilidade de alta, a 105k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 42 cartas em alta contra 52 em queda (média 0.18%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 42 cartas em alta contra 52 em queda (média 0.18%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Ligue 1 baratos no EA FC em 18/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-18-ps/)
+- [Momentum de Ligue 1 no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

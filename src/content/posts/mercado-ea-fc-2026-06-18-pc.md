@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ligue 1 Trader"
 pubDatetime: 2026-06-19T01:36:11.000Z
-title: "Ligue 1 no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Ligue 1 no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Ruben Kluivert (86, Ligue 1 McDonald's), com +51.4% em 24h, a 40k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Ismaëlo Ganiou (84), -41.2% em 24h, a 34k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 39 cartas em alta contra 59 em queda (média -0.36%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PC: Ruben Kluivert liderou as altas e Ismaëlo Ganiou as baixas em Ligue 1. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Ruben Kluivert** registrou o maior movimento de 24h (+51,4%), enquanto **Ismaëlo Ganiou** marcou o menor (-41,2%). A distância entre os extremos foi de **92,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-1,6%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Ligue 1 no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário do mercado de Ultimate Team para o segmento Ligue 1 em 18 de junho de 2026 apresenta um viés claramente de baixa, com uma dinâmica onde a pressão de venda supera a demanda de compra em quase dois para um. Os dados indicam que existem apenas 39 altas significativas contra 59 quedas no período de 24 horas, resultando em uma média de variação negativa de -0,36% para o segmento como um todo. Esse desequilíbrio sugere que os traders estão liquidando posições ou realizando vendas rápidas, possivelmente devido à incerteza de eventos futuros ou à saturação de cartas específicas no mercado. Para o trader experiente, esse ambiente de 'bear market' exige cautela extrema e uma leitura fina dos fundamentos por trás de cada movimento, pois a maioria das cartas está perdendo valor. O sentimento geral é de desconfiança, onde apenas os ativos com forte narrativa de evento ou escassez relativa conseguem resistir à gravidade do mercado. É crucial manter os olhos nos números, pois a volatilidade pode esconder oportunidades de compra em fundos temporários, mas a tendência predominante é de erosão de capital para quem não age com precisão cirúrgica.
 
@@ -76,16 +81,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Ruben Kluivert (86, Ligue 1 McDonald's), com +51.4% em 24h, a 40k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Ismaëlo Ganiou (84), -41.2% em 24h, a 34k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 39 cartas em alta contra 59 em queda (média -0.36%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 39 cartas em alta contra 59 em queda (média -0.36%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Ligue 1 baratos no EA FC em 18/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-18-pc/)
+- [Momentum de Ligue 1 no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
