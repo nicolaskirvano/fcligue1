@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:34:18.000Z
+pubDatetime: 2026-07-17T17:21:38.000Z
 title: "Investimentos EA FC: Ligue 1 em 17/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.5% em 24h** e **+15.6% em 7 dias**.
-- **4 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+11.2% em 24h** e **+22.3% em 7 dias**.
+- **5 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 13 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,31 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fabián Ruiz | 88 | Ligue 1 McDonald's | 45k coins | +28.6% | +89.5% | Esticada |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 31k coins | +4% | +87% | Esticada |
 | Mark McKenzie | 90 | Ligue 1 McDonald's | 55k coins | +4.8% | +60.6% | Esticada |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 49k coins | +15.9% | +33.1% | Momentum moderado |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 31k coins | +7.8% | +26.5% | Momentum moderado |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 31k coins | +7% | +25.5% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 50k coins | +27.3% | +22.5% | Esticada |
 | Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 42k coins | +15.6% | +22.3% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 49k coins | +35.1% | +22% | Esticada |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 46k coins | +11.2% | +18.9% | Momentum moderado |
 | João Neves | 88 | Ligue 1 McDonald's | 185k coins | +32.1% | +15.6% | Esticada |
-| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 45k coins | +11.1% | +11.7% | Momentum moderado |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 48k coins | +3.2% | +11.4% | Entrada a observar |
+| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 48k coins | +2.1% | +10.3% | Entrada a observar |
 | Brice Samba | 85 | Ligue 1 McDonald's | 30k coins | +1.7% | +7.1% | Entrada a observar |
-| Arsène Kouassi | 87 | Ligue 1 McDonald's | 47k coins | +1.2% | +6.9% | Entrada a observar |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 28k coins | +7.5% | +6.5% | Momentum moderado |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 26k coins | +10.5% | +5% | Momentum moderado |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 26k coins | +6.5% | +5.6% | Momentum moderado |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 25k coins | +16.7% | +5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Fabián Ruiz (88)** — 45k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Mamadou Sangaré (87)** — 31k coins, **+87% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Mark McKenzie (90)** — 55k coins, **+60.6% em 7 dias** (+4.8% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mahdi Camara (86)** — 49k coins, **+33.1% em 7 dias** (+15.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tyler Morton (88)** — 31k coins, **+26.5% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Hamed Junior Traoré (84)** — 42k coins, **+22.3% em 7 dias** (+15.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tyler Morton (88)** — 31k coins, **+25.5% em 7 dias** (+7% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -105,7 +105,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
+> **Link patrocinado:** 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

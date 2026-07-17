@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:34:19.000Z
+pubDatetime: 2026-07-17T17:21:40.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 17/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 6.642 coins.
+- **Preço médio das 4 opções:** 2.800 coins.
 - **Posição mais frequente:** CM, com 1 cartas.
-- **Faixa real:** 2.800 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 3.900 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.000 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.700 coins | +5.6% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13.750 coins | -12.1% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.800 coins | +10.3% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12.500 coins | +16.7% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 4.100 coins | +22.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.000 coins | +3.4% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.900 coins | +11.8% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 1.600 coins | 0% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2.700 coins | +13.9% |
 
 
 ## 📈 Destaques
 
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Willian Pacho (86, CB)** da Ligue 1 McDonald's, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12.500 coins**
+- **Désiré Doué (85, RW)** da Ligue 1 McDonald's, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Achraf Hakimi (89, RB) por 3.700 coins é a referência de rating deste recorte.
+- **Defesa:** Achraf Hakimi (89, RB) por 3.900 coins é a referência de rating deste recorte.
 
 - **Meio:** Vitinha (89, CM) por 3.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Sidney Govou (86, ST) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Désiré Doué (85, RW) por 2.700 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -105,7 +101,7 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
+> **Link patrocinado:** 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
