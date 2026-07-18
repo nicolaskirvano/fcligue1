@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:34:08.000Z
+pubDatetime: 2026-07-18T13:34:09.000Z
 title: "Investimentos EA FC: Ligue 1 em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Willian Pacho (90, Ligue 1 McDonald's) lidera, com +87.5% em 7 dias a 86k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Willian Pacho (90, Ligue 1 McDonald's) lidera, com +76.5% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Willian Pacho (90) acumula **+87.5% em 7 dias** a 86k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Willian Pacho (90) acumula **+76.5% em 7 dias** a 52k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.3% em 24h** e **+27.9% em 7 dias**.
+- A mediana é de **+15.9% em 24h** e **+25.7% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 86k coins | +3.4% | +87.5% | Esticada |
-| João Neves | 88 | Ligue 1 McDonald's | 85k coins | +1.2% | +85.8% | Esticada |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 90k coins | +1.1% | +56.5% | Momentum moderado |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 50k coins | +1.5% | +51.5% | Momentum moderado |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 24k coins | +15.3% | +48.5% | Momentum moderado |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 184k coins | +3.4% | +33.1% | Momentum moderado |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 23k coins | +15.2% | +28.2% | Momentum moderado |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 39k coins | +25.8% | +27.9% | Esticada |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 26k coins | +8.3% | +23.8% | Momentum moderado |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 38k coins | +1.3% | +20.3% | Entrada a observar |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 26k coins | +17% | +19.8% | Momentum moderado |
-| Arsène Kouassi | 87 | Ligue 1 McDonald's | 41k coins | +31.6% | +17% | Esticada |
-| Ludovic Blas | 86 | Ligue 1 McDonald's | 18.750 coins | +31.6% | +11.9% | Esticada |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 199k coins | +4.7% | +10.6% | Entrada a observar |
-| Julio César Enciso | 84 | Ligue 1 McDonald's | 38k coins | +15.6% | +6.8% | Momentum moderado |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 52k coins | +16.5% | +76.5% | Esticada |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 35k coins | +18.8% | +61.7% | Esticada |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 49k coins | +1.5% | +51.5% | Momentum moderado |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 37k coins | +1.9% | +43.8% | Momentum moderado |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 34k coins | +22.3% | +42.3% | Esticada |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 80k coins | +33.1% | +34.1% | Esticada |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 26k coins | +8.3% | +26.8% | Momentum moderado |
+| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 46k coins | +11% | +25.7% | Momentum moderado |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 22k coins | +5.5% | +23.1% | Momentum moderado |
+| Ludovic Blas | 86 | Ligue 1 McDonald's | 19.250 coins | +16.4% | +16.4% | Momentum moderado |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 25k coins | +18.4% | +15.7% | Momentum moderado |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 19.750 coins | +1.2% | +15.7% | Entrada a observar |
+| Pavel Šulc | 86 | Ligue 1 McDonald's | 40k coins | +25.7% | +11.8% | Esticada |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 40k coins | +15.9% | +6.7% | Momentum moderado |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 41k coins | +3.4% | +5.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Willian Pacho (90)** — 86k coins, **+87.5% em 7 dias** (+3.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Willian Pacho (90)** — 52k coins, **+76.5% em 7 dias** (+16.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (88)** — 85k coins, **+85.8% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre-Emerick Aubameyang (89)** — 35k coins, **+61.7% em 7 dias** (+18.8% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Abedi Pelé (91)** — 90k coins, **+56.5% em 7 dias** (+1.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 49k coins, **+51.5% em 7 dias** (+1.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mark McKenzie (90)** — 50k coins, **+51.5% em 7 dias** (+1.5% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kenny Lala (87)** — 37k coins, **+43.8% em 7 dias** (+1.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Timothy Weah (85)** — 24k coins, **+48.5% em 7 dias** (+15.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Charlie Cresswell (85)** — 34k coins, **+42.3% em 7 dias** (+22.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Willian Pacho (90, Ligue 1 McDonald's) lidera, com +87.5% em 7 dias a 86k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Willian Pacho (90, Ligue 1 McDonald's) lidera, com +76.5% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

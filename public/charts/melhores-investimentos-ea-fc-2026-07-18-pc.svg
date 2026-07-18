@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jean-Pierre Papin</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.1%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abdelhamid Ait Boudlal</text>
-<rect x="285" y="153" width="318" height="28" rx="7" fill="#22c55e"/>
-<text x="613" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Sotoca</text>
-<rect x="285" y="211" width="173" height="28" rx="7" fill="#22c55e"/>
-<text x="468" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pavel Šulc</text>
-<rect x="285" y="269" width="126" height="28" rx="7" fill="#22c55e"/>
-<text x="421" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
-<rect x="285" y="327" width="121" height="28" rx="7" fill="#22c55e"/>
-<text x="416" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wesley Saïd</text>
-<rect x="285" y="385" width="93" height="28" rx="7" fill="#22c55e"/>
-<text x="388" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.8%</text>
+<rect x="285" y="153" width="388" height="28" rx="7" fill="#22c55e"/>
+<text x="683" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charlie Cresswell</text>
+<rect x="285" y="211" width="135" height="28" rx="7" fill="#22c55e"/>
+<text x="430" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wesley Saïd</text>
+<rect x="285" y="269" width="131" height="28" rx="7" fill="#22c55e"/>
+<text x="426" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Igor Paixão</text>
+<rect x="285" y="327" width="127" height="28" rx="7" fill="#22c55e"/>
+<text x="422" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eric Dier</text>
+<rect x="285" y="385" width="64" height="28" rx="7" fill="#22c55e"/>
+<text x="359" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.5%</text>
 </svg>
