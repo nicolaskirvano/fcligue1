@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:34:16.000Z
+pubDatetime: 2026-07-19T16:34:16.000Z
 title: "Mercado EA FC em 19/07: Ligue 1 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Matthieu Udol (84, Ligue 1 McDonald's), com +48.8% em 24h, a 63k coins no PC."
+    a: "Jordan Teze (87, Ligue 1 McDonald's), com +44.6% em 24h, a 23k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Paul Pogba (89), -33.4% em 24h, a 999k coins."
+    a: "Florian Sotoca (85), -32.3% em 24h, a 22k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 40 em queda (média 2.05%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 44 cartas em alta contra 49 em queda (média 3.02%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **49 subiram**, **40 caíram** (80+ e 5k+ coins), média de **2.05%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **44 subiram**, **49 caíram** (80+ e 5k+ coins), média de **3.02%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Matthieu Udol (84) **+48.8%** · 🔴 **Maior baixa:** Paul Pogba (89) **-33.4%**
+> 🟢 **Maior alta:** Jordan Teze (87) **+44.6%** · 🔴 **Maior baixa:** Florian Sotoca (85) **-32.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Ligue 1 — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 82.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 55.1% entre as cartas que se moveram; o universo observado reúne 117 cartas.
+- **Amplitude do dia:** 76.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 118 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 63k coins | +48.8% | -2.3% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.60M coins | +44.4% | -10.7% |
-| Estéban Lepaul | 83 | Ligue 1 McDonald's | 60k coins | +41.2% | 0% |
-| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 68k coins | +33.3% | +8.5% |
-| Julio César Enciso | 87 | Ligue 1 McDonald's | 39k coins | +30.8% | -42.8% |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 24k coins | +29.7% | +18.5% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 48k coins | +29.5% | -7.2% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 23k coins | +44.6% | +23.7% |
+| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.60M coins | +44.4% | -10.1% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 70k coins | +44% | +19.8% |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 76k coins | +43.8% | +25.8% |
+| João Neves | 86 | Ligue 1 McDonald's | 139k coins | +32.4% | +24.1% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +31.3% | +38.5% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 220k coins | +31.1% | +60.4% |
 | Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 48k coins | +27.5% | +18.8% |
-| João Neves | 86 | Ligue 1 McDonald's | 42k coins | +26.1% | +9.1% |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 820k coins | +25.2% | -18% |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 46k coins | +27.3% | -9% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 1.64M coins | +26.1% | -25.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Matthieu Udol (84)** subiu **+48.8%** em 24h, a **63k coins** (faixa do dia: 43k–70k). Está +9% acima da média de 7 dias (aquecida).
+- **Jordan Teze (87)** subiu **+44.6%** em 24h, a **23k coins** (faixa do dia: 16.000–27k). Está em linha com a média de 7 dias (-4%).
 
 - **Nuno Mendes (97)** subiu **+44.4%** em 24h, a **2.60M coins** (faixa do dia: 1.80M–2.60M). Está +22% acima da média de 7 dias (aquecida).
 
-- **Estéban Lepaul (83)** subiu **+41.2%** em 24h, a **60k coins** (faixa do dia: 42k–60k). Está +15% acima da média de 7 dias (aquecida).
+- **Willian Pacho (90)** subiu **+44%** em 24h, a **70k coins** (faixa do dia: 44k–70k). Está +13% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 999k coins | -33.4% | -15.9% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 22k coins | -29.2% | -6.1% |
-| Vitinha | 95 | Ligue 1 McDonald's | 450k coins | -25.6% | -28% |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 32k coins | -24% | -27% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 23k coins | -22.9% | -62.1% |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 36k coins | -22.9% | -28.2% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 44k coins | -20% | -2.2% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.38M coins | -19.1% | -12.4% |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 32k coins | -18.2% | +7.7% |
-| Vitinha | 90 | Ligue 1 McDonald's | 420k coins | -17.5% | -13.5% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 22k coins | -32.3% | -10.2% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.07M coins | -28% | -1% |
+| Diego Moreira | 84 | Ligue 1 McDonald's | 40k coins | -24.5% | -39.1% |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 34k coins | -21.5% | -33.2% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 340k coins | -18.2% | +4.2% |
+| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 36k coins | -17.8% | -25.6% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.43M coins | -15.8% | -8.3% |
+| Vitinha | 95 | Ligue 1 McDonald's | 489k coins | -15.3% | -18% |
+| Charlie Cresswell | 85 | Ligue 1 McDonald's | 24k coins | -14.9% | -15.7% |
+| Pavel Šulc | 86 | Ligue 1 McDonald's | 34k coins | -14.4% | -12.2% |
 
 
 ### Análise das baixas
 
-- **Paul Pogba (89)** caiu **-33.4%** em 24h, a **999k coins** (faixa do dia: 870k–1.40M). Está -21% abaixo da média de 7 dias (descontada).
+- **Florian Sotoca (85)** caiu **-32.3%** em 24h, a **22k coins** (faixa do dia: 16.000–32k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Florian Sotoca (85)** caiu **-29.2%** em 24h, a **22k coins** (faixa do dia: 16.000–32k). Está -21% abaixo da média de 7 dias (descontada).
+- **Ousmane Dembélé (91)** caiu **-28%** em 24h, a **1.07M coins** (faixa do dia: 1.01M–1.50M). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Vitinha (95)** caiu **-25.6%** em 24h, a **450k coins** (faixa do dia: 439k–620k). Está -29% abaixo da média de 7 dias (descontada).
+- **Diego Moreira (84)** caiu **-24.5%** em 24h, a **40k coins** (faixa do dia: 36k–48k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Matthieu Udol já avançou 48.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jordan Teze já avançou 44.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Paul Pogba recuou -33.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Florian Sotoca recuou -32.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Matthieu Udol (84, Ligue 1 McDonald's), com +48.8% em 24h, a 63k coins no PC.
+Jordan Teze (87, Ligue 1 McDonald's), com +44.6% em 24h, a 23k coins no PC.
 
 **E a maior queda do dia?**
-Paul Pogba (89), -33.4% em 24h, a 999k coins.
+Florian Sotoca (85), -32.3% em 24h, a 22k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 40 em queda (média 2.05%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 44 cartas em alta contra 49 em queda (média 3.02%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
