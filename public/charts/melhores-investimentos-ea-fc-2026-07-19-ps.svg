@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Blaise Matuidi</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Olivier Giroud</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Teze</text>
-<rect x="285" y="153" width="385" height="28" rx="7" fill="#22c55e"/>
-<text x="680" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maghnes Akliouche</text>
-<rect x="285" y="211" width="349" height="28" rx="7" fill="#22c55e"/>
-<text x="644" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenny Lala</text>
-<rect x="285" y="269" width="288" height="28" rx="7" fill="#22c55e"/>
-<text x="583" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexsandro</text>
-<rect x="285" y="327" width="270" height="28" rx="7" fill="#22c55e"/>
-<text x="565" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jean-Pierre Papin</text>
-<rect x="285" y="385" width="201" height="28" rx="7" fill="#22c55e"/>
-<text x="496" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+73.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenny Lala</text>
+<rect x="285" y="153" width="422" height="28" rx="7" fill="#22c55e"/>
+<text x="717" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julio César Enciso</text>
+<rect x="285" y="211" width="421" height="28" rx="7" fill="#22c55e"/>
+<text x="716" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexsandro</text>
+<rect x="285" y="269" width="312" height="28" rx="7" fill="#22c55e"/>
+<text x="607" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hamari Traoré</text>
+<rect x="285" y="327" width="276" height="28" rx="7" fill="#22c55e"/>
+<text x="571" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abedi Pelé</text>
+<rect x="285" y="385" width="241" height="28" rx="7" fill="#22c55e"/>
+<text x="536" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.9%</text>
 </svg>

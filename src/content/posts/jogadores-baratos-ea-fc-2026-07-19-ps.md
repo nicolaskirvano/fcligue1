@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:34:10.000Z
+pubDatetime: 2026-07-19T19:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 19/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/07/2026)?"
-    a: "Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.600 coins no Console (PS)."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.200 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Achraf Hakimi (89) por apenas 2.600 coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 2.200 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Ligue 1 em 19/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-19-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 10.870 coins.
-- **Posição mais frequente:** RM, com 3 cartas.
-- **Faixa real:** 2.600 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 11.990 coins.
+- **Posição mais frequente:** ST, com 2 cartas.
+- **Faixa real:** 2.200 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2.600 coins | -12.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.750 coins | -1.8% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.250 coins | +2.1% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12.500 coins | -10.5% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 13.250 coins | +25.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.200 coins | -4.8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.500 coins | -10.4% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.500 coins | +7.4% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14.250 coins | 0% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 14.500 coins | -1.8% |
 
 
 ## 📈 Destaques
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2.200 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13.750 coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12.250 coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14.500 coins**
 
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12.500 coins**
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **14.250 coins**
 
-- **Ludovic Blas (86, RM)** da Ligue 1 McDonald's, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Achraf Hakimi (89, RB) por 2.600 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 2.200 coins é a referência de rating deste recorte.
 
-- **Meio:** Ludovic Giuly (87, RM) por 13.750 coins é a referência de rating deste recorte.
-
-- **Ataque:** Sidney Govou (86, ST) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Jean-Pierre Papin (89, ST) por 14.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -85,7 +83,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/07/2026)?**  
-Achraf Hakimi (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.600 coins no Console (PS).
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 2.200 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
