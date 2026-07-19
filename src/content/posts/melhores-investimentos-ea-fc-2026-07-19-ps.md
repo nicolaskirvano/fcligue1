@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:34:08.000Z
+pubDatetime: 2026-07-19T13:34:08.000Z
 title: "Investimentos EA FC: Ligue 1 em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Ben Chilwell (90, Ligue 1 McDonald's) lidera, com +71.9% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Maghnes Akliouche (84, Ligue 1 McDonald's) lidera, com +61.5% em 7 dias a 37k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ben Chilwell (90) acumula **+71.9% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Maghnes Akliouche (84) acumula **+61.5% em 7 dias** a 37k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 19/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-19-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.5% em 24h** e **+25.2% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.3% em 24h** e **+23.9% em 7 dias**.
+- **3 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 55k coins | +10% | +71.9% | Esticada |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 48k coins | +24.8% | +67.9% | Esticada |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 23k coins | +3.6% | +67.3% | Esticada |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 64k coins | +18.8% | +60.2% | Esticada |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 68k coins | +5.3% | +47.5% | Momentum moderado |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 48k coins | +10.5% | +39.7% | Momentum moderado |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 73k coins | +26.2% | +26.2% | Esticada |
-| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 44k coins | +21.7% | +25.2% | Esticada |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 15.500 coins | +1.7% | +25% | Entrada a observar |
-| Amine Gouiri | 84 | Ligue 1 McDonald's | 49k coins | +30.5% | +23.9% | Esticada |
-| Benjamin Pavard | 88 | Ligue 1 McDonald's | 15.500 coins | +6.7% | +23.1% | Momentum moderado |
-| João Neves | 88 | Ligue 1 McDonald's | 40k coins | +15% | +21.1% | Momentum moderado |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 21k coins | +3.4% | +15.2% | Entrada a observar |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 48k coins | +9.9% | +12.7% | Momentum moderado |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 45k coins | +17.5% | +12.4% | Momentum moderado |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 37k coins | +31.2% | +61.5% | Esticada |
+| Alexsandro | 86 | Ligue 1 McDonald's | 26k coins | +5.2% | +41.7% | Momentum moderado |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 35k coins | +22.4% | +37.8% | Esticada |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 16.000 coins | +10.9% | +34% | Momentum moderado |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 21k coins | +19.4% | +30.3% | Momentum moderado |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 78k coins | +33.1% | +29.9% | Esticada |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 40k coins | +14.7% | +18% | Momentum moderado |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 15.750 coins | +1.9% | +16.7% | Entrada a observar |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 38k coins | +18.9% | +12.8% | Momentum moderado |
+| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 44k coins | +12% | +9.3% | Momentum moderado |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 39k coins | +10.3% | +8.8% | Momentum moderado |
+| Amine Gouiri | 84 | Ligue 1 McDonald's | 39k coins | +3.7% | +5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Ben Chilwell (90)** — 55k coins, **+71.9% em 7 dias** (+10% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maghnes Akliouche (84)** — 37k coins, **+61.5% em 7 dias** (+31.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Willian Pacho (90)** — 48k coins, **+67.9% em 7 dias** (+24.8% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexsandro (86)** — 26k coins, **+41.7% em 7 dias** (+5.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maghnes Akliouche (88)** — 23k coins, **+67.3% em 7 dias** (+3.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marshall Munetsi (84)** — 35k coins, **+37.8% em 7 dias** (+22.4% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ismaëlo Ganiou (84)** — 64k coins, **+60.2% em 7 dias** (+18.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maghnes Akliouche (88)** — 16.000 coins, **+34% em 7 dias** (+10.9% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Willian Pacho (90)** — 68k coins, **+47.5% em 7 dias** (+5.3% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Lees-Melou (87)** — 21k coins, **+30.3% em 7 dias** (+19.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +85,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Ben Chilwell (90, Ligue 1 McDonald's) lidera, com +71.9% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Maghnes Akliouche (84, Ligue 1 McDonald's) lidera, com +61.5% em 7 dias a 37k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
