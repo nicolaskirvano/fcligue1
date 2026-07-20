@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:34:10.000Z
+pubDatetime: 2026-07-20T16:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 11.275 coins.
+- **Preço médio das 4 opções:** 10.775 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 3.600 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.600 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.600 coins | +42.3% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | -1.7% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.750 coins | +9.8% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14.750 coins | -6.3% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.600 coins | +37% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | -14.8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13.000 coins | +4% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.500 coins | -3.6% |
 
 
 ## 📈 Destaques
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.000 coins**
 
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **13.000 coins**
 
-- **Ludovic Blas (86, RM)** da Ligue 1 McDonald's, a apenas **14.750 coins**
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **13.500 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Achraf Hakimi (89, RB) por 3.600 coins é a referência de rating deste recorte.
 
-- **Meio:** Ludovic Blas (86, RM) por 14.750 coins é a referência de rating deste recorte.
+- **Meio:** Ludovic Giuly (86, RM) por 13.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Jean-Pierre Papin (89, ST) por 13.000 coins é a referência de rating deste recorte.
 
