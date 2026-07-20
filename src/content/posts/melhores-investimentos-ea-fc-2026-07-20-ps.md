@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:34:08.000Z
+pubDatetime: 2026-07-20T13:34:09.000Z
 title: "Investimentos EA FC: Ligue 1 em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Guéla Doué (84, Ligue 1 McDonald's) lidera, com +64.3% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ismaëlo Ganiou (84, Ligue 1 McDonald's) lidera, com +55.6% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Guéla Doué (84) acumula **+64.3% em 7 dias** a 23k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ismaëlo Ganiou (84) acumula **+55.6% em 7 dias** a 70k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.0% em 24h** e **+16.4% em 7 dias**.
-- **4 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 13 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.8% em 24h** e **+14.9% em 7 dias**.
+- **5 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,32 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Guéla Doué | 84 | Ligue 1 McDonald's | 23k coins | +29.6% | +64.3% | Esticada |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 90k coins | +7% | +30.5% | Momentum moderado |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 30k coins | +37.9% | +30.4% | Esticada |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 40k coins | +33.3% | +26.3% | Esticada |
-| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 40k coins | +14% | +25.7% | Momentum moderado |
-| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 29k coins | +4.1% | +18.9% | Entrada a observar |
-| Benjamin Pavard | 88 | Ligue 1 McDonald's | 19.000 coins | +3.2% | +16.4% | Entrada a observar |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 40k coins | +2.2% | +15.4% | Entrada a observar |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 21k coins | +36.1% | +15.3% | Esticada |
-| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 44k coins | +3.5% | +10.6% | Entrada a observar |
-| João Neves | 86 | Ligue 1 McDonald's | 40k coins | +7% | +9.3% | Momentum moderado |
-| Sidney Govou | 86 | Ligue 1 McDonald's | 15.000 coins | +2% | +8.5% | Entrada a observar |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 50k coins | +5.8% | +5.3% | Momentum moderado |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 70k coins | +10.2% | +55.6% | Momentum moderado |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 37k coins | +17.5% | +31% | Momentum moderado |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 17.750 coins | +22.4% | +29.1% | Esticada |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 47k coins | +32.6% | +23.4% | Esticada |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 35k coins | +7.5% | +20.2% | Momentum moderado |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 64k coins | +10% | +15.8% | Momentum moderado |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 36k coins | +18.1% | +14.1% | Momentum moderado |
+| Dante | 88 | Ligue 1 McDonald's | 18.750 coins | +10.3% | +10.3% | Momentum moderado |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 76k coins | +29.1% | +10.2% | Esticada |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 34k coins | +20% | +9.5% | Esticada |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 47k coins | +31.5% | +7.1% | Esticada |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 38k coins | +1.3% | +5.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Guéla Doué (84)** — 23k coins, **+64.3% em 7 dias** (+29.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ismaëlo Ganiou (84)** — 70k coins, **+55.6% em 7 dias** (+10.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Willian Pacho (90)** — 90k coins, **+30.5% em 7 dias** (+7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Sotoca (85)** — 37k coins, **+31% em 7 dias** (+17.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adrien Thomasson (85)** — 30k coins, **+30.4% em 7 dias** (+37.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Pavard (88)** — 17.750 coins, **+29.1% em 7 dias** (+22.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matias Fernandez-Pardo (87)** — 40k coins, **+26.3% em 7 dias** (+33.3% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marshall Munetsi (84)** — 47k coins, **+23.4% em 7 dias** (+32.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hamed Junior Traoré (84)** — 40k coins, **+25.7% em 7 dias** (+14% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kenny Lala (87)** — 35k coins, **+20.2% em 7 dias** (+7.5% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +85,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Guéla Doué (84, Ligue 1 McDonald's) lidera, com +64.3% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ismaëlo Ganiou (84, Ligue 1 McDonald's) lidera, com +55.6% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -104,6 +103,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Ligue 1 em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Mercado EA FC em 20/07: Ligue 1 — Console (PS)](/posts/mercado-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Chilwell</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.0%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Teze</text>
-<rect x="285" y="153" width="301" height="28" rx="7" fill="#22c55e"/>
-<text x="596" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Allan Saint-Maximin</text>
-<rect x="285" y="211" width="283" height="28" rx="7" fill="#22c55e"/>
-<text x="578" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
-<rect x="285" y="269" width="269" height="28" rx="7" fill="#22c55e"/>
-<text x="564" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.0%</text>
+<rect x="285" y="153" width="386" height="28" rx="7" fill="#22c55e"/>
+<text x="681" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
+<rect x="285" y="211" width="317" height="28" rx="7" fill="#22c55e"/>
+<text x="612" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Olivier Giroud</text>
+<rect x="285" y="269" width="317" height="28" rx="7" fill="#22c55e"/>
+<text x="612" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.0%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bradley Barcola</text>
-<rect x="285" y="327" width="265" height="28" rx="7" fill="#22c55e"/>
-<text x="560" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
-<rect x="285" y="385" width="184" height="28" rx="7" fill="#22c55e"/>
-<text x="479" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.0%</text>
+<rect x="285" y="327" width="203" height="28" rx="7" fill="#22c55e"/>
+<text x="498" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexsandro</text>
+<rect x="285" y="385" width="187" height="28" rx="7" fill="#22c55e"/>
+<text x="482" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.6%</text>
 </svg>
