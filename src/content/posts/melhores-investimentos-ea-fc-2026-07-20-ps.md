@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:34:08.000Z
+pubDatetime: 2026-07-21T01:34:08.000Z
 title: "Investimentos EA FC: Ligue 1 em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Alexsandro (86, Ligue 1 McDonald's) lidera, com +53.3% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Alexsandro (86, Ligue 1 McDonald's) lidera, com +55.6% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alexsandro (86) acumula **+53.3% em 7 dias** a 21k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Alexsandro (86) acumula **+55.6% em 7 dias** a 24k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.6% em 24h** e **+15.8% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.6% em 24h** e **+12.5% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alexsandro | 86 | Ligue 1 McDonald's | 21k coins | +13.6% | +53.3% | Momentum moderado |
-| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 40k coins | +22.1% | +25.7% | Esticada |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 45k coins | +5.1% | +20.8% | Momentum moderado |
-| Arsène Kouassi | 87 | Ligue 1 McDonald's | 38k coins | +19.4% | +16.1% | Momentum moderado |
-| Dante | 88 | Ligue 1 McDonald's | 20k coins | +7.1% | +15.4% | Momentum moderado |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 44k coins | +17.5% | +15.3% | Momentum moderado |
-| Abedi Pelé | 89 | Ligue 1 McDonald's | 15.750 coins | +9.7% | +15.3% | Momentum moderado |
-| Amine Gouiri | 84 | Ligue 1 McDonald's | 42k coins | +20% | +10.5% | Esticada |
+| Alexsandro | 86 | Ligue 1 McDonald's | 24k coins | +28.9% | +55.6% | Esticada |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 25k coins | +35.1% | +40.8% | Esticada |
+| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 43k coins | +20.4% | +25.7% | Esticada |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 44k coins | +7.1% | +12.5% | Momentum moderado |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 40k coins | +13.6% | +10.4% | Momentum moderado |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 52k coins | +4.8% | +9.5% | Entrada a observar |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 35k coins | +6% | +7.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Alexsandro (86)** — 21k coins, **+53.3% em 7 dias** (+13.6% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexsandro (86)** — 24k coins, **+55.6% em 7 dias** (+28.9% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hamed Junior Traoré (84)** — 40k coins, **+25.7% em 7 dias** (+22.1% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Timothy Weah (85)** — 25k coins, **+40.8% em 7 dias** (+35.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mahdi Camara (86)** — 45k coins, **+20.8% em 7 dias** (+5.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hamed Junior Traoré (84)** — 43k coins, **+25.7% em 7 dias** (+20.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Arsène Kouassi (87)** — 38k coins, **+16.1% em 7 dias** (+19.4% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Igor Paixão (87)** — 44k coins, **+12.5% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dante (88)** — 20k coins, **+15.4% em 7 dias** (+7.1% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lilian Raolisoa (84)** — 40k coins, **+10.4% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Alexsandro (86, Ligue 1 McDonald's) lidera, com +53.3% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Alexsandro (86, Ligue 1 McDonald's) lidera, com +55.6% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
