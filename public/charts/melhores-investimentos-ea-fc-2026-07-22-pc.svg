@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abdelhamid Ait Boudlal</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Chilwell</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julio César Enciso</text>
-<rect x="285" y="153" width="351" height="28" rx="7" fill="#22c55e"/>
-<text x="646" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Blaise Matuidi</text>
-<rect x="285" y="211" width="333" height="28" rx="7" fill="#22c55e"/>
-<text x="628" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ludovic Giuly</text>
-<rect x="285" y="269" width="281" height="28" rx="7" fill="#22c55e"/>
-<text x="576" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alidu Seidu</text>
-<rect x="285" y="327" width="231" height="28" rx="7" fill="#22c55e"/>
-<text x="526" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
-<rect x="285" y="385" width="228" height="28" rx="7" fill="#22c55e"/>
-<text x="523" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.9%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arsène Kouassi</text>
+<rect x="285" y="153" width="352" height="28" rx="7" fill="#22c55e"/>
+<text x="647" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Sotoca</text>
+<rect x="285" y="211" width="314" height="28" rx="7" fill="#22c55e"/>
+<text x="609" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abdelhamid Ait Boudlal</text>
+<rect x="285" y="269" width="264" height="28" rx="7" fill="#22c55e"/>
+<text x="559" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<rect x="285" y="327" width="195" height="28" rx="7" fill="#22c55e"/>
+<text x="490" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matias Fernandez-Pardo</text>
+<rect x="285" y="385" width="191" height="28" rx="7" fill="#22c55e"/>
+<text x="486" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.0%</text>
 </svg>
