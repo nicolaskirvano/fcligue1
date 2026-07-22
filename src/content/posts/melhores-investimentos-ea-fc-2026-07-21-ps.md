@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:34:08.000Z
+pubDatetime: 2026-07-22T01:34:08.000Z
 title: "Investimentos EA FC: Ligue 1 em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Ousmane Dembélé (90, Ligue 1 McDonald's) lidera, com +66.7% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mark McKenzie (90, Ligue 1 McDonald's) lidera, com +73.1% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ousmane Dembélé (90) acumula **+66.7% em 7 dias** a 68k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mark McKenzie (90) acumula **+73.1% em 7 dias** a 50k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+3.4% em 24h** e **+19.1% em 7 dias**.
-- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.5% em 24h** e **+22.4% em 7 dias**.
+- **4 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 68k coins | +1.4% | +66.7% | Esticada |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 88k coins | +12.6% | +37.7% | Momentum moderado |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 48k coins | +15.1% | +19.3% | Momentum moderado |
-| Abedi Pelé | 89 | Ligue 1 McDonald's | 17.250 coins | +1.5% | +19% | Entrada a observar |
-| Pavel Šulc | 86 | Ligue 1 McDonald's | 43k coins | +4.2% | +17.4% | Entrada a observar |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 39k coins | +2.6% | +9.9% | Entrada a observar |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 50k coins | +16% | +73.1% | Esticada |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 54k coins | +38.4% | +40.8% | Esticada |
+| Abedi Pelé | 91 | Ligue 1 McDonald's | 89k coins | +8.2% | +37.6% | Momentum moderado |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 23k coins | +2% | +36% | Momentum moderado |
+| Dante | 88 | Ligue 1 McDonald's | 24k coins | +39.7% | +32.9% | Esticada |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 59k coins | +7.3% | +22.9% | Momentum moderado |
+| Abedi Pelé | 89 | Ligue 1 McDonald's | 17.500 coins | +14.3% | +22% | Momentum moderado |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +20.9% | +19.4% | Esticada |
+| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 43k coins | +8.7% | +12.2% | Momentum moderado |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 44k coins | +12.7% | +8.5% | Momentum moderado |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +16.2% | +8.2% | Momentum moderado |
+| Alexsandro | 86 | Ligue 1 McDonald's | 24k coins | +1.2% | +7.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Ousmane Dembélé (90)** — 68k coins, **+66.7% em 7 dias** (+1.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 50k coins, **+73.1% em 7 dias** (+16% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Abedi Pelé (91)** — 88k coins, **+37.7% em 7 dias** (+12.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Willian Pacho (90)** — 54k coins, **+40.8% em 7 dias** (+38.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Willian Pacho (90)** — 48k coins, **+19.3% em 7 dias** (+15.1% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Abedi Pelé (91)** — 89k coins, **+37.6% em 7 dias** (+8.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Abedi Pelé (89)** — 17.250 coins, **+19% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Timothy Weah (85)** — 23k coins, **+36% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pavel Šulc (86)** — 43k coins, **+17.4% em 7 dias** (+4.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dante (88)** — 24k coins, **+32.9% em 7 dias** (+39.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Ousmane Dembélé (90, Ligue 1 McDonald's) lidera, com +66.7% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mark McKenzie (90, Ligue 1 McDonald's) lidera, com +73.1% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
