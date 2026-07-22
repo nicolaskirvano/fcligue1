@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matias Fernandez-Pardo</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matvey Safonov</text>
-<rect x="285" y="153" width="437" height="28" rx="7" fill="#22c55e"/>
-<text x="732" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Sotoca</text>
-<rect x="285" y="211" width="437" height="28" rx="7" fill="#22c55e"/>
-<text x="732" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Igor Paixão</text>
-<rect x="285" y="269" width="422" height="28" rx="7" fill="#22c55e"/>
-<text x="717" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Désiré Doué</text>
-<rect x="285" y="327" width="412" height="28" rx="7" fill="#22c55e"/>
-<text x="707" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Thauvin</text>
-<rect x="285" y="385" width="376" height="28" rx="7" fill="#22c55e"/>
-<text x="671" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eric Dier</text>
+<rect x="285" y="153" width="471" height="28" rx="7" fill="#22c55e"/>
+<text x="766" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willian Pacho</text>
+<rect x="285" y="211" width="372" height="28" rx="7" fill="#22c55e"/>
+<text x="667" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arsène Kouassi</text>
+<rect x="285" y="269" width="328" height="28" rx="7" fill="#22c55e"/>
+<text x="623" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abdelhamid Ait Boudlal</text>
+<rect x="285" y="327" width="300" height="28" rx="7" fill="#22c55e"/>
+<text x="595" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Berke Özer</text>
+<rect x="285" y="385" width="292" height="28" rx="7" fill="#22c55e"/>
+<text x="587" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.2%</text>
 </svg>

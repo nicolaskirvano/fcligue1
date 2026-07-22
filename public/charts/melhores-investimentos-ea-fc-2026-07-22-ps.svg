@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Dembélé</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
-<rect x="285" y="153" width="263" height="28" rx="7" fill="#22c55e"/>
-<text x="558" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Amine Gouiri</text>
-<rect x="285" y="211" width="240" height="28" rx="7" fill="#22c55e"/>
-<text x="535" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexsandro</text>
-<rect x="285" y="269" width="137" height="28" rx="7" fill="#22c55e"/>
-<text x="432" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
-<rect x="285" y="327" width="136" height="28" rx="7" fill="#22c55e"/>
-<text x="431" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Olivier Giroud</text>
-<rect x="285" y="385" width="134" height="28" rx="7" fill="#22c55e"/>
-<text x="429" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ethan Nwaneri</text>
+<rect x="285" y="153" width="406" height="28" rx="7" fill="#22c55e"/>
+<text x="701" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexsandro</text>
+<rect x="285" y="211" width="264" height="28" rx="7" fill="#22c55e"/>
+<text x="559" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
+<rect x="285" y="269" width="198" height="28" rx="7" fill="#22c55e"/>
+<text x="493" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
+<rect x="285" y="327" width="185" height="28" rx="7" fill="#22c55e"/>
+<text x="480" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
+<rect x="285" y="385" width="132" height="28" rx="7" fill="#22c55e"/>
+<text x="427" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.5%</text>
 </svg>
