@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:34:10.000Z
+pubDatetime: 2026-07-23T22:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 13.167 coins.
+- **Preço médio das 6 opções:** 13.500 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 11.000 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 12.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.500 coins | -1.9% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.500 coins | -3.4% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.000 coins | +7.7% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 14.500 coins | -12.1% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.000 coins | -2.1% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.500 coins | +3.8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.500 coins | +3.8% |
+| Abedi Pelé | 89 | CAM | Ligue 1 McDonald's | 13.750 coins | +21.9% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14.000 coins | +1.8% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.000 coins | +1.8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.000 coins | +2.1% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.750 coins | +3.9% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.500 coins**
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Abedi Pelé (89, CAM)** da Ligue 1 McDonald's, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14.000 coins**
 
-- **Mamadou Sangaré (87, CM)** da Ligue 1 McDonald's, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11.000 coins**
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Benjamin Pavard (88, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Benjamin Pavard (88, CB) por 14.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Ludovic Giuly (87, RM) por 14.000 coins é a referência de rating deste recorte.
+- **Meio:** Abedi Pelé (89, CAM) por 13.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Jean-Pierre Papin (89, ST) por 13.500 coins é a referência de rating deste recorte.
 

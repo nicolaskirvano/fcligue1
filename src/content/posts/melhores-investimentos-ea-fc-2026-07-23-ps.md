@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:34:08.000Z
+pubDatetime: 2026-07-23T22:34:08.000Z
 title: "Investimentos EA FC: Ligue 1 em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Willian Pacho (90, Ligue 1 McDonald's) lidera, com +34.2% em 7 dias a 114k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Willian Pacho (90, Ligue 1 McDonald's) lidera, com +40% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Willian Pacho (90) acumula **+34.2% em 7 dias** a 114k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Willian Pacho (90) acumula **+40% em 7 dias** a 100k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.0% em 24h** e **+20.1% em 7 dias**.
-- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.5% em 24h** e **+27.4% em 7 dias**.
+- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 114k coins | +30.8% | +34.2% | Esticada |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 68k coins | +2.2% | +27.3% | Momentum moderado |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 64k coins | +5.6% | +26.7% | Momentum moderado |
-| Guéla Doué | 84 | Ligue 1 McDonald's | 25k coins | +25% | +23.5% | Esticada |
-| Pavel Šulc | 86 | Ligue 1 McDonald's | 48k coins | +17.9% | +20.1% | Momentum moderado |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +2.8% | +19.1% | Entrada a observar |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 41k coins | +14% | +9.4% | Momentum moderado |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 80k coins | +16.1% | +7.8% | Momentum moderado |
-| Alexsandro | 86 | Ligue 1 McDonald's | 22k coins | +1.1% | +5.7% | Entrada a observar |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 100k coins | +8.2% | +40% | Momentum moderado |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 65k coins | +4.8% | +30% | Momentum moderado |
+| Lukáš Hrádecký | 85 | Ligue 1 McDonald's | 39k coins | +2.6% | +24.8% | Entrada a observar |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 38k coins | +9.6% | +6.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Willian Pacho (90)** — 114k coins, **+34.2% em 7 dias** (+30.8% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Willian Pacho (90)** — 100k coins, **+40% em 7 dias** (+8.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ben Chilwell (90)** — 68k coins, **+27.3% em 7 dias** (+2.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 65k coins, **+30% em 7 dias** (+4.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Willian Pacho (90)** — 64k coins, **+26.7% em 7 dias** (+5.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lukáš Hrádecký (85)** — 39k coins, **+24.8% em 7 dias** (+2.6% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Guéla Doué (84)** — 25k coins, **+23.5% em 7 dias** (+25% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Pavel Šulc (86)** — 48k coins, **+20.1% em 7 dias** (+17.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matias Fernandez-Pardo (87)** — 38k coins, **+6.7% em 7 dias** (+9.6% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Willian Pacho (90, Ligue 1 McDonald's) lidera, com +34.2% em 7 dias a 114k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Willian Pacho (90, Ligue 1 McDonald's) lidera, com +40% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
