@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Dembélé</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nabil Bentaleb</text>
-<rect x="285" y="153" width="398" height="28" rx="7" fill="#22c55e"/>
-<text x="693" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jean-Pierre Papin</text>
-<rect x="285" y="211" width="258" height="28" rx="7" fill="#22c55e"/>
-<text x="553" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Chilwell</text>
-<rect x="285" y="269" width="218" height="28" rx="7" fill="#22c55e"/>
-<text x="513" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abedi Pelé</text>
-<rect x="285" y="327" width="212" height="28" rx="7" fill="#22c55e"/>
-<text x="507" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ludovic Giuly</text>
-<rect x="285" y="385" width="204" height="28" rx="7" fill="#22c55e"/>
-<text x="499" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mark McKenzie</text>
+<rect x="285" y="153" width="245" height="28" rx="7" fill="#22c55e"/>
+<text x="540" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abedi Pelé</text>
+<rect x="285" y="211" width="224" height="28" rx="7" fill="#22c55e"/>
+<text x="519" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arsène Kouassi</text>
+<rect x="285" y="269" width="184" height="28" rx="7" fill="#22c55e"/>
+<text x="479" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sidney Govou</text>
+<rect x="285" y="327" width="176" height="28" rx="7" fill="#22c55e"/>
+<text x="471" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Afonso Moreira</text>
+<rect x="285" y="385" width="88" height="28" rx="7" fill="#22c55e"/>
+<text x="383" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.8%</text>
 </svg>
