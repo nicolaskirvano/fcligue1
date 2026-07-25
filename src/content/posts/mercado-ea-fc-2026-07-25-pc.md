@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T13:34:17.000Z
+pubDatetime: 2026-07-25T16:34:16.000Z
 title: "Mercado EA FC em 25/07: Ligue 1 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Marshall Munetsi (84, Ligue 1 McDonald's), com +44.1% em 24h, a 42k coins no PC."
+    a: "Désiré Doué (91, Ligue 1 McDonald's), com +53.8% em 24h, a 2M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Désiré Doué (87), -50% em 24h, a 200k coins."
+    a: "Samson Baidoo (85), -45.6% em 24h, a 22k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 38 cartas em alta contra 58 em queda (média -5.43%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 39 cartas em alta contra 51 em queda (média -0.05%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **38 subiram** e **58 caíram**, com variação média de **-5.43%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **39 subiram** e **51 caíram**, com variação média de **-0.05%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Marshall Munetsi (84) **+44.1%** · 🔴 **Maior baixa:** Désiré Doué (87) **-50%**
+> 🟢 **Maior alta:** Désiré Doué (91) **+53.8%** · 🔴 **Maior baixa:** Samson Baidoo (85) **-45.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Ligue 1 — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.6% entre as cartas que se moveram; o universo observado reúne 118 cartas.
+- **Amplitude do dia:** 99.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.3% entre as cartas que se moveram; o universo observado reúne 112 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 42k coins | +44.1% | +6.2% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 29k coins | +43.5% | +28.4% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 29k coins | +36.7% | +25.6% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.50M coins | +35.2% | +35% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 2M coins | +34.7% | +18% |
-| Vitinha | 90 | Ligue 1 McDonald's | 299k coins | +27.7% | -13.8% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 2M coins | +53.8% | +35.2% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 76k coins | +42.2% | +55% |
+| Berke Özer | 83 | Ligue 1 McDonald's | 74k coins | +33% | -0.7% |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 66k coins | +28.3% | +40.9% |
 | Florian Thauvin | 83 | Ligue 1 McDonald's | 55k coins | +25% | 0% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 258k coins | +20.2% | -47.9% |
-| Julio César Enciso | 84 | Ligue 1 McDonald's | 44k coins | +18.8% | +17.2% |
-| Pablo Pagis | 80 | Ligue 1 McDonald's | 48k coins | +18.8% | +8% |
+| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 26k coins | +24.7% | +49.3% |
+| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 50k coins | +24.4% | +22.1% |
+| Pablo Pagis | 80 | Ligue 1 McDonald's | 48k coins | +21.8% | +8% |
+| Denis Zakaria | 86 | Ligue 1 McDonald's | 48k coins | +21.2% | +9% |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 32k coins | +18.9% | +8.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marshall Munetsi (84)** subiu **+44.1%** em 24h, a **42k coins** (faixa do dia: 30k–45k). Está em linha com a média de 7 dias (+1%).
+- **Désiré Doué (91)** subiu **+53.8%** em 24h, a **2M coins** (faixa do dia: 713k–2M). Está +46% acima da média de 7 dias (aquecida).
 
-- **Timothy Weah (85)** subiu **+43.5%** em 24h, a **29k coins** (faixa do dia: 19.750–50k). Está +21% acima da média de 7 dias (aquecida).
+- **Olivier Giroud (89)** subiu **+42.2%** em 24h, a **76k coins** (faixa do dia: 44k–78k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Corentin Tolisso (85)** subiu **+36.7%** em 24h, a **29k coins** (faixa do dia: 10.750–30k). Está +24% acima da média de 7 dias (aquecida).
+- **Berke Özer (83)** subiu **+33%** em 24h, a **74k coins** (faixa do dia: 35k–74k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 200k coins | -50% | -36.5% |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 26k coins | -44.3% | -40.9% |
-| Endrick | 91 | Ligue 1 McDonald's | 655k coins | -39.4% | -27.9% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 680k coins | -38.2% | -60% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 34k coins | -38.2% | -35.8% |
-| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 1M coins | -32.8% | -34.6% |
-| Bradley Barcola | 87 | Ligue 1 McDonald's | 130k coins | -28.7% | -19.3% |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 22k coins | -27.1% | +30.3% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 23k coins | -26.2% | +24% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 45k coins | -25.2% | -11% |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 22k coins | -45.6% | -38.7% |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 23k coins | -44.8% | -44.2% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 43k coins | -42.2% | -24.6% |
+| João Neves | 88 | Ligue 1 McDonald's | 80k coins | -42.1% | -56.7% |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 30k coins | -36.8% | -31.8% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 47k coins | -29.3% | +16.5% |
+| Endrick | 91 | Ligue 1 McDonald's | 655k coins | -27.1% | -27.9% |
+| Félix Correia | 89 | Ligue 1 McDonald's | 26k coins | -25.7% | +41% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 20k coins | -25.4% | +13.3% |
+| João Neves | 93 | Ligue 1 McDonald's | 269k coins | -17.7% | -6.6% |
 
 
 ### Análise das baixas
 
-- **Désiré Doué (87)** caiu **-50%** em 24h, a **200k coins** (faixa do dia: 117k–400k). Está -31% abaixo da média de 7 dias (descontada).
+- **Samson Baidoo (85)** caiu **-45.6%** em 24h, a **22k coins** (faixa do dia: 22k–37k). Está -57% abaixo da média de 7 dias (descontada).
 
-- **Roman Yaremchuk (89)** caiu **-44.3%** em 24h, a **26k coins** (faixa do dia: 26k–47k). Está -41% abaixo da média de 7 dias (descontada).
+- **Roman Yaremchuk (89)** caiu **-44.8%** em 24h, a **23k coins** (faixa do dia: 23k–43k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Endrick (91)** caiu **-39.4%** em 24h, a **655k coins** (faixa do dia: 655k–1.08M). Está -30% abaixo da média de 7 dias (descontada).
+- **Ethan Nwaneri (91)** caiu **-42.2%** em 24h, a **43k coins** (faixa do dia: 34k–90k). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marshall Munetsi já avançou 44.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Désiré Doué já avançou 53.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Désiré Doué recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Samson Baidoo recuou -45.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Marshall Munetsi (84, Ligue 1 McDonald's), com +44.1% em 24h, a 42k coins no PC.
+Désiré Doué (91, Ligue 1 McDonald's), com +53.8% em 24h, a 2M coins no PC.
 
 **E a maior queda do dia?**
-Désiré Doué (87), -50% em 24h, a 200k coins.
+Samson Baidoo (85), -45.6% em 24h, a 22k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 38 cartas em alta contra 58 em queda (média -5.43%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 39 cartas em alta contra 51 em queda (média -0.05%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
