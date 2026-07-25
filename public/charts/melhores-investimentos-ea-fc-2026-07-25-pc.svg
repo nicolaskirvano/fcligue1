@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fabián Ruiz</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
-<rect x="285" y="153" width="420" height="28" rx="7" fill="#22c55e"/>
-<text x="715" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
-<rect x="285" y="211" width="368" height="28" rx="7" fill="#22c55e"/>
-<text x="663" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Thauvin</text>
-<rect x="285" y="269" width="348" height="28" rx="7" fill="#22c55e"/>
-<text x="643" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nathan Ngoy</text>
-<rect x="285" y="327" width="227" height="28" rx="7" fill="#22c55e"/>
-<text x="522" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
-<rect x="285" y="385" width="188" height="28" rx="7" fill="#22c55e"/>
-<text x="483" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Chilwell</text>
+<rect x="285" y="153" width="402" height="28" rx="7" fill="#22c55e"/>
+<text x="697" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maghnes Akliouche</text>
+<rect x="285" y="211" width="295" height="28" rx="7" fill="#22c55e"/>
+<text x="590" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nathan Ngoy</text>
+<rect x="285" y="269" width="261" height="28" rx="7" fill="#22c55e"/>
+<text x="556" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Thauvin</text>
+<rect x="285" y="327" width="200" height="28" rx="7" fill="#22c55e"/>
+<text x="495" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan Ikoné</text>
+<rect x="285" y="385" width="165" height="28" rx="7" fill="#22c55e"/>
+<text x="460" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.6%</text>
 </svg>
