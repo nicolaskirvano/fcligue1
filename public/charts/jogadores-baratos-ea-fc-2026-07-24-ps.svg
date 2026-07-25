@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Achraf Hakimi</text>
 <rect x="285" y="95" width="107" height="28" rx="7" fill="#38bdf8"/>
-<text x="402" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.300</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maghnes Akliouche</text>
-<rect x="285" y="153" width="407" height="28" rx="7" fill="#38bdf8"/>
-<text x="702" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.500</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ludovic Giuly</text>
-<rect x="285" y="211" width="358" height="28" rx="7" fill="#38bdf8"/>
-<text x="653" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
-<rect x="285" y="269" width="439" height="28" rx="7" fill="#38bdf8"/>
-<text x="734" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ludovic Blas</text>
-<rect x="285" y="327" width="399" height="28" rx="7" fill="#38bdf8"/>
-<text x="694" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.250</text>
+<text x="402" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.000</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
+<rect x="285" y="153" width="114" height="28" rx="7" fill="#38bdf8"/>
+<text x="409" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.200</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ludovic Blas</text>
+<rect x="285" y="211" width="427" height="28" rx="7" fill="#38bdf8"/>
+<text x="722" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ludovic Giuly</text>
+<rect x="285" y="269" width="471" height="28" rx="7" fill="#38bdf8"/>
+<text x="766" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sidney Govou</text>
+<rect x="285" y="327" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eric Dier</text>
 <rect x="285" y="385" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.750</text>
+<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
 </svg>
