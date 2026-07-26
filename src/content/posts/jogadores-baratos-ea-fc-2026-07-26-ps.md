@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:34:10.000Z
+pubDatetime: 2026-07-26T22:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.633 coins.
+- **Preço médio das 15 opções:** 9.970 coins.
 - **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 3.200 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.200 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.200 coins | -3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.100 coins | +15.2% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.250 coins | +1.8% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 11.750 coins | +11.4% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.000 coins | +2% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2.900 coins | -9.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.000 coins | +9.1% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 12.750 coins | 0% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13.500 coins | -9.4% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 11.000 coins | -4.3% |
-| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 13.000 coins | +20.8% |
-| Hamari Traoré | 87 | RB | Ligue 1 McDonald's | 13.250 coins | +20.5% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.500 coins | +10.6% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3.200 coins | 0% |
-| Eric Dier | 86 | CB | Ligue 1 McDonald's | 12.000 coins | -5.1% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 14.500 coins | +34.9% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11.500 coins | +1.9% |
+| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 12.000 coins | 0% |
+| Aron Dønnum | 87 | RM | Ligue 1 McDonald's | 13.250 coins | -5.1% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3.200 coins | +9.7% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.250 coins | +19.2% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 13.750 coins | 0% |
+| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 14.500 coins | +20.8% |
+| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.200 coins | -8% |
 
 
 ## 📈 Destaques
@@ -63,18 +63,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **14.250 coins**
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Willian Pacho (90, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Vitinha (89, CM) por 4.100 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 3.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Allan Saint-Maximin (92, RW) por 11.500 coins é a referência de rating deste recorte.
 

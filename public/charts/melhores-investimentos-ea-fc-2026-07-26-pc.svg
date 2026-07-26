@@ -1,25 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="463" viewBox="0 0 900 463" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="405" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
 <title id="title">Variação em 7 dias: Investimentos EA FC: Ligue 1 em 26/07 — PC</title>
 <desc id="desc">Gráfico gerado a partir da tabela publicada neste artigo.</desc>
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pavel Šulc</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ilan Kebbal</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Igor Paixão</text>
-<rect x="285" y="153" width="461" height="28" rx="7" fill="#22c55e"/>
-<text x="756" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julio César Enciso</text>
-<rect x="285" y="211" width="368" height="28" rx="7" fill="#22c55e"/>
-<text x="663" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Hidalgo</text>
-<rect x="285" y="269" width="343" height="28" rx="7" fill="#22c55e"/>
-<text x="638" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Moreira</text>
-<rect x="285" y="327" width="339" height="28" rx="7" fill="#22c55e"/>
-<text x="634" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alidu Seidu</text>
-<rect x="285" y="385" width="294" height="28" rx="7" fill="#22c55e"/>
-<text x="589" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Moreira</text>
+<rect x="285" y="153" width="273" height="28" rx="7" fill="#22c55e"/>
+<text x="568" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Hidalgo</text>
+<rect x="285" y="211" width="83" height="28" rx="7" fill="#22c55e"/>
+<text x="378" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nathan Ngoy</text>
+<rect x="285" y="269" width="80" height="28" rx="7" fill="#22c55e"/>
+<text x="375" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<rect x="285" y="327" width="71" height="28" rx="7" fill="#22c55e"/>
+<text x="366" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.9%</text>
 </svg>
