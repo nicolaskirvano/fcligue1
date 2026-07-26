@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:34:09.000Z
+pubDatetime: 2026-07-26T01:34:09.000Z
 title: "Investimentos EA FC: Ligue 1 em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Samson Baidoo (85, Ligue 1 McDonald's) lidera, com +53.4% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Samson Baidoo (85, Ligue 1 McDonald's) lidera, com +45.2% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Samson Baidoo (85) acumula **+53.4% em 7 dias** a 39k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Samson Baidoo (85) acumula **+45.2% em 7 dias** a 34k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.1% em 24h** e **+27.4% em 7 dias**.
-- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.8% em 24h** e **+28.6% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Samson Baidoo | 85 | Ligue 1 McDonald's | 39k coins | +18.8% | +53.4% | Momentum moderado |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 42k coins | +38.5% | +43% | Esticada |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 50k coins | +22.7% | +41.8% | Esticada |
-| Julio César Enciso | 84 | Ligue 1 McDonald's | 44k coins | +24.6% | +36.2% | Esticada |
-| Diego Moreira | 84 | Ligue 1 McDonald's | 55k coins | +5.8% | +29% | Momentum moderado |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 48k coins | +25% | +25.8% | Esticada |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 60k coins | +15.4% | +25.7% | Momentum moderado |
-| Arsène Kouassi | 87 | Ligue 1 McDonald's | 46k coins | +3.4% | +16.9% | Entrada a observar |
-| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 46k coins | +10.3% | +12.9% | Momentum moderado |
-| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 50k coins | +13.6% | +9.9% | Momentum moderado |
+| Samson Baidoo | 85 | Ligue 1 McDonald's | 34k coins | +33.6% | +45.2% | Esticada |
+| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 50k coins | +15.8% | +32.5% | Momentum moderado |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 65k coins | +17.1% | +30.7% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 40k coins | +12.5% | +28.6% | Momentum moderado |
+| Pavel Šulc | 86 | Ligue 1 McDonald's | 52k coins | +5.5% | +22.1% | Momentum moderado |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 44k coins | +13.8% | +8% | Momentum moderado |
+| Eric Dier | 86 | Ligue 1 McDonald's | 16.500 coins | +24.1% | +6.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Samson Baidoo (85)** — 39k coins, **+53.4% em 7 dias** (+18.8% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Samson Baidoo (85)** — 34k coins, **+45.2% em 7 dias** (+33.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jonathan Ikoné (86)** — 42k coins, **+43% em 7 dias** (+38.5% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre-Emerick Aubameyang (86)** — 50k coins, **+32.5% em 7 dias** (+15.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (87)** — 50k coins, **+41.8% em 7 dias** (+22.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerónimo Rulli (84)** — 65k coins, **+30.7% em 7 dias** (+17.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julio César Enciso (84)** — 44k coins, **+36.2% em 7 dias** (+24.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 40k coins, **+28.6% em 7 dias** (+12.5% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Moreira (84)** — 55k coins, **+29% em 7 dias** (+5.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pavel Šulc (86)** — 52k coins, **+22.1% em 7 dias** (+5.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Samson Baidoo (85, Ligue 1 McDonald's) lidera, com +53.4% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Samson Baidoo (85, Ligue 1 McDonald's) lidera, com +45.2% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
