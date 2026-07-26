@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:34:18.000Z
+pubDatetime: 2026-07-26T19:34:18.000Z
 title: "Investimentos EA FC: Ligue 1 em 26/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Wesley Saïd (86, Ligue 1 McDonald's) lidera, com +49.2% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pavel Šulc (86, Ligue 1 McDonald's) lidera, com +46% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wesley Saïd (86) acumula **+49.2% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Pavel Šulc (86) acumula **+46% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 26/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-26-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.8% em 24h** e **+27.6% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.7% em 24h** e **+32.5% em 7 dias**.
+- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 48k coins | +2.1% | +49.2% | Momentum moderado |
-| Arsène Kouassi | 87 | Ligue 1 McDonald's | 52k coins | +3% | +36.4% | Momentum moderado |
-| Julio César Enciso | 84 | Ligue 1 McDonald's | 45k coins | +13.2% | +35.3% | Momentum moderado |
-| Diego Moreira | 84 | Ligue 1 McDonald's | 50k coins | +34.5% | +30.1% | Esticada |
-| Pavel Šulc | 86 | Ligue 1 McDonald's | 50k coins | +12.4% | +25% | Momentum moderado |
-| Nathan Ngoy | 84 | Ligue 1 McDonald's | 48k coins | +1.1% | +23.4% | Entrada a observar |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 79k coins | +5.3% | +14.5% | Momentum moderado |
-| João Neves | 93 | Ligue 1 McDonald's | 249k coins | +25.6% | +7.2% | Esticada |
+| Pavel Šulc | 86 | Ligue 1 McDonald's | 50k coins | +12.4% | +46% | Momentum moderado |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 75k coins | +1.4% | +44.2% | Momentum moderado |
+| Julio César Enciso | 84 | Ligue 1 McDonald's | 45k coins | +13.9% | +35.3% | Momentum moderado |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +24.5% | +32.9% | Esticada |
+| Diego Moreira | 84 | Ligue 1 McDonald's | 50k coins | +20.5% | +32.5% | Esticada |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 72k coins | +5.6% | +28.2% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 42k coins | +5% | +13.5% | Entrada a observar |
+| Eric Dier | 86 | Ligue 1 McDonald's | 22k coins | +10.7% | +12% | Momentum moderado |
+| Nathan Ngoy | 84 | Ligue 1 McDonald's | 48k coins | +1.6% | +11.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Wesley Saïd (86)** — 48k coins, **+49.2% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pavel Šulc (86)** — 50k coins, **+46% em 7 dias** (+12.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Arsène Kouassi (87)** — 52k coins, **+36.4% em 7 dias** (+3% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Igor Paixão (87)** — 75k coins, **+44.2% em 7 dias** (+1.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julio César Enciso (84)** — 45k coins, **+35.3% em 7 dias** (+13.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julio César Enciso (84)** — 45k coins, **+35.3% em 7 dias** (+13.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Moreira (84)** — 50k coins, **+30.1% em 7 dias** (+34.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santiago Hidalgo (84)** — 50k coins, **+32.9% em 7 dias** (+24.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pavel Šulc (86)** — 50k coins, **+25% em 7 dias** (+12.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diego Moreira (84)** — 50k coins, **+32.5% em 7 dias** (+20.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +82,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Wesley Saïd (86, Ligue 1 McDonald's) lidera, com +49.2% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pavel Šulc (86, Ligue 1 McDonald's) lidera, com +46% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
