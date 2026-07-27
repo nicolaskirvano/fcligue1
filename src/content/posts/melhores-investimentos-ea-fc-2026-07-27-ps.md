@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:34:08.000Z
+pubDatetime: 2026-07-27T22:34:09.000Z
 title: "Investimentos EA FC: Ligue 1 em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Charlie Cresswell (85, Ligue 1 McDonald's) lidera, com +25% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gerónimo Rulli (87, Ligue 1 McDonald's) lidera, com +78.6% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Charlie Cresswell (85) acumula **+25% em 7 dias** a 24k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gerónimo Rulli (87) acumula **+78.6% em 7 dias** a 54k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.5% em 24h** e **+17.3% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.6% em 24h** e **+23.4% em 7 dias**.
+- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 24k coins | +38.9% | +25% | Esticada |
-| João Neves | 86 | Ligue 1 McDonald's | 45k coins | +11.5% | +21.7% | Momentum moderado |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 47k coins | +10% | +17.3% | Momentum moderado |
-| Ludovic Giuly | 86 | Ligue 1 McDonald's | 15.250 coins | +5.2% | +17.3% | Momentum moderado |
-| Amine Gouiri | 84 | Ligue 1 McDonald's | 48k coins | +21.2% | +16.9% | Esticada |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 185k coins | +14% | +8.3% | Momentum moderado |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 55k coins | +11.1% | +7.1% | Momentum moderado |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 54k coins | +4.7% | +78.6% | Esticada |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 48k coins | +24.4% | +27.6% | Esticada |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 49k coins | +4.3% | +25.6% | Momentum moderado |
+| Amine Gouiri | 84 | Ligue 1 McDonald's | 50k coins | +15.6% | +25.3% | Momentum moderado |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 49k coins | +6.6% | +23.4% | Momentum moderado |
+| Ludovic Giuly | 86 | Ligue 1 McDonald's | 15.000 coins | +3.4% | +15.4% | Entrada a observar |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 175k coins | +17.4% | +14.1% | Momentum moderado |
+| Sidney Govou | 86 | Ligue 1 McDonald's | 15.250 coins | +5.2% | +10.9% | Momentum moderado |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 44k coins | +6.7% | +10.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Charlie Cresswell (85)** — 24k coins, **+25% em 7 dias** (+38.9% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerónimo Rulli (87)** — 54k coins, **+78.6% em 7 dias** (+4.7% em 24h). Preço +85% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 45k coins, **+21.7% em 7 dias** (+11.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lilian Raolisoa (84)** — 48k coins, **+27.6% em 7 dias** (+24.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wesley Saïd (86)** — 47k coins, **+17.3% em 7 dias** (+10% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matthieu Udol (84)** — 49k coins, **+25.6% em 7 dias** (+4.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ludovic Giuly (86)** — 15.250 coins, **+17.3% em 7 dias** (+5.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Amine Gouiri (84)** — 50k coins, **+25.3% em 7 dias** (+15.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Amine Gouiri (84)** — 48k coins, **+16.9% em 7 dias** (+21.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Pavard (86)** — 49k coins, **+23.4% em 7 dias** (+6.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +92,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Charlie Cresswell (85, Ligue 1 McDonald's) lidera, com +25% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gerónimo Rulli (87, Ligue 1 McDonald's) lidera, com +78.6% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
