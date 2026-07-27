@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:34:17.000Z
+pubDatetime: 2026-07-27T01:34:16.000Z
 title: "Mercado EA FC em 26/07: Ligue 1 — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
     a: "Angel Gomes (83, Ligue 1 McDonald's), com +56% em 24h, a 39k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Pierre-Emile Højbjerg (85), -41.7% em 24h, a 126k coins."
+    a: "Pierre-Emerick Aubameyang (89), -44.2% em 24h, a 59k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 30 cartas em alta contra 40 em queda (média 2.65%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 44 cartas em alta contra 34 em queda (média 9.98%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **30 em alta** e **40 em queda**, média de **2.65%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **44 em alta** e **34 em queda**, média de **9.98%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Angel Gomes (83) **+56%** · 🔴 **Maior baixa:** Pierre-Emile Højbjerg (85) **-41.7%**
+> 🟢 **Maior alta:** Angel Gomes (83) **+56%** · 🔴 **Maior baixa:** Pierre-Emerick Aubameyang (89) **-44.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Ligue 1 — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,8 +35,8 @@ Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 104 cartas.
+- **Amplitude do dia:** 100.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.4% entre as cartas que se moveram; o universo observado reúne 118 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -44,15 +44,15 @@ Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Angel Gomes | 83 | Ligue 1 McDonald's | 39k coins | +56% | +136.4% |
-| Alexsandro | 86 | Ligue 1 McDonald's | 23k coins | +50% | -16.2% |
-| João Neves | 86 | Ligue 1 McDonald's | 119k coins | +41.7% | -15% |
-| Estéban Lepaul | 83 | Ligue 1 McDonald's | 60k coins | +33% | -0.8% |
-| Diego Moreira | 84 | Ligue 1 McDonald's | 50k coins | +21.2% | +37.9% |
+| Paul Pogba | 89 | Ligue 1 McDonald's | 1.40M coins | +43.4% | +17.6% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 42k coins | +31.6% | +15.9% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 205k coins | +30.7% | -61.9% |
+| Nathan Ngoy | 84 | Ligue 1 McDonald's | 48k coins | +25.8% | +11.1% |
+| Vitinha | 91 | Ligue 1 McDonald's | 850k coins | +25% | -29.2% |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 50k coins | +21.2% | +18.3% |
+| João Neves | 88 | Ligue 1 McDonald's | 80k coins | +17.6% | -63.5% |
 | Denis Zakaria | 86 | Ligue 1 McDonald's | 50k coins | +16.3% | +1% |
-| João Neves | 93 | Ligue 1 McDonald's | 279k coins | +13.2% | +3.1% |
-| Yann Gboho | 83 | Ligue 1 McDonald's | 42k coins | +11.2% | -0.6% |
-| Ilan Kebbal | 86 | Ligue 1 McDonald's | 48k coins | +9.8% | +66.7% |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 331k coins | +7.1% | +5.7% |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 48k coins | +14.3% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Angel Gomes (83)** subiu **+56%** em 24h, a **39k coins** (faixa do dia: 25k–39k). Está +24% acima da média de 7 dias (aquecida).
+- **Angel Gomes (83)** subiu **+56%** em 24h, a **39k coins** (faixa do dia: 25k–39k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Alexsandro (86)** subiu **+50%** em 24h, a **23k coins** (faixa do dia: 12.000–27k). Está -13% abaixo da média de 7 dias (descontada).
+- **Paul Pogba (89)** subiu **+43.4%** em 24h, a **1.40M coins** (faixa do dia: 736k–1.60M). Está +37% acima da média de 7 dias (aquecida).
 
-- **João Neves (86)** subiu **+41.7%** em 24h, a **119k coins** (faixa do dia: 78k–155k). Está em linha com a média de 7 dias (+1%).
+- **Ayyoub Bouaddi (86)** subiu **+31.6%** em 24h, a **42k coins** (faixa do dia: 18.250–46k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 126k coins | -41.7% | -47.5% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 38k coins | -39.2% | -16.4% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 680k coins | -25.9% | -71.5% |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 100k coins | -23.1% | -19.4% |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 33k coins | -18.1% | -19.6% |
-| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 38k coins | -18.1% | 0% |
-| Igor Paixão | 87 | Ligue 1 McDonald's | 75k coins | -17.7% | +20.4% |
-| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 38k coins | -17.6% | -23.9% |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 41k coins | -17.3% | -17.8% |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 22k coins | -15.5% | -34.1% |
+| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 59k coins | -44.2% | -47.7% |
+| Corentin Tolisso | 85 | Ligue 1 McDonald's | 26k coins | -42.3% | -41.2% |
+| Endrick | 86 | Ligue 1 McDonald's | 40k coins | -40.2% | -63.5% |
+| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 875k coins | -23.3% | -32.4% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 26k coins | -21.5% | +14.6% |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 126k coins | -19.2% | -47.5% |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 43k coins | -17% | +10.3% |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 20k coins | -16.7% | +21.2% |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 30k coins | -16.1% | -4.8% |
+| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 490k coins | -15.8% | -29.8% |
 
 
 ### Análise das baixas
 
-- **Pierre-Emile Højbjerg (85)** caiu **-41.7%** em 24h, a **126k coins** (faixa do dia: 126k–184k). Está -11% abaixo da média de 7 dias (descontada).
+- **Pierre-Emerick Aubameyang (89)** caiu **-44.2%** em 24h, a **59k coins** (faixa do dia: 34k–80k). Está em linha com a média de 7 dias (-3%).
 
-- **Mark McKenzie (90)** caiu **-39.2%** em 24h, a **38k coins** (faixa do dia: 26k–65k). Está -29% abaixo da média de 7 dias (descontada).
+- **Corentin Tolisso (85)** caiu **-42.3%** em 24h, a **26k coins** (faixa do dia: 15.000–26k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Nuno Mendes (97)** caiu **-25.9%** em 24h, a **680k coins** (faixa do dia: 500k–1.85M). Está -56% abaixo da média de 7 dias (descontada).
+- **Endrick (86)** caiu **-40.2%** em 24h, a **40k coins** (faixa do dia: 39k–88k). Está -63% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Angel Gomes já avançou 56% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Pierre-Emile Højbjerg recuou -41.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Pierre-Emerick Aubameyang recuou -44.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Angel Gomes (83, Ligue 1 McDonald's), com +56% em 24h, a 39k coins no PC.
 
 **E a maior queda do dia?**
-Pierre-Emile Højbjerg (85), -41.7% em 24h, a 126k coins.
+Pierre-Emerick Aubameyang (89), -44.2% em 24h, a 59k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 30 cartas em alta contra 40 em queda (média 2.65%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 44 cartas em alta contra 34 em queda (média 9.98%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

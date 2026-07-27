@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:34:18.000Z
+pubDatetime: 2026-07-27T01:34:18.000Z
 title: "Investimentos EA FC: Ligue 1 em 26/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+4.4% em 24h** e **+11.5% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.3% em 24h** e **+33.7% em 7 dias**.
+- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ilan Kebbal | 86 | Ligue 1 McDonald's | 48k coins | +9.8% | +66.7% | Esticada |
-| Diego Moreira | 84 | Ligue 1 McDonald's | 50k coins | +21.2% | +37.9% | Esticada |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 41k coins | +3.8% | +11.5% | Entrada a observar |
-| Nathan Ngoy | 84 | Ligue 1 McDonald's | 48k coins | +2.7% | +11.1% | Entrada a observar |
-| João Neves | 86 | Ligue 1 McDonald's | 42k coins | +4.4% | +9.9% | Entrada a observar |
+| Ilan Kebbal | 86 | Ligue 1 McDonald's | 48k coins | +12.4% | +66.7% | Esticada |
+| Diego Moreira | 84 | Ligue 1 McDonald's | 50k coins | +8.1% | +44.9% | Momentum moderado |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 25k coins | +4% | +42.5% | Momentum moderado |
+| Amine Gouiri | 84 | Ligue 1 McDonald's | 50k coins | +2% | +41.8% | Momentum moderado |
+| Hamari Traoré | 87 | Ligue 1 McDonald's | 24k coins | +10.6% | +38.2% | Momentum moderado |
+| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 50k coins | +7.6% | +29.2% | Momentum moderado |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 45k coins | +5.9% | +18.4% | Momentum moderado |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 50k coins | +21.2% | +18.3% | Esticada |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 42k coins | +31.6% | +15.9% | Esticada |
+| Nathan Ngoy | 84 | Ligue 1 McDonald's | 48k coins | +25.8% | +11.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Ilan Kebbal (86)** — 48k coins, **+66.7% em 7 dias** (+9.8% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ilan Kebbal (86)** — 48k coins, **+66.7% em 7 dias** (+12.4% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Moreira (84)** — 50k coins, **+37.9% em 7 dias** (+21.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diego Moreira (84)** — 50k coins, **+44.9% em 7 dias** (+8.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santiago Hidalgo (84)** — 41k coins, **+11.5% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Lees-Melou (87)** — 25k coins, **+42.5% em 7 dias** (+4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nathan Ngoy (84)** — 48k coins, **+11.1% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Amine Gouiri (84)** — 50k coins, **+41.8% em 7 dias** (+2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 42k coins, **+9.9% em 7 dias** (+4.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hamari Traoré (87)** — 24k coins, **+38.2% em 7 dias** (+10.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
