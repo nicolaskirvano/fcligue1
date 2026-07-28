@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:34:10.000Z
+pubDatetime: 2026-07-28T01:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 9.725 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 2.300 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 10.136 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 3.200 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,18 +42,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.000 coins | +10% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.700 coins | +11.4% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 11.000 coins | -10.2% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.750 coins | -11.7% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.200 coins | +6.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.300 coins | +2.9% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11.250 coins | +53.3% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.750 coins | -7.3% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.000 coins | 0% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 12.000 coins | -12.5% |
-| Hamari Traoré | 87 | RB | Ligue 1 McDonald's | 13.500 coins | +5.7% |
-| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 14.000 coins | +18.4% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3.900 coins | +15.2% |
-| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 14.250 coins | +3.5% |
-| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.300 coins | 0% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 11.000 coins | -4.3% |
+| Sidney Govou | 87 | RM | Ligue 1 McDonald's | 11.500 coins | +12.5% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.750 coins | +8.7% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 3.900 coins | +24.2% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.250 coins | +5.8% |
+| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 11.750 coins | -11.1% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 13.500 coins | -14.1% |
 
 
 ## 📈 Destaques
@@ -62,18 +62,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.000 coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.200 coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11.250 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Willian Pacho (90, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Vitinha (89, CM) por 3.700 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 3.300 coins é a referência de rating deste recorte.
 
 - **Ataque:** Allan Saint-Maximin (92, RW) por 11.500 coins é a referência de rating deste recorte.
 
