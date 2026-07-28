@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T16:34:08.000Z
+pubDatetime: 2026-07-28T19:34:07.000Z
 title: "Mercado EA FC em 28/07: Ligue 1 — Console (PS)"
 draft: false
 featured: true
