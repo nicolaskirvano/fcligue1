@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lukáš Hrádecký</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Samson Baidoo</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Igor Paixão</text>
-<rect x="285" y="153" width="393" height="28" rx="7" fill="#22c55e"/>
-<text x="688" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerónimo Rulli</text>
-<rect x="285" y="211" width="206" height="28" rx="7" fill="#22c55e"/>
-<text x="501" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marshall Munetsi</text>
-<rect x="285" y="269" width="187" height="28" rx="7" fill="#22c55e"/>
-<text x="482" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
-<rect x="285" y="327" width="147" height="28" rx="7" fill="#22c55e"/>
-<text x="442" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mahdi Camara</text>
-<rect x="285" y="385" width="142" height="28" rx="7" fill="#22c55e"/>
-<text x="437" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lukáš Hrádecký</text>
+<rect x="285" y="153" width="386" height="28" rx="7" fill="#22c55e"/>
+<text x="681" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Blaise Matuidi</text>
+<rect x="285" y="211" width="291" height="28" rx="7" fill="#22c55e"/>
+<text x="586" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nathan Ngoy</text>
+<rect x="285" y="269" width="219" height="28" rx="7" fill="#22c55e"/>
+<text x="514" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pavel Šulc</text>
+<rect x="285" y="327" width="193" height="28" rx="7" fill="#22c55e"/>
+<text x="488" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wesley Saïd</text>
+<rect x="285" y="385" width="159" height="28" rx="7" fill="#22c55e"/>
+<text x="454" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.8%</text>
 </svg>

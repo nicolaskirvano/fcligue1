@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:34:20.000Z
+pubDatetime: 2026-07-29T22:34:19.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.300 coins.
+- **Preço médio das 11 opções:** 9.045 coins.
 - **Posição mais frequente:** CB, com 2 cartas.
-- **Faixa real:** 1.500 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,12 +43,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 5.200 coins | +33.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.800 coins | +25% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12.500 coins | 0% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.900 coins | +27.3% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6.100 coins | +41% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.000 coins | +2.2% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.000 coins | -13.3% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3.000 coins | +57.9% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 10.750 coins | -8.5% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.000 coins | -3.7% |
 | Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 1.500 coins | 0% |
 
 
@@ -60,16 +61,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **5.200 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **5.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **6.100 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Willian Pacho (90, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Vitinha (89, CM) por 5.800 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 5.900 coins é a referência de rating deste recorte.
 
 - **Ataque:** Allan Saint-Maximin (92, RW) por 11.500 coins é a referência de rating deste recorte.
 
