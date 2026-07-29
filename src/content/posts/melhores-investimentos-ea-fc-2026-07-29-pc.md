@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:34:18.000Z
+pubDatetime: 2026-07-29T19:34:18.000Z
 title: "Investimentos EA FC: Ligue 1 em 29/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Valentín Barco (88, Ligue 1 McDonald's) lidera, com +37% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Bradley Barcola (87, Ligue 1 McDonald's) lidera, com +53.4% em 7 dias a 250k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Valentín Barco (88) acumula **+37% em 7 dias** a 25k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Bradley Barcola (87) acumula **+53.4% em 7 dias** a 250k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 29/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-29-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.2% em 24h** e **+15.7% em 7 dias**.
-- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.2% em 24h** e **+20.1% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 25k coins | +14.9% | +37% | Momentum moderado |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 22k coins | +7.2% | +17.1% | Momentum moderado |
-| Aron Dønnum | 87 | Ligue 1 McDonald's | 24k coins | +2.1% | +14.3% | Entrada a observar |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 250k coins | +5.5% | +53.4% | Momentum moderado |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 22k coins | +37.7% | +29.2% | Esticada |
+| João Neves | 86 | Ligue 1 McDonald's | 48k coins | +22.4% | +23.2% | Esticada |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 20k coins | +7.2% | +17.1% | Momentum moderado |
+| Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 50k coins | +1% | +10.5% | Entrada a observar |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 50k coins | +11.1% | +9.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Valentín Barco (88)** — 25k coins, **+37% em 7 dias** (+14.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (87)** — 250k coins, **+53.4% em 7 dias** (+5.5% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mamadou Sangaré (87)** — 22k coins, **+17.1% em 7 dias** (+7.2% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Pavard (88)** — 22k coins, **+29.2% em 7 dias** (+37.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aron Dønnum (87)** — 24k coins, **+14.3% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 48k coins, **+23.2% em 7 dias** (+22.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mahdi Camara (86)** — 50k coins, **+9.9% em 7 dias** (+11.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mamadou Sangaré (87)** — 20k coins, **+17.1% em 7 dias** (+7.2% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Abdelhamid Ait Boudlal (86)** — 50k coins, **+10.5% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +79,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Valentín Barco (88, Ligue 1 McDonald's) lidera, com +37% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Bradley Barcola (87, Ligue 1 McDonald's) lidera, com +53.4% em 7 dias a 250k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
