@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:34:10.000Z
+pubDatetime: 2026-07-30T16:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 11.715 coins.
-- **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 2.300 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 12 opções:** 10.242 coins.
+- **Posição mais frequente:** CB, com 4 cartas.
+- **Faixa real:** 2.200 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,18 +41,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.500 coins | -7.8% |
-| Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 14.000 coins | 0% |
+| Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.500 coins | -6.1% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13.500 coins | +14.9% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14.000 coins | 0% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.700 coins | +9.1% |
+| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14.250 coins | +7% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.750 coins | +10.9% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.250 coins | +4.3% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 12.750 coins | -10.4% |
-| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 13.500 coins | +6.2% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13.750 coins | -1.8% |
-| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 11.000 coins | -9.6% |
-| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.300 coins | +53.3% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 11.250 coins | -11.1% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 12.750 coins | +6.2% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 4.500 coins | +40% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 14.250 coins | 0% |
+| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.200 coins | +50% |
 
 
 ## 📈 Destaques
@@ -61,11 +60,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ousmane Dembélé (91, CAM)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13.500 coins**
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **5.700 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
