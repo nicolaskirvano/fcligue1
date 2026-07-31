@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charlie Cresswell</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emerick Aubameyang</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alidu Seidu</text>
-<rect x="285" y="153" width="399" height="28" rx="7" fill="#22c55e"/>
-<text x="694" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Igor Paixão</text>
-<rect x="285" y="211" width="358" height="28" rx="7" fill="#22c55e"/>
-<text x="653" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arsène Kouassi</text>
+<rect x="285" y="153" width="400" height="28" rx="7" fill="#22c55e"/>
+<text x="695" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sidney Govou</text>
+<rect x="285" y="211" width="395" height="28" rx="7" fill="#22c55e"/>
+<text x="690" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.1%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Moreira</text>
-<rect x="285" y="269" width="356" height="28" rx="7" fill="#22c55e"/>
-<text x="651" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan Ikoné</text>
-<rect x="285" y="327" width="312" height="28" rx="7" fill="#22c55e"/>
-<text x="607" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tyler Morton</text>
-<rect x="285" y="385" width="305" height="28" rx="7" fill="#22c55e"/>
-<text x="600" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.1%</text>
+<rect x="285" y="269" width="389" height="28" rx="7" fill="#22c55e"/>
+<text x="684" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nathan Ngoy</text>
+<rect x="285" y="327" width="380" height="28" rx="7" fill="#22c55e"/>
+<text x="675" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abdelhamid Ait Boudlal</text>
+<rect x="285" y="385" width="363" height="28" rx="7" fill="#22c55e"/>
+<text x="658" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.5%</text>
 </svg>

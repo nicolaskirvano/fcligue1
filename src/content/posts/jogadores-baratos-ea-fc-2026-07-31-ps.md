@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:34:10.000Z
+pubDatetime: 2026-07-31T16:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 11.292 coins.
-- **Posição mais frequente:** RW, com 1 cartas.
-- **Faixa real:** 11.000 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 12.000 coins.
+- **Posição mais frequente:** RM, com 2 cartas.
+- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,8 +44,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 11.000 coins | +4.4% |
+| Félix Correia | 89 | RM | Ligue 1 McDonald's | 14.750 coins | +8.8% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13.000 coins | +9.4% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 11.500 coins | -9.8% |
 
 
 ## 📈 Destaques
@@ -58,7 +60,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Félix Correia (89, RM)** da Ligue 1 McDonald's, a apenas **14.750 coins**
 
 
 ## Como distribuir a banca
