@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:34:19.000Z
+pubDatetime: 2026-08-01T01:34:19.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 10.493 coins.
+- **Preço médio das 7 opções:** 10.686 coins.
 - **Posição mais frequente:** RB, com 2 cartas.
-- **Faixa real:** 4.200 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 4.300 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,8 +43,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.200 coins | +43.8% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12.500 coins | -6.9% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 4.300 coins | +10.3% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.750 coins | +1.7% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.500 coins | -4.2% |
 
@@ -57,9 +57,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **4.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12.500 coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.750 coins**
 
 
 ## Como distribuir a banca
