@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tanguy Ndombele</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dante</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eric Dier</text>
-<rect x="285" y="153" width="435" height="28" rx="7" fill="#22c55e"/>
-<text x="730" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ayyoub Bouaddi</text>
-<rect x="285" y="211" width="370" height="28" rx="7" fill="#22c55e"/>
-<text x="665" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerónimo Rulli</text>
-<rect x="285" y="269" width="307" height="28" rx="7" fill="#22c55e"/>
-<text x="602" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Angel Gomes</text>
-<rect x="285" y="327" width="262" height="28" rx="7" fill="#22c55e"/>
-<text x="557" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tyler Morton</text>
-<rect x="285" y="385" width="160" height="28" rx="7" fill="#22c55e"/>
-<text x="455" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khvicha Kvaratskhelia</text>
+<rect x="285" y="153" width="353" height="28" rx="7" fill="#22c55e"/>
+<text x="648" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Thauvin</text>
+<rect x="285" y="211" width="344" height="28" rx="7" fill="#22c55e"/>
+<text x="639" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abedi Pelé</text>
+<rect x="285" y="269" width="238" height="28" rx="7" fill="#22c55e"/>
+<text x="533" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ayyoub Bouaddi</text>
+<rect x="285" y="327" width="216" height="28" rx="7" fill="#22c55e"/>
+<text x="511" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nuno Mendes</text>
+<rect x="285" y="385" width="203" height="28" rx="7" fill="#22c55e"/>
+<text x="498" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.5%</text>
 </svg>

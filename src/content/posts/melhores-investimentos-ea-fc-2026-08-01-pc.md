@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:34:20.000Z
+pubDatetime: 2026-08-01T13:34:18.000Z
 title: "Investimentos EA FC: Ligue 1 em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Ruben Kluivert (86, Ligue 1 McDonald's) lidera, com +52.6% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Adrien Thomasson (85, Ligue 1 McDonald's) lidera, com +59.3% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ruben Kluivert (86) acumula **+52.6% em 7 dias** a 29k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Adrien Thomasson (85) acumula **+59.3% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.1% em 24h** e **+35.0% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+29.1% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,19 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ruben Kluivert | 86 | Ligue 1 McDonald's | 29k coins | +5.5% | +52.6% | Momentum moderado |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 30k coins | +25% | +42.9% | Esticada |
-| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 34k coins | +22.6% | +27% | Esticada |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 32k coins | +25.2% | +59.3% | Esticada |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +12.5% | +52.5% | Momentum moderado |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 29k coins | +5.5% | +39.8% | Momentum moderado |
+| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 32k coins | +29.1% | +29.1% | Esticada |
 | Denis Zakaria | 85 | Ligue 1 McDonald's | 45k coins | +1.1% | +26.6% | Momentum moderado |
+| Eric Dier | 86 | Ligue 1 McDonald's | 26k coins | +32.5% | +19.6% | Esticada |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 50k coins | +3.1% | +5.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Ruben Kluivert (86)** — 29k coins, **+52.6% em 7 dias** (+5.5% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adrien Thomasson (85)** — 32k coins, **+59.3% em 7 dias** (+25.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Charlie Cresswell (85)** — 30k coins, **+42.9% em 7 dias** (+25% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Valentín Barco (88)** — 22k coins, **+52.5% em 7 dias** (+12.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pierre-Emerick Aubameyang (87)** — 34k coins, **+27% em 7 dias** (+22.6% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ruben Kluivert (86)** — 29k coins, **+39.8% em 7 dias** (+5.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Pierre-Emerick Aubameyang (87)** — 32k coins, **+29.1% em 7 dias** (+29.1% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Denis Zakaria (85)** — 45k coins, **+26.6% em 7 dias** (+1.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -85,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Ruben Kluivert (86, Ligue 1 McDonald's) lidera, com +52.6% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Adrien Thomasson (85, Ligue 1 McDonald's) lidera, com +59.3% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
