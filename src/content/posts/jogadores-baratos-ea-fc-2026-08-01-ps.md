@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:34:10.000Z
+pubDatetime: 2026-08-01T22:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.190 coins.
-- **Posição mais frequente:** CB, com 2 cartas.
-- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 7.956 coins.
+- **Posição mais frequente:** CB, com 3 cartas.
+- **Faixa real:** 2.100 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,12 +44,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.500 coins | +15.2% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13.250 coins | +7.7% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 1.600 coins | -7.7% |
-| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 14.500 coins | +25.5% |
-| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.300 coins | +19% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.500 coins | -8% |
+| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.100 coins | +4.8% |
+| Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 2.300 coins | +33.3% |
 
 
 ## 📈 Destaques
@@ -62,7 +60,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Kenny Lala (87, RB)** da Ligue 1 McDonald's, a apenas **11.000 coins**
 
 
 ## Como distribuir a banca
