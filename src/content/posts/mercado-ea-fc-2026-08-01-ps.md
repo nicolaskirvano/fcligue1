@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:34:08.000Z
+pubDatetime: 2026-08-01T19:34:07.000Z
 title: "Mercado EA FC em 01/08: Ligue 1 — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Guéla Doué (84, Ligue 1 McDonald's), com +54.2% em 24h, a 22k coins no Console (PS)."
+    a: "Jordan Teze (87, Ligue 1 McDonald's), com +60% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Blaise Matuidi (87), -48.6% em 24h, a 70k coins."
+    a: "Sidney Govou (87), -39.1% em 24h, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 29 cartas em alta contra 53 em queda (média -3.97%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 36 cartas em alta contra 33 em queda (média 5.21%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **01/08/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **29 cartas subiram** e **53 caíram** (80+ acima de 5k coins), variação média de **-3.97%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **01/08/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **36 cartas subiram** e **33 caíram** (80+ acima de 5k coins), variação média de **5.21%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Guéla Doué (84) **+54.2%** · 🔴 **Maior baixa:** Blaise Matuidi (87) **-48.6%**
+> 🟢 **Maior alta:** Jordan Teze (87) **+60%** · 🔴 **Maior baixa:** Sidney Govou (87) **-39.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Ligue 1 — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **01/08/2026** no Console (PS) com mercado **pressio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 35.4% entre as cartas que se moveram; o universo observado reúne 105 cartas.
+- **Amplitude do dia:** 99.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.2% entre as cartas que se moveram; o universo observado reúne 99 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Guéla Doué | 84 | Ligue 1 McDonald's | 22k coins | +54.2% | +15.2% |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 40k coins | +42.1% | +9.5% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 36k coins | +41.3% | +104.2% |
-| Lukáš Hrádecký | 85 | Ligue 1 McDonald's | 60k coins | +36.1% | +47.5% |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 939k coins | +34.3% | +69.7% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 34k coins | +27.1% | -2.9% |
-| Matvey Safonov | 88 | Ligue 1 McDonald's | 150k coins | +20% | +15.4% |
-| Abedi Pelé | 90 | Ligue 1 McDonald's | 211k coins | +17.3% | -14.9% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 74k coins | +14.8% | +32.1% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 985k coins | +14.5% | +40.7% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 28k coins | +60% | +51.4% |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 125k coins | +56.2% | +82.5% |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 39k coins | +52.5% | +2% |
+| João Neves | 88 | Ligue 1 McDonald's | 50k coins | +45.7% | +42.9% |
+| Guéla Doué | 84 | Ligue 1 McDonald's | 20k coins | +39% | +5.1% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 799k coins | +27.1% | +85.4% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 74k coins | +25.4% | +41% |
+| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 118k coins | +21.5% | +18.4% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 130k coins | +21.1% | +71.3% |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 66k coins | +20% | +72.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **01/08/2026** no Console (PS) com mercado **pressio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Guéla Doué (84)** subiu **+54.2%** em 24h, a **22k coins** (faixa do dia: 12.250–25k). Está em linha com a média de 7 dias (-6%).
+- **Jordan Teze (87)** subiu **+60%** em 24h, a **28k coins** (faixa do dia: 15.750–33k). Está +60% acima da média de 7 dias (aquecida).
 
-- **Alidu Seidu (89)** subiu **+42.1%** em 24h, a **40k coins** (faixa do dia: 20k–88k). Está em linha com a média de 7 dias (-7%).
+- **Mason Greenwood (84)** subiu **+56.2%** em 24h, a **125k coins** (faixa do dia: 46k–159k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Charlie Cresswell (85)** subiu **+41.3%** em 24h, a **36k coins** (faixa do dia: 16.500–42k). Está +26% acima da média de 7 dias (aquecida).
+- **Alidu Seidu (89)** subiu **+52.5%** em 24h, a **39k coins** (faixa do dia: 20k–88k). Está -8% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 70k coins | -48.6% | -53.7% |
-| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 47k coins | -26.6% | -7.6% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 146k coins | -23.7% | +52.6% |
-| Amine Gouiri | 84 | Ligue 1 McDonald's | 60k coins | -22.7% | -3.4% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 42k coins | -21% | -1.2% |
-| David Ginola | 89 | Ligue 1 McDonald's | 190k coins | -18.6% | -10.2% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 145k coins | -18.4% | +60% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 42k coins | -15.8% | +18.1% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 42k coins | -15.8% | +28.8% |
-| Ilan Kebbal | 86 | Ligue 1 McDonald's | 45k coins | -15.6% | +70.5% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 22k coins | -39.1% | +19.5% |
+| Endrick | 86 | Ligue 1 McDonald's | 53k coins | -33.9% | -5.8% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 36k coins | -32.9% | +186.5% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 141k coins | -32.9% | -3.4% |
+| Eric Dier | 86 | Ligue 1 McDonald's | 22k coins | -28.8% | -33.3% |
+| Hamari Traoré | 87 | Ligue 1 McDonald's | 34k coins | -26.8% | +13.2% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 22k coins | -22.1% | -18.9% |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 52k coins | -20% | -13.3% |
+| Vitinha | 90 | Ligue 1 McDonald's | 148k coins | -20% | +36% |
+| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 48k coins | -18.3% | +6.5% |
 
 
 ### Análise das baixas
 
-- **Blaise Matuidi (87)** caiu **-48.6%** em 24h, a **70k coins** (faixa do dia: 70k–150k). Está -61% abaixo da média de 7 dias (descontada).
+- **Sidney Govou (87)** caiu **-39.1%** em 24h, a **22k coins** (faixa do dia: 21k–40k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Hamed Junior Traoré (84)** caiu **-26.6%** em 24h, a **47k coins** (faixa do dia: 39k–56k). Está -9% abaixo da média de 7 dias (descontada).
+- **Endrick (86)** caiu **-33.9%** em 24h, a **53k coins** (faixa do dia: 45k–90k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Désiré Doué (87)** caiu **-23.7%** em 24h, a **146k coins** (faixa do dia: 94k–194k). Está em linha com a média de 7 dias (-7%).
+- **Timothy Weah (85)** caiu **-32.9%** em 24h, a **36k coins** (faixa do dia: 19.750–54k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Guéla Doué já avançou 54.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jordan Teze já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Blaise Matuidi recuou -48.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Sidney Govou recuou -39.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Guéla Doué (84, Ligue 1 McDonald's), com +54.2% em 24h, a 22k coins no Console (PS).
+Jordan Teze (87, Ligue 1 McDonald's), com +60% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**
-Blaise Matuidi (87), -48.6% em 24h, a 70k coins.
+Sidney Govou (87), -39.1% em 24h, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 29 cartas em alta contra 53 em queda (média -3.97%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 36 cartas em alta contra 33 em queda (média 5.21%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
