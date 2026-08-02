@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:34:16.000Z
+pubDatetime: 2026-08-02T01:34:17.000Z
 title: "Mercado EA FC em 01/08: Ligue 1 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Florian Thauvin (87, Ligue 1 McDonald's), com +45.5% em 24h, a 74k coins no PC."
+    a: "Bradley Barcola (90, Ligue 1 McDonald's), com +46.3% em 24h, a 98k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Vitinha (90), -42.9% em 24h, a 78k coins."
+    a: "Gerónimo Rulli (87), -49.4% em 24h, a 20k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 30 cartas em alta contra 35 em queda (média 4.47%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 34 cartas em alta contra 41 em queda (média 5.88%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **01/08/2026** no PC com mercado **aquecido** — as altas dominam o dia: **30 cartas subiram** e **35 caíram** (80+ acima de 5k coins), variação média de **4.47%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **01/08/2026** no PC com mercado **aquecido** — as altas dominam o dia: **34 cartas subiram** e **41 caíram** (80+ acima de 5k coins), variação média de **5.88%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Florian Thauvin (87) **+45.5%** · 🔴 **Maior baixa:** Vitinha (90) **-42.9%**
+> 🟢 **Maior alta:** Bradley Barcola (90) **+46.3%** · 🔴 **Maior baixa:** Gerónimo Rulli (87) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Ligue 1 — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **aquecido** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 88.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.2% entre as cartas que se moveram; o universo observado reúne 109 cartas.
+- **Amplitude do dia:** 95.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.3% entre as cartas que se moveram; o universo observado reúne 116 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 74k coins | +45.5% | +34.9% |
-| David Ginola | 89 | Ligue 1 McDonald's | 260k coins | +42.5% | +14.9% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 62k coins | +31% | +59.8% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 56k coins | +24.3% | -1.2% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 98k coins | +46.3% | +145% |
+| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 309k coins | +40% | +20.8% |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 22k coins | +32.4% | +104.5% |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 74k coins | +28.7% | +19.3% |
+| Ilan Kebbal | 86 | Ligue 1 McDonald's | 48k coins | +28.4% | 0% |
 | Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +20.3% | +5.6% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +20% | -21.1% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 31k coins | +18.5% | -16.3% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 21k coins | +13.3% | +19.7% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 41k coins | +9.8% | +127% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 35k coins | +9.5% | +54.6% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 36k coins | +18.2% | +33.6% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 30k coins | +10.2% | -21.7% |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 60k coins | +10.1% | +26.3% |
+| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 47k coins | +9.2% | +18.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **aquecido** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Florian Thauvin (87)** subiu **+45.5%** em 24h, a **74k coins** (faixa do dia: 50k–75k). Está +33% acima da média de 7 dias (aquecida).
+- **Bradley Barcola (90)** subiu **+46.3%** em 24h, a **98k coins** (faixa do dia: 62k–110k). Está +29% acima da média de 7 dias (aquecida).
 
-- **David Ginola (89)** subiu **+42.5%** em 24h, a **260k coins** (faixa do dia: 135k–320k). Está -14% abaixo da média de 7 dias (descontada).
+- **Warren Zaïre-Emery (93)** subiu **+40%** em 24h, a **309k coins** (faixa do dia: 220k–330k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Bradley Barcola (90)** subiu **+31%** em 24h, a **62k coins** (faixa do dia: 50k–110k). Está -17% abaixo da média de 7 dias (descontada).
+- **Benjamin Pavard (88)** subiu **+32.4%** em 24h, a **22k coins** (faixa do dia: 14.500–22k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 90 | Ligue 1 McDonald's | 78k coins | -42.9% | +2.6% |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 76k coins | -41.5% | -33.8% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 48k coins | -40.7% | +6.7% |
-| Guéla Doué | 84 | Ligue 1 McDonald's | 22k coins | -38.6% | -5.5% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 120k coins | -38.5% | -37.8% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 271k coins | -38.4% | -42.3% |
-| Vitinha | 91 | Ligue 1 McDonald's | 468k coins | -37.5% | -31.2% |
-| Félix Correia | 89 | Ligue 1 McDonald's | 21k coins | -35% | -13.6% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 75k coins | -31.8% | -23.1% |
-| Pierre-Emerick Aubameyang | 89 | Ligue 1 McDonald's | 22k coins | -28.6% | -66.9% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 20k coins | -49.4% | -43.4% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 271k coins | -38.4% | -39.8% |
+| David Ginola | 89 | Ligue 1 McDonald's | 231k coins | -33.3% | -19.4% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 48k coins | -31.1% | -5.4% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 26k coins | -28.2% | -14.3% |
+| Vitinha | 90 | Ligue 1 McDonald's | 80k coins | -26% | +18.6% |
+| João Neves | 88 | Ligue 1 McDonald's | 28k coins | -23.6% | -16.7% |
+| Hamari Traoré | 87 | Ligue 1 McDonald's | 22k coins | -20.9% | +2.4% |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 110k coins | -15.4% | -10.6% |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 38k coins | -13% | -47.3% |
 
 
 ### Análise das baixas
 
-- **Vitinha (90)** caiu **-42.9%** em 24h, a **78k coins** (faixa do dia: 66k–159k). Está -50% abaixo da média de 7 dias (descontada).
+- **Gerónimo Rulli (87)** caiu **-49.4%** em 24h, a **20k coins** (faixa do dia: 19.250–35k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Olivier Giroud (88)** caiu **-41.5%** em 24h, a **76k coins** (faixa do dia: 76k–116k). Está -31% abaixo da média de 7 dias (descontada).
+- **Ousmane Dembélé (91)** caiu **-38.4%** em 24h, a **271k coins** (faixa do dia: 271k–469k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Olivier Giroud (89)** caiu **-40.7%** em 24h, a **48k coins** (faixa do dia: 44k–85k). Está em linha com a média de 7 dias (-7%).
+- **David Ginola (89)** caiu **-33.3%** em 24h, a **231k coins** (faixa do dia: 135k–320k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Florian Thauvin já avançou 45.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Bradley Barcola já avançou 46.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vitinha recuou -42.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gerónimo Rulli recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Florian Thauvin (87, Ligue 1 McDonald's), com +45.5% em 24h, a 74k coins no PC.
+Bradley Barcola (90, Ligue 1 McDonald's), com +46.3% em 24h, a 98k coins no PC.
 
 **E a maior queda do dia?**
-Vitinha (90), -42.9% em 24h, a 78k coins.
+Gerónimo Rulli (87), -49.4% em 24h, a 20k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 30 cartas em alta contra 35 em queda (média 4.47%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 34 cartas em alta contra 41 em queda (média 5.88%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

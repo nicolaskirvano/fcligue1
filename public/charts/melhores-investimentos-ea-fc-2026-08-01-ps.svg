@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hamari Traoré</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ilan Kebbal</text>
-<rect x="285" y="153" width="421" height="28" rx="7" fill="#22c55e"/>
-<text x="716" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Denis Zakaria</text>
-<rect x="285" y="211" width="363" height="28" rx="7" fill="#22c55e"/>
-<text x="658" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Teze</text>
-<rect x="285" y="269" width="279" height="28" rx="7" fill="#22c55e"/>
-<text x="574" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.9%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marquinhos</text>
+<rect x="285" y="153" width="295" height="28" rx="7" fill="#22c55e"/>
+<text x="590" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
+<rect x="285" y="211" width="273" height="28" rx="7" fill="#22c55e"/>
+<text x="568" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wesley Saïd</text>
+<rect x="285" y="269" width="271" height="28" rx="7" fill="#22c55e"/>
+<text x="566" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
-<rect x="285" y="327" width="218" height="28" rx="7" fill="#22c55e"/>
-<text x="513" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Blaise Matuidi</text>
-<rect x="285" y="385" width="217" height="28" rx="7" fill="#22c55e"/>
-<text x="512" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.2%</text>
+<rect x="285" y="327" width="271" height="28" rx="7" fill="#22c55e"/>
+<text x="566" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ismaëlo Ganiou</text>
+<rect x="285" y="385" width="246" height="28" rx="7" fill="#22c55e"/>
+<text x="541" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.9%</text>
 </svg>

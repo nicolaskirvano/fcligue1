@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:34:10.000Z
+pubDatetime: 2026-08-02T01:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 7.956 coins.
+- **Preço médio das 12 opções:** 8.792 coins.
 - **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 2.100 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,12 +42,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 12.000 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.600 coins | -13.5% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 2.500 coins | -8% |
-| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.100 coins | +4.8% |
-| Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 2.300 coins | +33.3% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.500 coins | +10.2% |
+| Willian Pacho | 86 | CB | Ligue 1 McDonald's | 1.600 coins | -9.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.250 coins | -2.2% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 14.000 coins | +19.1% |
+| Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 2.100 coins | +22.2% |
+| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.200 coins | -4.8% |
 
 
 ## 📈 Destaques
@@ -56,18 +60,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ousmane Dembélé (91, CAM)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ousmane Dembélé (91, CAM)** da Ligue 1 McDonald's, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins**
 
-- **Kenny Lala (87, RB)** da Ligue 1 McDonald's, a apenas **11.000 coins**
+- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.600 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Willian Pacho (90, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Ousmane Dembélé (91, CAM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Ousmane Dembélé (91, CAM) por 12.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Allan Saint-Maximin (92, RW) por 11.500 coins é a referência de rating deste recorte.
 
