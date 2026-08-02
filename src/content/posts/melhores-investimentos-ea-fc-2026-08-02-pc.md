@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:34:18.000Z
+pubDatetime: 2026-08-02T13:34:18.000Z
 title: "Investimentos EA FC: Ligue 1 em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Sidney Govou (87, Ligue 1 McDonald's) lidera, com +56.2% em 7 dias a 38k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "João Neves (88, Ligue 1 McDonald's) lidera, com +87.7% em 7 dias a 118k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sidney Govou (87) acumula **+56.2% em 7 dias** a 38k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** João Neves (88) acumula **+87.7% em 7 dias** a 118k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.8% em 24h** e **+13.2% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.7% em 24h** e **+30.8% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +56.2% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 118k coins | +3.4% | +87.7% | Esticada |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +72.4% | Esticada |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 65k coins | +6.6% | +57.3% | Momentum moderado |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 106k coins | +8.2% | +54.7% | Momentum moderado |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 104k coins | +26.8% | +30.8% | Esticada |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 17.000 coins | +17.2% | +30.8% | Momentum moderado |
 | Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +30.3% | +26.9% | Esticada |
-| João Neves | 86 | Ligue 1 McDonald's | 45k coins | +7.1% | +13.2% | Momentum moderado |
-| Igor Paixão | 87 | Ligue 1 McDonald's | 79k coins | +6.8% | +6% | Momentum moderado |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 50k coins | +19.8% | +5.3% | Momentum moderado |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 48k coins | +3.6% | +19.3% | Entrada a observar |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 79k coins | +9.7% | +6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Sidney Govou (87)** — 38k coins, **+56.2% em 7 dias** (+24% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 118k coins, **+87.7% em 7 dias** (+3.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santiago Hidalgo (84)** — 50k coins, **+26.9% em 7 dias** (+30.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sidney Govou (87)** — 38k coins, **+72.4% em 7 dias** (+24% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 45k coins, **+13.2% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roman Yaremchuk (89)** — 65k coins, **+57.3% em 7 dias** (+6.6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Igor Paixão (87)** — 79k coins, **+6% em 7 dias** (+6.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (90)** — 106k coins, **+54.7% em 7 dias** (+8.2% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ismaëlo Ganiou (84)** — 50k coins, **+5.3% em 7 dias** (+19.8% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 104k coins, **+30.8% em 7 dias** (+26.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +82,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Sidney Govou (87, Ligue 1 McDonald's) lidera, com +56.2% em 7 dias a 38k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+João Neves (88, Ligue 1 McDonald's) lidera, com +87.7% em 7 dias a 118k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

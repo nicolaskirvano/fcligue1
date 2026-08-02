@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Teze</text>
-<rect x="285" y="153" width="374" height="28" rx="7" fill="#22c55e"/>
-<text x="669" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willian Pacho</text>
+<rect x="285" y="153" width="316" height="28" rx="7" fill="#22c55e"/>
+<text x="611" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alidu Seidu</text>
-<rect x="285" y="211" width="331" height="28" rx="7" fill="#22c55e"/>
-<text x="626" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lukáš Hrádecký</text>
-<rect x="285" y="269" width="273" height="28" rx="7" fill="#22c55e"/>
-<text x="568" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
-<rect x="285" y="327" width="264" height="28" rx="7" fill="#22c55e"/>
-<text x="559" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
-<rect x="285" y="385" width="201" height="28" rx="7" fill="#22c55e"/>
-<text x="496" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.7%</text>
+<rect x="285" y="211" width="258" height="28" rx="7" fill="#22c55e"/>
+<text x="553" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<rect x="285" y="269" width="201" height="28" rx="7" fill="#22c55e"/>
+<text x="496" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Désiré Doué</text>
+<rect x="285" y="327" width="196" height="28" rx="7" fill="#22c55e"/>
+<text x="491" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre-Emile Højbjerg</text>
+<rect x="285" y="385" width="180" height="28" rx="7" fill="#22c55e"/>
+<text x="475" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.5%</text>
 </svg>

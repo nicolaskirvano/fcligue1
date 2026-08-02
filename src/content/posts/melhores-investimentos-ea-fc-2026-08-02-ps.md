@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:34:09.000Z
+pubDatetime: 2026-08-02T13:34:09.000Z
 title: "Investimentos EA FC: Ligue 1 em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Vitinha (90, Ligue 1 McDonald's) lidera, com +78.1% em 7 dias a 176k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Vitinha (90, Ligue 1 McDonald's) lidera, com +76% em 7 dias a 173k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Vitinha (90) acumula **+78.1% em 7 dias** a 176k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Vitinha (90) acumula **+76% em 7 dias** a 173k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.0% em 24h** e **+28.5% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.2% em 24h** e **+26.6% em 7 dias**.
+- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 14 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Vitinha | 90 | Ligue 1 McDonald's | 176k coins | +33.6% | +78.1% | Esticada |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 20k coins | +28.1% | +60.8% | Esticada |
-| Alidu Seidu | 89 | Ligue 1 McDonald's | 50k coins | +11.1% | +53.8% | Momentum moderado |
-| Lukáš Hrádecký | 85 | Ligue 1 McDonald's | 62k coins | +4.2% | +44.5% | Momentum moderado |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 60k coins | +20% | +42.9% | Esticada |
-| João Neves | 86 | Ligue 1 McDonald's | 45k coins | +10.6% | +32.7% | Momentum moderado |
-| Diego Moreira | 84 | Ligue 1 McDonald's | 53k coins | +20% | +31.7% | Esticada |
-| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 230k coins | +26.4% | +28.5% | Esticada |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 184k coins | +9% | +26.8% | Momentum moderado |
-| Ludovic Blas | 86 | Ligue 1 McDonald's | 18.250 coins | +32.7% | +25.9% | Esticada |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 186k coins | +24% | +24% | Esticada |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 121k coins | +23.4% | +22.2% | Esticada |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 88k coins | +18.7% | +17.1% | Momentum moderado |
-| Nathan Ngoy | 84 | Ligue 1 McDonald's | 52k coins | +9.5% | +10.1% | Momentum moderado |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 235k coins | +13.5% | +7.3% | Momentum moderado |
+| Vitinha | 90 | Ligue 1 McDonald's | 173k coins | +27.5% | +76% | Esticada |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 23k coins | +17.4% | +50% | Momentum moderado |
+| Alidu Seidu | 89 | Ligue 1 McDonald's | 50k coins | +17% | +40.8% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 49k coins | +10.6% | +31.8% | Momentum moderado |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 172k coins | +22.1% | +31.1% | Esticada |
+| Pierre-Emile Højbjerg | 85 | Ligue 1 McDonald's | 230k coins | +20.4% | +28.5% | Esticada |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 44k coins | +2% | +27.1% | Momentum moderado |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 54k coins | +14% | +26% | Momentum moderado |
+| Diego Moreira | 84 | Ligue 1 McDonald's | 42k coins | +12.2% | +23.2% | Momentum moderado |
+| Julio César Enciso | 84 | Ligue 1 McDonald's | 50k coins | +8.6% | +18.9% | Momentum moderado |
+| Nathan Ngoy | 84 | Ligue 1 McDonald's | 55k coins | +22.2% | +17.6% | Esticada |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 44k coins | +7.1% | +14.6% | Momentum moderado |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 48k coins | +8.3% | +14% | Momentum moderado |
+| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 50k coins | +16.3% | +13.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Vitinha (90)** — 176k coins, **+78.1% em 7 dias** (+33.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vitinha (90)** — 173k coins, **+76% em 7 dias** (+27.5% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jordan Teze (87)** — 20k coins, **+60.8% em 7 dias** (+28.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Willian Pacho (90)** — 23k coins, **+50% em 7 dias** (+17.4% em 24h). Preço -29% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alidu Seidu (89)** — 50k coins, **+53.8% em 7 dias** (+11.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alidu Seidu (89)** — 50k coins, **+40.8% em 7 dias** (+17% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lukáš Hrádecký (85)** — 62k coins, **+44.5% em 7 dias** (+4.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 49k coins, **+31.8% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Benjamin Pavard (86)** — 60k coins, **+42.9% em 7 dias** (+20% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Désiré Doué (87)** — 172k coins, **+31.1% em 7 dias** (+22.1% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +87,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Vitinha (90, Ligue 1 McDonald's) lidera, com +78.1% em 7 dias a 176k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Vitinha (90, Ligue 1 McDonald's) lidera, com +76% em 7 dias a 173k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
