@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:28:39.000Z
+pubDatetime: 2026-08-02T10:34:18.000Z
 title: "Investimentos EA FC: Ligue 1 em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.9% em 24h** e **+20.0% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.8% em 24h** e **+13.2% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -46,16 +46,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +56.2% | Esticada |
 | Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +30.3% | +26.9% | Esticada |
 | João Neves | 86 | Ligue 1 McDonald's | 45k coins | +7.1% | +13.2% | Momentum moderado |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 79k coins | +6.8% | +6% | Momentum moderado |
 | Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 50k coins | +19.8% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Sidney Govou (87)** — 38k coins, **+56.2% em 7 dias** (+24% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sidney Govou (87)** — 38k coins, **+56.2% em 7 dias** (+24% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Santiago Hidalgo (84)** — 50k coins, **+26.9% em 7 dias** (+30.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **João Neves (86)** — 45k coins, **+13.2% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Igor Paixão (87)** — 79k coins, **+6% em 7 dias** (+6.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Ismaëlo Ganiou (84)** — 50k coins, **+5.3% em 7 dias** (+19.8% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:28:30.000Z
+pubDatetime: 2026-08-02T10:34:11.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 7.904 coins.
+- **Preço médio das 13 opções:** 7.896 coins.
 - **Posição mais frequente:** CB, com 3 cartas.
 - **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
@@ -51,7 +51,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.250 coins | -2.2% |
 | Désiré Doué | 85 | RW | Ligue 1 McDonald's | 1.800 coins | +11.8% |
 | Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 13.000 coins | -11.9% |
-| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 1.800 coins | 0% |
+| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 1.700 coins | 0% |
 | Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 1.900 coins | +25% |
 
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:28:40.000Z
+pubDatetime: 2026-08-02T10:34:20.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 9.446 coins.
+- **Preço médio das 11 opções:** 9.318 coins.
 - **Posição mais frequente:** RW, com 2 cartas.
-- **Faixa real:** 2.400 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.300 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -50,8 +50,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Bradley Barcola | 87 | LW | Ligue 1 McDonald's | 13.500 coins | 0% |
 | Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 3.100 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.250 coins | -2.2% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2.400 coins | -7.7% |
-| Florian Sotoca | 85 | CAM | Ligue 1 McDonald's | 10.750 coins | +4.2% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2.300 coins | -7.7% |
 
 
 ## 📈 Destaques
