@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:34:18.000Z
+pubDatetime: 2026-08-02T22:34:18.000Z
 title: "Investimentos EA FC: Ligue 1 em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Roman Yaremchuk (89, Ligue 1 McDonald's) lidera, com +57.3% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Roman Yaremchuk (89, Ligue 1 McDonald's) lidera, com +52.4% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Roman Yaremchuk (89) acumula **+57.3% em 7 dias** a 64k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Roman Yaremchuk (89) acumula **+52.4% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Ligue 1 em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+23.6% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.9% em 24h** e **+11.4% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 64k coins | +27.7% | +57.3% | Esticada |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 78k coins | +30% | +38.1% | Esticada |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +2.3% | +36.9% | Momentum moderado |
-| Sidney Govou | 86 | Ligue 1 McDonald's | 17.000 coins | +33.3% | +33.3% | Esticada |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 78k coins | +5.1% | +13.9% | Momentum moderado |
-| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 47k coins | +1.6% | +12.9% | Entrada a observar |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 82k coins | +17.5% | +8.4% | Momentum moderado |
-| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 48k coins | +11.1% | +6.1% | Momentum moderado |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 60k coins | +21.4% | +52.4% | Esticada |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 22k coins | +20.3% | +18.7% | Esticada |
+| Pierre-Emerick Aubameyang | 86 | Ligue 1 McDonald's | 49k coins | +5.9% | +13.3% | Momentum moderado |
+| Matvey Safonov | 88 | Ligue 1 McDonald's | 215k coins | +13.6% | +9.5% | Momentum moderado |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 130k coins | +18.2% | +8.3% | Momentum moderado |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 45k coins | +1.1% | +5.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Roman Yaremchuk (89)** — 64k coins, **+57.3% em 7 dias** (+27.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roman Yaremchuk (89)** — 60k coins, **+52.4% em 7 dias** (+21.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matias Fernandez-Pardo (87)** — 78k coins, **+38.1% em 7 dias** (+30% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mamadou Sangaré (87)** — 22k coins, **+18.7% em 7 dias** (+20.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Valentín Barco (88)** — 22k coins, **+36.9% em 7 dias** (+2.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre-Emerick Aubameyang (86)** — 49k coins, **+13.3% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sidney Govou (86)** — 17.000 coins, **+33.3% em 7 dias** (+33.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matvey Safonov (88)** — 215k coins, **+9.5% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Blaise Matuidi (86)** — 78k coins, **+13.9% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mason Greenwood (84)** — 130k coins, **+8.3% em 7 dias** (+18.2% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Roman Yaremchuk (89, Ligue 1 McDonald's) lidera, com +57.3% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Roman Yaremchuk (89, Ligue 1 McDonald's) lidera, com +52.4% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
