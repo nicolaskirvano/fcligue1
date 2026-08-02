@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sidney Govou</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sidney Govou</text>
-<rect x="285" y="153" width="396" height="28" rx="7" fill="#22c55e"/>
-<text x="691" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roman Yaremchuk</text>
-<rect x="285" y="211" width="314" height="28" rx="7" fill="#22c55e"/>
-<text x="609" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bradley Barcola</text>
-<rect x="285" y="269" width="299" height="28" rx="7" fill="#22c55e"/>
-<text x="594" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roman Yaremchuk</text>
+<rect x="285" y="153" width="359" height="28" rx="7" fill="#22c55e"/>
+<text x="654" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Valentín Barco</text>
+<rect x="285" y="211" width="282" height="28" rx="7" fill="#22c55e"/>
+<text x="577" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matias Fernandez-Pardo</text>
+<rect x="285" y="269" width="234" height="28" rx="7" fill="#22c55e"/>
+<text x="529" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.1%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Blaise Matuidi</text>
-<rect x="285" y="327" width="169" height="28" rx="7" fill="#22c55e"/>
-<text x="464" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
+<rect x="285" y="327" width="223" height="28" rx="7" fill="#22c55e"/>
+<text x="518" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bradley Barcola</text>
 <rect x="285" y="385" width="169" height="28" rx="7" fill="#22c55e"/>
-<text x="464" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.8%</text>
+<text x="464" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.5%</text>
 </svg>
