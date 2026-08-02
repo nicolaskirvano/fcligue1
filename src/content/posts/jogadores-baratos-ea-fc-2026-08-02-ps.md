@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:34:10.000Z
+pubDatetime: 2026-08-02T19:34:10.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.090 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 2.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 9.720 coins.
+- **Posição mais frequente:** RW, com 2 cartas.
+- **Faixa real:** 1.500 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.600 coins | -12.5% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | +8.5% |
-| Valentín Barco | 88 | CM | Ligue 1 McDonald's | 13.500 coins | -6.2% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.500 coins | -3.7% |
-| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 14.000 coins | -11.5% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Eric Dier | 86 | CB | Ligue 1 McDonald's | 12.000 coins | -1.9% |
-| Ayyoub Bouaddi | 86 | CM | Ligue 1 McDonald's | 14.000 coins | -4.5% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2.000 coins | +17.6% |
-| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 12.750 coins | -5.1% |
+| Pierre-Emerick Aubameyang | 87 | ST | Ligue 1 McDonald's | 13.500 coins | -11.5% |
+| Nuno Mendes | 86 | LB | Ligue 1 McDonald's | 1.700 coins | -6.2% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 10.750 coins | -4.4% |
+| Eric Dier | 86 | CB | Ligue 1 McDonald's | 13.000 coins | -6.9% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 1.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -67,7 +62,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Willian Pacho (90, CB)** da Ligue 1 McDonald's, a apenas **11.250 coins**
 
-- **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Kenny Lala (87, RB)** da Ligue 1 McDonald's, a apenas **11.000 coins**
 
 
 ## Como distribuir a banca
