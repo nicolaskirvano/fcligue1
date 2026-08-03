@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:34:18.000Z
+pubDatetime: 2026-08-03T19:34:20.000Z
 title: "Investimentos EA FC: Ligue 1 em 03/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.2% em 24h** e **+9.1% em 7 dias**.
-- **3 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.4% em 24h** e **+13.9% em 7 dias**.
+- **5 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 14 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 68k coins | +5.4% | +74.5% | Esticada |
-| Mason Greenwood | 84 | Ligue 1 McDonald's | 130k coins | +15% | +36.8% | Momentum moderado |
-| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 40k coins | +9.2% | +19.4% | Momentum moderado |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 31k coins | +14.3% | +15.3% | Momentum moderado |
-| João Neves | 86 | Ligue 1 McDonald's | 50k coins | +35% | +14.9% | Esticada |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 162k coins | +5.9% | +9.1% | Momentum moderado |
-| Diego Moreira | 84 | Ligue 1 McDonald's | 49k coins | +8.9% | +8.9% | Momentum moderado |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 30k coins | +22.7% | +8.2% | Esticada |
+| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 68k coins | +6.2% | +74.5% | Esticada |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 89k coins | +8.5% | +45.9% | Momentum moderado |
+| Mason Greenwood | 84 | Ligue 1 McDonald's | 130k coins | +9.2% | +44.4% | Momentum moderado |
+| João Neves | 88 | Ligue 1 McDonald's | 110k coins | +39.2% | +37.5% | Esticada |
+| Diego Moreira | 84 | Ligue 1 McDonald's | 48k coins | +8.9% | +21% | Momentum moderado |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 39k coins | +5.1% | +18% | Momentum moderado |
+| Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 48k coins | +13.1% | +15.2% | Momentum moderado |
+| Vitinha | 90 | Ligue 1 McDonald's | 121k coins | +9.6% | +12.6% | Momentum moderado |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 32k coins | +32% | +11.9% | Esticada |
+| Tyler Morton | 88 | Ligue 1 McDonald's | 30k coins | +40% | +8.2% | Esticada |
 | Afonso Moreira | 84 | Ligue 1 McDonald's | 45k coins | +15.4% | +7.1% | Momentum moderado |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +2.9% | +5.9% | Entrada a observar |
-| Marshall Munetsi | 84 | Ligue 1 McDonald's | 45k coins | +1.1% | +5.3% | Entrada a observar |
+| João Neves | 86 | Ligue 1 McDonald's | 160k coins | +37.9% | +6% | Esticada |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +5.3% | +5.9% | Momentum moderado |
+| João Neves | 86 | Ligue 1 McDonald's | 43k coins | +7.8% | +5.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Roman Yaremchuk (89)** — 68k coins, **+74.5% em 7 dias** (+5.4% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roman Yaremchuk (89)** — 68k coins, **+74.5% em 7 dias** (+6.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mason Greenwood (84)** — 130k coins, **+36.8% em 7 dias** (+15% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 89k coins, **+45.9% em 7 dias** (+8.5% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nabil Bentaleb (86)** — 40k coins, **+19.4% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mason Greenwood (84)** — 130k coins, **+44.4% em 7 dias** (+9.2% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (85)** — 31k coins, **+15.3% em 7 dias** (+14.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (88)** — 110k coins, **+37.5% em 7 dias** (+39.2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (86)** — 50k coins, **+14.9% em 7 dias** (+35% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diego Moreira (84)** — 48k coins, **+21% em 7 dias** (+8.9% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
