@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:29:26.000Z
+pubDatetime: 2026-08-03T10:34:09.000Z
 title: "Investimentos EA FC: Ligue 1 em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.9% em 24h** e **+20.0% em 7 dias**.
+- A mediana é de **+6.9% em 24h** e **+19.3% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | João Neves | 88 | Ligue 1 McDonald's | 50k coins | +6.9% | +87% | Esticada |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 113k coins | +31.4% | +65% | Esticada |
-| Denis Zakaria | 85 | Ligue 1 McDonald's | 34k coins | +8.9% | +58.4% | Momentum moderado |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 113k coins | +31.4% | +62.6% | Esticada |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 26k coins | +6.2% | +54.5% | Momentum moderado |
 | Nathan Ngoy | 84 | Ligue 1 McDonald's | 54k coins | +1.9% | +25.1% | Momentum moderado |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 66k coins | +12% | +24.4% | Momentum moderado |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 62k coins | +12% | +24.4% | Momentum moderado |
 | Lilian Raolisoa | 84 | Ligue 1 McDonald's | 50k coins | +4.7% | +24.4% | Entrada a observar |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 245k coins | +7% | +20.7% | Momentum moderado |
 | Amine Gouiri | 84 | Ligue 1 McDonald's | 60k coins | +1.7% | +20% | Entrada a observar |
 | Matvey Safonov | 88 | Ligue 1 McDonald's | 165k coins | +22% | +19.3% | Esticada |
 | Igor Paixão | 87 | Ligue 1 McDonald's | 60k coins | +6.1% | +17.5% | Momentum moderado |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 45k coins | +18.4% | +14.6% | Momentum moderado |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 59k coins | +15% | +13.9% | Momentum moderado |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 59k coins | +15% | +15% | Momentum moderado |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 45k coins | +17.8% | +14% | Momentum moderado |
 | Pavel Šulc | 86 | Ligue 1 McDonald's | 58k coins | +25.8% | +12% | Esticada |
 | Julio César Enciso | 84 | Ligue 1 McDonald's | 55k coins | +21.5% | +11.1% | Esticada |
 | Marshall Munetsi | 84 | Ligue 1 McDonald's | 48k coins | +1.1% | +8% | Entrada a observar |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 48k coins | +4.4% | +5.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
 - **João Neves (88)** — 50k coins, **+87% em 7 dias** (+6.9% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Désiré Doué (87)** — 113k coins, **+65% em 7 dias** (+31.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Désiré Doué (87)** — 113k coins, **+62.6% em 7 dias** (+31.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denis Zakaria (85)** — 34k coins, **+58.4% em 7 dias** (+8.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denis Zakaria (85)** — 26k coins, **+54.5% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Nathan Ngoy (84)** — 54k coins, **+25.1% em 7 dias** (+1.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bradley Barcola (90)** — 66k coins, **+24.4% em 7 dias** (+12% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (90)** — 62k coins, **+24.4% em 7 dias** (+12% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

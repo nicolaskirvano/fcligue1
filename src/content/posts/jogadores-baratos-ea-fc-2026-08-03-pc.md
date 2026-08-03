@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:29:37.000Z
+pubDatetime: 2026-08-03T10:34:19.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 9.321 coins.
+- **Preço médio das 12 opções:** 9.521 coins.
 - **Posição mais frequente:** RM, com 3 cartas.
-- **Faixa real:** 1.500 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.800 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,13 +44,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3.300 coins | +10.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.900 coins | +21.2% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11.000 coins | 0% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
 | Bradley Barcola | 87 | LW | Ligue 1 McDonald's | 13.500 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 12.000 coins | -5.5% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 1.500 coins | +50% |
 | Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2.800 coins | +16.7% |
 
 
@@ -64,14 +64,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Achraf Hakimi (89, RB)** da Ligue 1 McDonald's, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11.250 coins**
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.900 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Willian Pacho (90, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Ludovic Giuly (87, RM) por 11.000 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 3.900 coins é a referência de rating deste recorte.
 
 - **Ataque:** Allan Saint-Maximin (92, RW) por 11.500 coins é a referência de rating deste recorte.
 

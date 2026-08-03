@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:29:36.000Z
+pubDatetime: 2026-08-03T10:34:18.000Z
 title: "Investimentos EA FC: Ligue 1 em 03/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.7% em 24h** e **+12.4% em 7 dias**.
-- **5 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.7% em 24h** e **+14.9% em 7 dias**.
+- **6 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,13 +45,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Ruben Kluivert | 86 | Ligue 1 McDonald's | 30k coins | +2.6% | +85.9% | Esticada |
 | Tanguy Ndombele | 85 | Ligue 1 McDonald's | 29k coins | +8.3% | +82.8% | Esticada |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 44k coins | +35.7% | +56.2% | Esticada |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 92k coins | +22.9% | +56.7% | Esticada |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 43k coins | +35.7% | +56.2% | Esticada |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 54k coins | +5.8% | +16% | Momentum moderado |
 | Hamed Junior Traoré | 84 | Ligue 1 McDonald's | 48k coins | +9.8% | +15.2% | Momentum moderado |
 | Florian Sotoca | 85 | Ligue 1 McDonald's | 28k coins | +39.3% | +14.7% | Esticada |
 | Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 60k coins | +20% | +10.1% | Esticada |
 | Arsène Kouassi | 87 | Ligue 1 McDonald's | 53k coins | +7.8% | +10% | Momentum moderado |
 | Diego Moreira | 84 | Ligue 1 McDonald's | 47k coins | +8.9% | +8.9% | Momentum moderado |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 22k coins | +8.5% | +6.7% | Momentum moderado |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 22k coins | +8.5% | +7.6% | Momentum moderado |
 | Marshall Munetsi | 84 | Ligue 1 McDonald's | 45k coins | +1.1% | +5.3% | Entrada a observar |
 
 
@@ -61,11 +63,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Tanguy Ndombele (85)** — 29k coins, **+82.8% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerónimo Rulli (87)** — 44k coins, **+56.2% em 7 dias** (+35.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (90)** — 92k coins, **+56.7% em 7 dias** (+22.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hamed Junior Traoré (84)** — 48k coins, **+15.2% em 7 dias** (+9.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerónimo Rulli (87)** — 43k coins, **+56.2% em 7 dias** (+35.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Sotoca (85)** — 28k coins, **+14.7% em 7 dias** (+39.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Thauvin (87)** — 54k coins, **+16% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
