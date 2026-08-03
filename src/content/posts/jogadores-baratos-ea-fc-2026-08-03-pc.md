@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:34:22.000Z
+pubDatetime: 2026-08-03T22:34:19.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 10.785 coins.
+- **Preço médio das 12 opções:** 9.654 coins.
 - **Posição mais frequente:** LW, com 2 cartas.
-- **Faixa real:** 4.600 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,11 +45,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Willian Pacho | 90 | CB | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Fabián Ruiz | 88 | CM | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 11.000 coins | +5.5% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
+| Aron Dønnum | 87 | RM | Ligue 1 McDonald's | 13.500 coins | +8.8% |
 | Bradley Barcola | 87 | LW | Ligue 1 McDonald's | 13.500 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.250 coins | 0% |
-| Achraf Hakimi | 84 | RB | Ligue 1 McDonald's | 4.600 coins | +2.3% |
+| Vitinha | 85 | CM | Ligue 1 McDonald's | 3.700 coins | -7.5% |
+| Achraf Hakimi | 84 | RB | Ligue 1 McDonald's | 4.400 coins | -4.2% |
+| Nuno Mendes | 83 | LB | Ligue 1 McDonald's | 2.000 coins | -9.1% |
 
 
 ## 📈 Destaques

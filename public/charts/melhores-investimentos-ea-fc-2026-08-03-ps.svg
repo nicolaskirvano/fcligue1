@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Timothy Weah</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+63.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
-<rect x="285" y="153" width="405" height="28" rx="7" fill="#22c55e"/>
-<text x="700" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<rect x="285" y="153" width="438" height="28" rx="7" fill="#22c55e"/>
+<text x="733" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.1%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerónimo Rulli</text>
-<rect x="285" y="211" width="394" height="28" rx="7" fill="#22c55e"/>
-<text x="689" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.7%</text>
+<rect x="285" y="211" width="437" height="28" rx="7" fill="#22c55e"/>
+<text x="732" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.0%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Guéla Doué</text>
-<rect x="285" y="269" width="381" height="28" rx="7" fill="#22c55e"/>
-<text x="676" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
-<rect x="285" y="327" width="278" height="28" rx="7" fill="#22c55e"/>
-<text x="573" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lukáš Hrádecký</text>
-<rect x="285" y="385" width="195" height="28" rx="7" fill="#22c55e"/>
-<text x="490" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.6%</text>
+<rect x="285" y="269" width="391" height="28" rx="7" fill="#22c55e"/>
+<text x="686" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dante</text>
+<rect x="285" y="327" width="297" height="28" rx="7" fill="#22c55e"/>
+<text x="592" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Dembélé</text>
+<rect x="285" y="385" width="289" height="28" rx="7" fill="#22c55e"/>
+<text x="584" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.4%</text>
 </svg>

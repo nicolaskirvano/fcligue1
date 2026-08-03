@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:34:19.000Z
+pubDatetime: 2026-08-03T22:34:17.000Z
 title: "Mercado EA FC em 03/08: Ligue 1 — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Marquinhos (88, Ligue 1 McDonald's), com +58% em 24h, a 40k coins no PC."
+    a: "Blaise Matuidi (86, Ligue 1 McDonald's), com +50% em 24h, a 113k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Matias Fernandez-Pardo (87), -46.2% em 24h, a 42k coins."
+    a: "Ben Chilwell (90), -42.2% em 24h, a 30k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 42 cartas em alta contra 40 em queda (média -2.05%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 32 cartas em alta contra 46 em queda (média -3.72%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **42 subiram**, **40 caíram** (80+ e 5k+ coins), média de **-2.05%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **32 subiram**, **46 caíram** (80+ e 5k+ coins), média de **-3.72%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Marquinhos (88) **+58%** · 🔴 **Maior baixa:** Matias Fernandez-Pardo (87) **-46.2%**
+> 🟢 **Maior alta:** Blaise Matuidi (86) **+50%** · 🔴 **Maior baixa:** Ben Chilwell (90) **-42.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Ligue 1 — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.2% entre as cartas que se moveram; o universo observado reúne 118 cartas.
+- **Amplitude do dia:** 92.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.0% entre as cartas que se moveram; o universo observado reúne 118 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marquinhos | 88 | Ligue 1 McDonald's | 40k coins | +58% | +11.9% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 32k coins | +56.1% | +116.9% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 49k coins | +51.9% | +46.3% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 32k coins | +42.1% | -25% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 30k coins | +40% | +8.2% |
-| João Neves | 88 | Ligue 1 McDonald's | 110k coins | +39.2% | +37.5% |
-| João Neves | 86 | Ligue 1 McDonald's | 160k coins | +37.9% | +6% |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 32k coins | +32% | +11.9% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 100k coins | +25.2% | +19.2% |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 56k coins | +24.4% | -17% |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 113k coins | +50% | +100% |
+| Marquinhos | 88 | Ligue 1 McDonald's | 31k coins | +45.9% | -3.6% |
+| João Neves | 86 | Ligue 1 McDonald's | 160k coins | +37.9% | +27% |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 37k coins | +37% | +150.8% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 31k coins | +34.8% | +1.6% |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 30k coins | +31.2% | +13.5% |
+| Pavel Šulc | 86 | Ligue 1 McDonald's | 46k coins | +28.2% | +7.1% |
+| João Neves | 88 | Ligue 1 McDonald's | 110k coins | +27.2% | +54.9% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 97k coins | +25.2% | +24.4% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 88k coins | +22.3% | +81.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marquinhos (88)** subiu **+58%** em 24h, a **40k coins** (faixa do dia: 28k–60k). Está em linha com a média de 7 dias (-5%).
+- **Blaise Matuidi (86)** subiu **+50%** em 24h, a **113k coins** (faixa do dia: 77k–122k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Tanguy Ndombele (85)** subiu **+56.1%** em 24h, a **32k coins** (faixa do dia: 20k–38k). Está em linha com a média de 7 dias (-0%).
+- **Marquinhos (88)** subiu **+45.9%** em 24h, a **31k coins** (faixa do dia: 28k–60k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Ethan Nwaneri (91)** subiu **+51.9%** em 24h, a **49k coins** (faixa do dia: 30k–70k). Está em linha com a média de 7 dias (+5%).
+- **João Neves (86)** subiu **+37.9%** em 24h, a **160k coins** (faixa do dia: 95k–160k). Está +31% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 42k coins | -46.2% | -38.7% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 910k coins | -39.3% | -54.5% |
-| Félix Correia | 89 | Ligue 1 McDonald's | 23k coins | -33.6% | +22.4% |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 709k coins | -29% | -45.4% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 30k coins | -42.2% | -10.5% |
+| Paul Pogba | 89 | Ligue 1 McDonald's | 709k coins | -29.1% | -45.5% |
 | Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 645k coins | -28.3% | -28.3% |
 | Florian Thauvin | 87 | Ligue 1 McDonald's | 54k coins | -22.1% | -3.5% |
-| Vitinha | 90 | Ligue 1 McDonald's | 285k coins | -18.6% | -18.6% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 41k coins | -18% | -44.8% |
-| Igor Paixão | 87 | Ligue 1 McDonald's | 46k coins | -16.7% | -32.1% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 311k coins | -15.3% | +133.3% |
+| Vitinha | 90 | Ligue 1 McDonald's | 256k coins | -21.1% | -13.3% |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 56k coins | -20.7% | -17.8% |
+| Arsène Kouassi | 87 | Ligue 1 McDonald's | 50k coins | -20.6% | -2% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 307k coins | -13.8% | +127.4% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 43k coins | -13.1% | -5.5% |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 63k coins | -10.5% | +4.6% |
 
 
 ### Análise das baixas
 
-- **Matias Fernandez-Pardo (87)** caiu **-46.2%** em 24h, a **42k coins** (faixa do dia: 42k–78k). Está -37% abaixo da média de 7 dias (descontada).
+- **Ben Chilwell (90)** caiu **-42.2%** em 24h, a **30k coins** (faixa do dia: 16.500–55k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Désiré Doué (91)** caiu **-39.3%** em 24h, a **910k coins** (faixa do dia: 910k–1.50M). Está -39% abaixo da média de 7 dias (descontada).
+- **Paul Pogba (89)** caiu **-29.1%** em 24h, a **709k coins** (faixa do dia: 708k–1.10M). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Félix Correia (89)** caiu **-33.6%** em 24h, a **23k coins** (faixa do dia: 11.250–37k). Está -14% abaixo da média de 7 dias (descontada).
+- **Khvicha Kvaratskhelia (91)** caiu **-28.3%** em 24h, a **645k coins** (faixa do dia: 645k–899k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marquinhos já avançou 58% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Blaise Matuidi já avançou 50% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Matias Fernandez-Pardo recuou -46.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ben Chilwell recuou -42.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Marquinhos (88, Ligue 1 McDonald's), com +58% em 24h, a 40k coins no PC.
+Blaise Matuidi (86, Ligue 1 McDonald's), com +50% em 24h, a 113k coins no PC.
 
 **E a maior queda do dia?**
-Matias Fernandez-Pardo (87), -46.2% em 24h, a 42k coins.
+Ben Chilwell (90), -42.2% em 24h, a 30k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 42 cartas em alta contra 40 em queda (média -2.05%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 32 cartas em alta contra 46 em queda (média -3.72%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
