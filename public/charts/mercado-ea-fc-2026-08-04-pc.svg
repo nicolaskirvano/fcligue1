@@ -1,25 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="463" viewBox="0 0 900 463" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="347" viewBox="0 0 900 347" role="img" aria-labelledby="title desc">
 <title id="title">Variação em 24h: Mercado EA FC em 04/08: Ligue 1 — PC</title>
 <desc id="desc">Gráfico gerado a partir da tabela publicada neste artigo.</desc>
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ismaëlo Ganiou</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marquinhos</text>
-<rect x="285" y="153" width="430" height="28" rx="7" fill="#22c55e"/>
-<text x="725" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charlie Cresswell</text>
-<rect x="285" y="211" width="190" height="28" rx="7" fill="#22c55e"/>
-<text x="485" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
-<rect x="285" y="269" width="172" height="28" rx="7" fill="#22c55e"/>
-<text x="467" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
-<rect x="285" y="327" width="112" height="28" rx="7" fill="#22c55e"/>
-<text x="407" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roman Yaremchuk</text>
-<rect x="285" y="385" width="99" height="28" rx="7" fill="#22c55e"/>
-<text x="394" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+3.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ben Chilwell</text>
+<rect x="285" y="153" width="132" height="28" rx="7" fill="#22c55e"/>
+<text x="427" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Neves</text>
+<rect x="285" y="211" width="132" height="28" rx="7" fill="#22c55e"/>
+<text x="427" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Benjamin Pavard</text>
+<rect x="285" y="269" width="52" height="28" rx="7" fill="#22c55e"/>
+<text x="347" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.6%</text>
 </svg>
