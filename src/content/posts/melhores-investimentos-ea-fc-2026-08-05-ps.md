@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T19:34:08.000Z
+pubDatetime: 2026-08-05T22:34:08.000Z
 title: "Investimentos EA FC: Ligue 1 em 05/08 — Console (PS)"
 draft: false
 featured: true
