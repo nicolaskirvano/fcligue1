@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T13:34:18.000Z
+pubDatetime: 2026-08-05T16:34:16.000Z
 title: "Mercado EA FC em 05/08: Ligue 1 — PC"
 draft: false
 featured: true
