@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T10:34:10.000Z
+pubDatetime: 2026-08-07T13:34:12.000Z
 title: "Jogadores baratos EA FC: Ligue 1 em 07/08 — Console (PS)"
 draft: false
 featured: false
